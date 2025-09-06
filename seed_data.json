@@ -185,9 +185,9 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",
     "genre": "BUSINESS",
     "streams": [
-	{ "url": "https://fl3.moveonjoy.com/CNBC_World/index.m3u8", "region": "Global" }
-    { "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8", "region": "IN" }
-	{ "url": "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8", "region": "UK" }
+	{ "url": "https://fl3.moveonjoy.com/CNBC_World/index.m3u8", "region": "Global" },
+    { "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8", "region": "IN" },
+	{ "url": "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8", "region": "UK" },
 	{ "url": "https://fl3.moveonjoy.com/CNBC/index.m3u8", "region": "US" }
     ]
   },
@@ -423,7 +423,7 @@
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
     "genre": "KIDS",
     "streams": [
-       {"url": "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8", "region": "DE"}
+       {"url": "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8", "region": "DE"},
 	   {"url": "https://fl5.moveonjoy.com/DISNEY/index.m3u8c", "region": "DE"}
     ]
   },
@@ -481,7 +481,7 @@
   {
     "id": 46,
     "name": "Nickelodeon",
-    "logoUrl": "https://i.imgur.com/tMfEsVr.png,
+    "logoUrl": "https://i.imgur.com/tMfEsVr.png",
     "genre": "KIDS",
     "streams": [
     {"url": "https://live.tvfix.org/live/niko/index.m3u8", "region": "US"},
