@@ -1,5 +1,18 @@
 [
  
+    {
+    "id": 0,
+    "name": "OnGo Channel",
+    "logoUrl": "",
+    "genre": "",
+    "streams": [
+    {"url": "", "region": "MW"}
+	]
+  },
+  
+  
+  
+ 
    {  
   "id": 1,
     "name": "BBC 3 CBBC",
@@ -119,7 +132,7 @@
   { 
   "id": 12,
     "name": "Food Network",
-    "logoUrl": "https://i.imgur.com/cBOkQtS.png",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png",
     "genre": "FOOD",
     "streams": [
 	  { "url": "http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8", "region": "US" }
@@ -162,7 +175,7 @@
   {
     "id": 16,
     "name": "Ausbiz TV",
-    "logoUrl": "https://i.imgur.com/6NyFLAm.png",
+    "logoUrl": "https://i.imgur.com/8vGGdB0.png",
     "genre": "BUSINESS",
     "streams": [
    { "url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8", "region": "AU" }
@@ -303,11 +316,21 @@
 
   { 
   "id": 29,
-    "name": "BBC Four",
-    "logoUrl": "https://i.imgur.com/Tiy3Ur2.png",
+    "name": "Channel S",
+    "logoUrl": "https://i.postimg.cc/0N76mtCB/channels.png",
     "genre": "CULTURE",
     "streams": [
-	{ "url": "https://streamer.nexyl.uk/48559ccd-6400-457d-8acc-06b9e24c2ed8.m3u8", "region": "UK" }
+	{ "url": "https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8", "region": "UK" }
+    ]
+  },
+  
+    { 
+  "id": 30,
+    "name": "Fox Soul",
+    "logoUrl": "https://i.imgur.com/YIamDGn.png",
+    "genre": "CULTURE",
+    "streams": [
+	{ "url": "https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8", "region": "US" }
     ]
   },
   
@@ -315,7 +338,7 @@
 
 
   { 
-  "id": 30,
+  "id": 31,
     "name": "BBC Earth",
     "logoUrl": "https://i.imgur.com/nGSsUd4.png",
     "genre": "DOCUMENTARY",
@@ -325,7 +348,7 @@
   },
   
   { 
-  "id": 31,
+  "id": 32,
     "name": "Court TV",
     "logoUrl": "https://i.imgur.com/qkfe3o9.png",
     "genre": "DOCUMENTARY",
@@ -335,7 +358,7 @@
   },
   
   {  
-  "id": 32,
+  "id": 33,
     "name": "History",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",
     "genre": "DOCUMENTARY",
@@ -345,7 +368,7 @@
   },
   
   {  
-  "id": 33,
+  "id": 34,
     "name": "Law & Crime",
     "logoUrl": "https://yt3.googleusercontent.com/CRP3YudPa55QypbDnIvuh3erLZTsn2HK8ESR-2fJFFiLJVf7US2CKQELCKK_UowmHA3wCjAdxg=s512-c-k-c0x00ffffff-no-rj",
     "genre": "DOCUMENTARY",
@@ -355,7 +378,7 @@
   },
   
   {  
-  "id": 34,
+  "id": 35,
     "name": "Millitary History",
     "logoUrl": "https://i.imgur.com/S1SnpoA.png",
     "genre": "DOCUMENTARY",
@@ -365,7 +388,7 @@
   },
   
   {  
-  "id": 35,
+  "id": 36,
     "name": "National Geographic",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
     "genre": "DOCUMENTARY",
@@ -375,7 +398,7 @@
   },
   
   {  
-  "id": 366,
+  "id": 37,
     "name": "National Geographic Wild",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
     "genre": "DOCUMENTARY",
@@ -385,9 +408,9 @@
   },
   
     {  
-  "id": 37,
+  "id": 38,
     "name": "Sky History",
-    "logoUrl": "",
+    "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1875.png",
     "genre": "DOCUMENTARY",
     "streams": [
 	{ "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/16037/index.m3u8", "region": "UK" }
@@ -398,7 +421,7 @@
 
 
  {
-    "id": 38,
+    "id": 39,
     "name": "ABC ME",
     "logoUrl": "https://i.imgur.com/6NyFLAm.png",
     "genre": "KIDS",
@@ -408,7 +431,7 @@
   },
   
   {
-    "id": 39,
+    "id": 40,
     "name": "BabyFirst",
     "logoUrl": "https://i.imgur.com/WxLHBwu.png",
     "genre": "KIDS",
@@ -418,18 +441,18 @@
   },
   
   {
-    "id": 40,
+    "id": 41,
     "name": "Disnep Channel",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
     "genre": "KIDS",
     "streams": [
        {"url": "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8", "region": "DE"},
-	   {"url": "https://fl5.moveonjoy.com/DISNEY/index.m3u8c", "region": "DE"}
+	   {"url": "https://fl5.moveonjoy.com/DISNEY/index.m3u8c", "region": "US"}
     ]
   },
   
   {
-    "id": 41,
+    "id": 42,
     "name": "DISNEY Jnr",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
     "genre": "KIDS",
@@ -439,7 +462,7 @@
   },
   
   {
-    "id": 42,
+    "id": 43,
     "name": "DISNEY XD",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
     "genre": "KIDS",
@@ -449,7 +472,7 @@
   },
   
   {
-    "id": 43,
+    "id": 44,
     "name": "LEGO Kids",
     "logoUrl": "https://i.imgur.com/tMfEsVr.png",
     "genre": "KIDS",
@@ -459,7 +482,7 @@
   },
   
   {
-    "id": 44,
+    "id": 45,
     "name": "M-Net Kids",
     "logoUrl": "https://i.imgur.com/SbKkpuH.png",
     "genre": "KIDS",
@@ -469,7 +492,7 @@
   },
   
   {
-    "id": 45,
+    "id": 46,
     "name": "Moonbug Kids",
     "logoUrl": "https://i.imgur.com/vZHtxQb.png",
     "genre": "KIDS",
@@ -479,9 +502,9 @@
   },
   
   {
-    "id": 46,
+    "id": 47,
     "name": "Nickelodeon",
-    "logoUrl": "https://i.imgur.com/tMfEsVr.png",
+    "logoUrl": "https://i.imgur.com/E84jnP8.png",
     "genre": "KIDS",
     "streams": [
     {"url": "https://live.tvfix.org/live/niko/index.m3u8", "region": "US"},
@@ -490,9 +513,9 @@
   },
   
   {
-    "id": 47,
-    "name": "Nickenite",
-    "logoUrl": "https://i.imgur.com/E84jnP8.png",
+    "id": 48,
+    "name": "Nick@nite",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Nick_at_Nite_Splat_2023_%28outline%29.svg/800px-Nick_at_Nite_Splat_2023_%28outline%29.svg.png",
     "genre": "KIDS",
     "streams": [
        {"url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8", "region": "US"}
@@ -500,9 +523,9 @@
   },
   
   {
-    "id": 48,
+    "id": 49,
     "name": "PBS Kids",
-    "logoUrl": "https://i.imgur.com/fGUlCY3.png",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/e/e3/PBS_Kids_logo_%282022%29.svg",
     "genre": "LIFESTYLE",
     "streams": [
     {"url": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8", "region": "AU"}
@@ -510,7 +533,7 @@
   },
   
   {
-    "id": 49,
+    "id": 50,
     "name": "POP",
     "logoUrl": "https://i.imgur.com/fGUlCY3.png",
     "genre": "KIDS",
@@ -523,7 +546,7 @@
 
 
   {  
-  "id": 50,
+  "id": 51,
     "name": "A&E",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
     "genre": "ENTERTAINMENT",
@@ -533,9 +556,9 @@
   },
   
   {  
-  "id": 51,
+  "id": 52,
     "name": "AfroLand TV",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/df/A%26E_Network_logo.svg/512px-A%26E_Network_logo.svg.png",
+    "logoUrl": "https://i.imgur.com/jvnkrEF.png",
     "genre": "ENTERTAINMENT",
     "streams": [
 	{ "url": "https://alt-al.otteravision.com/alt/al/al.m3u8", "region": "US" }
@@ -543,18 +566,18 @@
   },
   
   {  
-  "id": 52,
+  "id": 53,
     "name": "AMC Network",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/34/AMC_logo_2019.svg/512px-AMC_logo_2019.svg.png",
     "genre": "ENTERTAINMENT",
     "streams": [
-	{ "url": "http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/1083/index.m3u8", "region": "US"},
-	{ "url": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8", "region": "US"}
+	{ "url": "http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/1083/index.m3u8", "region": "US-1"},
+	{ "url": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8", "region": "US-2"}
     ]
   },
   
    {  
-  "id": 53,
+  "id": 54,
     "name": "BBC One",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8b/BBC_One_logo_2021.svg/512px-BBC_One_logo_2021.svg.png",
     "genre": "ENTERTAINMENT",
@@ -564,7 +587,7 @@
   },
   
    {  
-  "id": 54,
+  "id": 55,
     "name": "BBC Two",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/1/15/BBC_Two_logo_2021.svg/512px-BBC_Two_logo_2021.svg.png",
     "genre": "ENTERTAINMENT",
@@ -574,7 +597,7 @@
   },
   
    {  
-  "id": 55,
+  "id": 56,
     "name": "BBC Three",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/76/BBC_Three_2022.svg/512px-BBC_Three_2022.svg.png",
     "genre": "ENTERTAINMENT",
@@ -584,7 +607,7 @@
   },
   
     {  
-  "id": 56,
+  "id": 57,
     "name": "BBC Four",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/6d/BBC_Four_logo_2021.svg/512px-BBC_Four_logo_2021.svg.png",
     "genre": "ENTERTAINMENT",
@@ -594,7 +617,7 @@
   },
   
   {  
-  "id": 57,
+  "id": 58,
     "name": "BBC America",
     "logoUrl": "https://i.imgur.com/pTiiPz0.png",
     "genre": "ENTERTAINMENT",
@@ -604,9 +627,9 @@
   },
   
   {  
-  "id": 58,
+  "id": 59,
     "name": "BBC Entertainment",
-    "logoUrl": "https://i.imgur.com/pTiiPz0.png",
+    "logoUrl": "https://i.imgur.com/fx2z8M1.png",
     "genre": "ENTERTAINMENT",
     "streams": [
 	{ "url": "", "region": "UK"}
@@ -614,7 +637,7 @@
   },
   
   {
-    "id": 59,
+    "id": 60,
     "name": "BET",
     "logoUrl": "https://i.imgur.com/L2LZpsj.png",
     "genre": "ENTERTAINMENT",
@@ -624,7 +647,7 @@
   },
   
   {
-    "id": 60,
+    "id": 61,
     "name": "BET Gospel",
     "logoUrl": "https://i.imgur.com/jbOkq8C.png",
     "genre": "ENTERTAINMENT",
@@ -634,7 +657,7 @@
   },
   
   {  
-  "id": 61,
+  "id": 62,
     "name": "Blaze",
     "logoUrl": "https://i.imgur.com/6UcPWP9.png",
     "genre": "ENTERTAINMENT",
@@ -644,7 +667,7 @@
   },
   
    {  
-  "id": 62,
+  "id": 63,
     "name": "Bravo",
     "logoUrl": "https://i.imgur.com/JmTIRLF.png",
     "genre": "ENTERTAINMENT",
@@ -654,7 +677,7 @@
   },
   
    {  
-  "id": 63,
+  "id": 64,
     "name": "CBS",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
     "genre": "ENTERTAINMENT",
@@ -664,7 +687,7 @@
   },
   
    {  
-  "id": 64,
+  "id": 65,
     "name": "Cinemax",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png",
     "genre": "ENTERTAINMENT",
@@ -674,7 +697,7 @@
   },
   
    {  
-  "id": 65,
+  "id": 66,
     "name": "Channel 4",
     "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",
     "genre": "ENTERTAINMENT",
@@ -684,7 +707,7 @@
   },
   
   {  
-  "id": 66,
+  "id": 67,
     "name": "Crime+Investigations",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
     "genre": "ENTERTAINMENT",
@@ -694,7 +717,7 @@
   },
   
     {  
-  "id": 67,
+  "id": 68,
     "name": "Dave",
     "logoUrl": "",
     "genre": "ENTERTAINMENT",
@@ -704,7 +727,7 @@
   },
   
   {  
-  "id": 68,
+  "id": 69,
     "name": "E!",
     "logoUrl": "https://i.imgur.com/TWFDkap.png",
     "genre": "ENTERTAINMENT",
@@ -714,7 +737,7 @@
   },
   
     {  
-  "id": 69,
+  "id": 70,
     "name": "Fox",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/512px-FOX_wordmark-orange.svg.png",
     "genre": "ENTERTAINMENT",
@@ -724,7 +747,7 @@
   },
   
   {  
-  "id": 70,
+  "id": 71,
     "name": "Freebie TV",
     "logoUrl": "https://i.imgur.com/KbmXdjm.png",
     "genre": "ENTERTAINMENT",
@@ -734,9 +757,9 @@
   },
   
   {  
-  "id": 71,
+  "id": 72,
     "name": "FX",
-    "logoUrl": "https://i.imgur.com/KbmXdjm.png",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png",
     "genre": "ENTERTAINMENT",
     "streams": [
 	{ "url": "https://fl5.moveonjoy.com/FX/index.m3u8", "region": "US" }
@@ -744,9 +767,9 @@
   },
   
   {
-	"id": 72,
+	"id": 73,
     "name": "FXM",
-    "logoUrl": "https://i.postimg.cc/j27hBV04/fxm.png",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png",
     "genre": "ENTERTAINMENT",
     "streams": [
 	{ "url": "https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8", "region": "US" }
@@ -754,7 +777,7 @@
   },
   
   {
-    "id": 73,
+    "id": 74,
     "name": "FXX",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png",
     "genre": "ENTERTAINMENT",
@@ -764,7 +787,7 @@
   },
 	
   {
-    "id": 74,
+    "id": 75,
     "name": "Game Show Network",
     "logoUrl": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg",
     "genre": "ENTERTAINMENT",
@@ -774,7 +797,7 @@
   },
   
   {
-    "id": 75,
+    "id": 76,
     "name": "itv 1",
     "logoUrl": "https://i.imgur.com/xwPekCF.png",
     "genre": "ENTERTAINMENT",
@@ -784,7 +807,7 @@
   },
   
     {
-    "id": 76,
+    "id": 77,
     "name": "itv 2",
     "logoUrl": "https://i.imgur.com/2BpUK0W.png",
     "genre": "ENTERTAINMENT",
@@ -794,7 +817,7 @@
   },
   
     {
-    "id": 77,
+    "id": 78,
     "name": "itv 3",
     "logoUrl": "https://i.imgur.com/JuyM2z5.png",
     "genre": "ENTERTAINMENT",
@@ -804,7 +827,7 @@
   },
   
     {
-    "id": 78,
+    "id": 79,
     "name": "itv 4",
     "logoUrl": "https://i.imgur.com/DYI4IA2.png",
     "genre": "ENTERTAINMENT",
@@ -814,7 +837,7 @@
   },
   
    {  
-  "id": 79,
+  "id": 80,
     "name": "More4",
     "logoUrl": "https://i.imgur.com/cx5YcAU.png",
     "genre": "ENTERTAINMENT",
@@ -824,7 +847,7 @@
   },
   
    {  
-  "id": 80,
+  "id": 81,
     "name": "MTV",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
     "genre": "ENTERTAINMENT",
@@ -834,7 +857,7 @@
   },
   
    {  
-  "id": 81,
+  "id": 82,
     "name": "Showtime",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
     "genre": "ENTERTAINMENT",
@@ -844,9 +867,9 @@
   },
   
    {  
-  "id": 82,
+  "id": 83,
     "name": "Showtime 2",
-    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg",
     "genre": "ENTERTAINMENT",
     "streams": [
 	{ "url": "https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8", "region": "UK" }
@@ -854,7 +877,7 @@
   },
   
   {  
-  "id": 83,
+  "id": 84,
     "name": "Starz",
     "logoUrl": "https://i.imgur.com/N7oSm4d.png",
     "genre": "ENTERTAINMENT",
@@ -864,7 +887,7 @@
   },
   
    {  
-  "id": 84,
+  "id": 85,
     "name": "SYFY",
     "logoUrl": "https://i.imgur.com/4fMWhUE.png",
     "genre": "ENTERTAINMENT",
@@ -874,9 +897,9 @@
   },
   
   {  
-  "id": 85,
+  "id": 86,
     "name": "USA Network",
-    "logoUrl": "https://i.imgur.com/4fMWhUE.png",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
     "genre": "ENTERTAINMENT",
     "streams": [
 	  { "url": "http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8", "region": "UK" }
@@ -887,7 +910,7 @@
 
 
   {
-    "id": 86,
+    "id": 87,
     "name": "&FLIX",
     "logoUrl": "https://i.imgur.com/WOyfzjC.png",
     "genre": "MOVIES",
@@ -897,7 +920,7 @@
   },
   
   {
-    "id": 87,
+    "id": 88,
     "name": "B4U Movies",
     "logoUrl": "https://i.imgur.com/M9kMFJl.png",
     "genre": "MOVIES",
@@ -907,7 +930,7 @@
   },
   
     {
-    "id": 88,
+    "id": 89,
     "name": "Cinemax Moremax",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png",
     "genre": "MOVIES",
@@ -917,7 +940,7 @@
   },
   
   {
-    "id": 89,
+    "id": 90,
     "name": "crave 2",
     "logoUrl": "https://i.imgur.com/e1qJ5Bp.png",
     "genre": "MOVIES",
@@ -927,7 +950,7 @@
   },
   
   {
-    "id": 90,
+    "id": 91,
     "name": "crave 3",
     "logoUrl": "https://i.imgur.com/kOi0Adn.png",
     "genre": "MOVIES",
@@ -937,7 +960,7 @@
   },
   
   {
-    "id": 91,
+    "id": 92,
     "name": "crave 4",
     "logoUrl": "https://i.imgur.com/MyH3Q2p.png",
     "genre": "MOVIES",
@@ -947,7 +970,7 @@
   },
   
   {
-    "id": 92,
+    "id": 93,
     "name": "Discover Film",
     "logoUrl": "https://i.imgur.com/oMnpsQ5.png",
     "genre": "MOVIES",
@@ -957,7 +980,7 @@
   },
   
     {
-    "id": 93,
+    "id": 94,
     "name": "Film 4",
     "logoUrl": "https://i.imgur.com/MTSgoGI.png",
     "genre": "MOVIES",
@@ -967,7 +990,7 @@
   },
   
     {
-    "id": 94,
+    "id": 95,
     "name": "Hallmark Channel",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png",
     "genre": "MOVIES",
@@ -977,7 +1000,7 @@
   },
   
     {
-    "id": 95,
+    "id": 96,
     "name": "HBO",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",
     "genre": "MOVIES",
@@ -987,7 +1010,7 @@
   },
   
   {
-    "id": 96,
+    "id": 97,
     "name": "iFilm",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
     "genre": "MOVIES",
@@ -997,7 +1020,7 @@
   }, 
   
   {
-    "id": 97,
+    "id": 98,
     "name": "Indywood TV",
     "logoUrl": "https://i.ibb.co/jT3NCPp/logo-tv.png",
     "genre": "MOVIES",
@@ -1007,7 +1030,7 @@
   },
   
     {
-    "id": 98,
+    "id": 99,
     "name": "Lifetime Movie Network",
     "logoUrl": "https://i.imgur.com/AHP3J12.png",
     "genre": "MOVIES",
@@ -1017,7 +1040,7 @@
   },
   
     {
-    "id": 99,
+    "id": 100,
     "name": "MGM+",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/49/MGM%2B_logo.svg/512px-MGM%2B_logo.svg.png",
     "genre": "MOVIES",
@@ -1027,7 +1050,7 @@
   },
   
     {
-    "id": 100,
+    "id": 101,
     "name": "Paramount Network",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
     "genre": "MOVIES",
@@ -1037,9 +1060,9 @@
   },
   
   {
-    "id": 101,
+    "id": 102,
     "name": "TCM",
-    "logoUrl": "https://i.imgur.com/MyH3Q2p.png",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png",
     "genre": "MOVIES",
     "streams": [
     {"url": "http://143.244.60.30/TCM/index.m3u8", "region": "CA"}
@@ -1047,7 +1070,7 @@
   },
   
   {
-    "id": 102,
+    "id": 103,
     "name": "TNT",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png",
     "genre": "MOVIES",
@@ -1055,12 +1078,12 @@
     {"url": "http://fl3.moveonjoy.com/TNT/index.m3u8", "region": "CA"}
 	]
   },
-  
+    
   
   
 
   {
-    "id": 103,
+    "id": 104,
     "name": "Afrobeat TV",
     "logoUrl": "https://i.imgur.com/232ndRK.png",
     "genre": "MUSIC",
@@ -1070,7 +1093,7 @@
   },
   
       {
-    "id": 104,
+    "id": 105,
     "name": "Fresh Hits",
     "logoUrl": "https://i.imgur.com/gcFSxrm.png",
     "genre": "MUSIC",
@@ -1080,7 +1103,7 @@
   },
   
     {
-    "id": 105,
+    "id": 106,
     "name": "Fresh Lyrics",
     "logoUrl": "https://i.imgur.com/gcFSxrm.png",
     "genre": "MUSIC",
@@ -1090,9 +1113,9 @@
   },
   
     {
-    "id": 106,
+    "id": 107,
     "name": "MTV Base",
-    "logoUrl": "https://i.imgur.com/x1zYoCW.png",
+    "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MTV_Base_UK_2021.svg/512px-MTV_Base_UK_2021.svg.png",
     "genre": "MUSIC",
     "streams": [
     {"url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/19192/index.m3u8", "region": "UK"}
@@ -1100,7 +1123,7 @@
   },
   
     {
-    "id": 107,
+    "id": 108
     "name": "MTV Hits",
     "logoUrl": "https://i.imgur.com/x1zYoCW.png",
     "genre": "MUSIC",
@@ -1110,7 +1133,7 @@
   },
   
     {
-    "id": 108,
+    "id": 109,
     "name": "MTV Live",
     "logoUrl": "https://i.imgur.com/3UByLqb.png",
     "genre": "MUSIC",
@@ -1120,7 +1143,7 @@
   },
   
     {
-    "id": 109,
+    "id": 110,
     "name": "NickMusic",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c7/NickMusic.svg/512px-NickMusic.svg.png",
     "genre": "MUSIC",
@@ -1130,8 +1153,8 @@
   },
   
     {
-    "id": 110,
-    "name": "Trace UK",
+    "id": 111,
+    "name": "Trace Hits",
     "logoUrl": "https://i.imgur.com/Vvxz6KX.png",
     "genre": "MUSIC",
     "streams": [
@@ -1140,7 +1163,7 @@
   },
   
     {
-    "id": 111,
+    "id": 112,
     "name": "Trace Urban",
     "logoUrl": "https://i.imgur.com/DLIbUMx.png",
     "genre": "MUSIC",
@@ -1150,7 +1173,7 @@
   },
   
     {
-    "id": 112,
+    "id": 113,
     "name": "VH1",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png",
     "genre": "MUSIC",
@@ -1163,7 +1186,7 @@
   
   
     {
-    "id": 113,
+    "id": 114,
     "name": "ABC News",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
     "genre": "NEWS",
@@ -1173,7 +1196,7 @@
   },
   
   {
-    "id": 114,
+    "id": 115,
     "name": "Aljazeera",
     "logoUrl": "https://i.imgur.com/7bRVpnu.png",
     "genre": "NEWS",
@@ -1183,7 +1206,7 @@
   },
   
   {
-    "id": 115,
+    "id": 116,
     "name": "BBC NEWS",
     "logoUrl": "https://i.imgur.com/vSz2WEp.png",
     "genre": "NEWS",
@@ -1193,7 +1216,7 @@
   },
   
   {
-    "id": 116,
+    "id": 117,
     "name": "CNN",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",
     "genre": "NEWS",
@@ -1203,7 +1226,7 @@
   },
   
   {
-    "id": 117,
+    "id": 118,
     "name": "FOX News",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",
     "genre": "NEWS",
@@ -1213,7 +1236,7 @@
   },
   
   {
-    "id": 118,
+    "id": 119,
     "name": "MSNBC",
     "logoUrl": "https://i.imgur.com/kGUR6NE.png",
     "genre": "NEWS",
@@ -1223,7 +1246,7 @@
   },
   
   {
-    "id": 119,
+    "id": 120,
     "name": "WION News",
     "logoUrl": "https://i.imgur.com/Wc5Z3iS.png",
     "genre": "NEWS",
@@ -1234,7 +1257,7 @@
   
   
     {
-    "id": 120,
+    "id": 121,
     "name": "Big Ten Network",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",
     "genre": "SPORTS",
@@ -1244,7 +1267,7 @@
   },
   
     {
-    "id": 121,
+    "id": 122,
     "name": "CBS Sports Network",
     "logoUrl": "https://i.imgur.com/A8CnA8g.png",
     "genre": "SPORTS",
@@ -1254,7 +1277,7 @@
   },
   
     {
-    "id": 122,
+    "id": 123,
     "name": "ESPN",
     "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
     "genre": "SPORTS",
@@ -1264,7 +1287,7 @@
   },
   
     {
-    "id": 123,
+    "id": 124,
     "name": "ESPN 2",
     "logoUrl": "https://i.imgur.com/00tsvjE.png",
     "genre": "SPORTS",
@@ -1274,7 +1297,7 @@
   },
   
     {
-    "id": 124,
+    "id": 125,
     "name": "Fox Sports 1",
     "logoUrl": "https://i.imgur.com/O9BapV9.png",
     "genre": "SPORTS",
@@ -1284,7 +1307,7 @@
   },
   
    {
-    "id": 125,
+    "id": 126,
     "name": "Fox Sports 2",
     "logoUrl": "https://i.imgur.com/LHtxKI8.png",
     "genre": "SPORTS",
@@ -1294,7 +1317,7 @@
   },
  
     {
-    "id": 126,
+    "id": 127,
     "name": "Sky Sports Cricket",
     "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
     "genre": "SPORTS",
@@ -1304,7 +1327,7 @@
   },
   
     {
-    "id": 127,
+    "id": 128,
     "name": "Sky Sports F1",
     "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
     "genre": "SPORTS",
@@ -1314,7 +1337,7 @@
   },
   
     {
-    "id": 128,
+    "id": 129,
     "name": "Sky Sports Football",
     "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png",
     "genre": "SPORTS",
@@ -1324,7 +1347,7 @@
   },
   
     {
-    "id": 129,
+    "id": 130,
     "name": "Sky Sports Golf",
     "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
     "genre": "SPORTS",
@@ -1334,7 +1357,7 @@
   },
   
     {
-    "id": 130,
+    "id": 131,
     "name": "Sky Sports Main Event",
     "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
     "genre": "SPORTS",
@@ -1344,7 +1367,7 @@
   },
   
     {
-    "id": 131,
+    "id": 132,
     "name": "Sky Sports Mix",
     "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png",
     "genre": "SPORTS",
@@ -1354,7 +1377,7 @@
   },
  
     {
-    "id": 132,
+    "id": 133,
     "name": "Sky Sports News",
     "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1314.png",
     "genre": "SPORTS",
@@ -1364,7 +1387,7 @@
   },
   
     {
-    "id": 133,
+    "id": 134,
     "name": "Sky Sports NFL",
     "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1333.png",
     "genre": "SPORTS",
@@ -1374,7 +1397,7 @@
   },
   
     {
-    "id": 134,
+    "id": 135,
     "name": "Sky Sports Premier League",
     "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png",
     "genre": "SPORTS",
@@ -1384,7 +1407,7 @@
   },
   
     {
-    "id": 135,
+    "id": 136,
     "name": "Sky Sports Racing",
     "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1354.png",
     "genre": "SPORTS",
@@ -1394,7 +1417,7 @@
   },
   
     {
-    "id": 136,
+    "id": 137,
     "name": "TNT Sports 1",
     "logoUrl": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true",
     "genre": "SPORTS",
@@ -1404,7 +1427,7 @@
   },
   
       {
-    "id": 137,
+    "id": 138,
     "name": "TNT Sports 2",
     "logoUrl": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true",
     "genre": "SPORTS",
