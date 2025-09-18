@@ -62,7 +62,7 @@
     {
         "id": 5,
         "name": "Discovery Family",
-        "logoUrl": "",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Family_Logo_%282014%29.svg/500px-Discovery_Family_Logo_%282014%29.svg.png",
         "genre": "LIFESTYLE",
         "streams": [
             {
@@ -126,7 +126,7 @@
     {
         "id": 10,
         "name": "Mognolia Network",
-        "logoUrl": "",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/40/Magnolia_Network.svg/500px-Magnolia_Network.svg.png",
         "genre": "LIFESTYLE",
         "streams": [
             {
