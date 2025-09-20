@@ -322,7 +322,7 @@
             {"url": "https://epg.pw/api/epg.xml?channel_id=403668", "region": "Global"},
             {"url": "", "region": "CA"},
             {"url": "https://epg.pw/api/epg.xml?channel_id=441284", "region": "IN"},
-            {"url": "https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=9545", "region": "UK"},
+            {"url": "https://epg.pw/api/epg.xml?channel_id=9545", "region": "UK"},
             {"url": "https://epg.pw/api/epg.xml?channel_id=403527", "region": "US"}
         ]
     },
@@ -337,6 +337,9 @@
                 "region": "US"
             }
         ],
+        "epgUrl": [
+            {"url": "", "region": ""}
+        ]
     },
     {
         "id": 20,
@@ -348,6 +351,9 @@
                 "url": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
                 "region": "US"
             }
+        ],
+        "epgUrl": [
+            {"url": "", "region": ""}
         ]
     },
     {
@@ -361,6 +367,9 @@
                 "region": "US"
             }
         ],
+        "epgUrl": [
+            {"url": "", "region": ""}
+        ]
     },
     {
         "id": 22,
@@ -373,6 +382,9 @@
                 "region": "NO"
             }
         ],
+        "epgUrl": [
+            {"url": "", "region": ""}
+        ]
     },
     {
         "id": 23,
@@ -385,6 +397,9 @@
                 "region": "DE"
             }
         ],
+        "epgUrl": [
+            {"url": "https://epg.pw/api/epg.xml?channel_id=76630", "region": "DE"}
+        ]
     },
     {
         "id": 24,
@@ -397,6 +412,9 @@
                 "region": "UK"
             }
         ],
+        "epgUrl": [
+            {"url": "", "region": ""}
+        ]
     },
     {
         "id": 25,
@@ -409,6 +427,9 @@
                 "region": "US"
             }
         ],
+        "epgUrl": [
+            {"url": "", "region": ""}
+        ]
     },
     {
         "id": 26,
@@ -425,6 +446,9 @@
                 "region": "US"
             }
         ],
+        "epgUrl": [
+            {"url": "https://epg.pw/api/epg.xml?channel_id=403666", "region": "US"}
+        ]
     },
     {
         "id": 27,
