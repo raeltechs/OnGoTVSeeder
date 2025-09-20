@@ -9,6 +9,9 @@
                 "url": "",
                 "region": "MW"
             }
+        ],
+        "epgUrl": [
+            {"url": "", "region": ""}
         ]
     },
     {
@@ -21,6 +24,9 @@
                 "url": "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8",
                 "region": "UK"
             }
+        ],
+        "epgUrl": [
+            {"url": "", "region": ""}
         ]
     },
     {
@@ -33,6 +39,9 @@
                 "url": "https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8",
                 "region": "US"
             }
+        ],
+        "epgUrl": [
+            {"url": "", "region": ""}
         ]
     },
     {
@@ -45,6 +54,9 @@
                 "url": "https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8",
                 "region": "US"
             }
+        ],
+        "epgUrl": [
+            {"url": "", "region": ""}
         ]
     },
     {
@@ -57,6 +69,9 @@
                 "url": "https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8",
                 "region": "US"
             }
+        ],
+        "epgUrl": [
+            {"url": "", "region": ""}
         ]
     },
     {
@@ -69,6 +84,9 @@
                 "url": "http://tcldyb1y.tvclub.xyz/iptv/YTG7ECXWHLDAL2/30052/index.m3u8",
                 "region": "US"
             }
+        ],
+        "epgUrl": [
+            {"url": "https://epg.pw/api/epg.xml?channel_id=403613", "region": "US"}
         ]
     },
     {
@@ -81,6 +99,9 @@
                 "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8",
                 "region": "US"
             }
+        ],
+        "epgUrl": [
+            {"url": "", "region": ""}
         ]
     },
     {
@@ -93,6 +114,9 @@
                 "url": "https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8",
                 "region": "FR"
             }
+        ],
+        "epgUrl": [
+            {"url": "https://epg.pw/api/epg.xml?channel_id=55949", "region": "FR"}
         ]
     },
     {
@@ -109,6 +133,10 @@
                 "url": "https://fl3.moveonjoy.com/FYI/index.m3u8",
                 "region": "US2"
             }
+        ],
+        "epgUrl": [
+            {"url": "https://epg.pw/api/epg.xml?channel_id=403581", "region": "US1"},
+            {"url": "", "region": ""}
         ]
     },
     {
@@ -121,6 +149,9 @@
                 "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
                 "region": "US"
             }
+        ],
+        "epgUrl": [
+            {"url": "", "region": ""}
         ]
     },
     {
@@ -133,6 +164,9 @@
                 "url": "http://tcldyb1y.tvclub.xyz/iptv/YTG7ECXWHLDAL2/6488/index.m3u8",
                 "region": "US"
             }
+        ],
+        "epgUrl": [
+            {"url": "", "region": ""}
         ]
     },
     {
@@ -153,6 +187,10 @@
                 "url": "http://tcldyb1y.tvclub.xyz/iptv/YTG7ECXWHLDAL2/31098/index.m3u8",
                 "region": "US"
             }
+        ],
+        "epgUrl": [
+            {"url": "https://epg.pw/api/epg.xml?channel_id=404999", "region": "CA"},
+            {"url": "https://epg.pw/api/epg.xml?channel_id=403827", "region": "US"}
         ]
     },
     {
@@ -169,6 +207,9 @@
                 "url": "http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8",
                 "region": "US"
             }
+        ],
+        "epgUrl": [
+            {"url": "https://epg.pw/api/epg.xml?channel_id=403509", "region": "US"}
         ]
     },
     {
@@ -181,6 +222,9 @@
                 "url": "https://ifood-vizio.amagi.tv/playlist.m3u8",
                 "region": "US"
             }
+        ],
+        "epgUrl": [
+            {"url": "", "region": ""}
         ]
     },
     {
@@ -193,6 +237,9 @@
                 "url": "https://gusto-xumo.amagi.tv/playlist.m3u8",
                 "region": "CA"
             }
+        ],
+        "epgUrl": [
+            {"url": "", "region": ""}
         ]
     },
     {
@@ -205,6 +252,9 @@
                 "url": "https://www.30a-tv.com/InvPit.m3u8",
                 "region": "US"
             }
+        ],
+        "epgUrl": [
+            {"url": "", "region": ""}
         ]
     },
     {
@@ -217,6 +267,9 @@
                 "url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
                 "region": "AU"
             }
+        ],
+        "epgUrl": [
+            {"url": "https://epg.pw/api/epg.xml?channel_id=446960", "region": "AU"}
         ]
     },
     {
@@ -233,6 +286,9 @@
                 "url": "https://fl3.moveonjoy.com/BLOOMBERG/index.m3u8",
                 "region": "US"
             }
+        ],
+        "epgUrl": [
+            {"url": "https://epg.pw/api/epg.xml?channel_id=403726", "region": "US"}
         ]
     },
     {
@@ -261,6 +317,13 @@
                 "url": "https://fl3.moveonjoy.com/CNBC/index.m3u8",
                 "region": "US"
             }
+        ],
+        "epgUrl": [
+            {"url": "https://epg.pw/api/epg.xml?channel_id=403668", "region": "Global"},
+            {"url": "", "region": "CA"},
+            {"url": "https://epg.pw/api/epg.xml?channel_id=441284", "region": "IN"},
+            {"url": "https://epg.pw/api/epg.xml?lang=en&date=20250920&channel_id=9545", "region": "UK"},
+            {"url": "https://epg.pw/api/epg.xml?channel_id=403527", "region": "US"}
         ]
     },
     {
@@ -273,7 +336,7 @@
                 "url": "https://fl3.moveonjoy.com/FOX_Business_Network/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 20,
@@ -297,7 +360,7 @@
                 "url": "https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 22,
@@ -309,7 +372,7 @@
                 "url": "https://digicom.hls.iptvdc.com/motorstv/index.m3u8",
                 "region": "NO"
             }
-        ]
+        ],
     },
     {
         "id": 23,
@@ -321,7 +384,7 @@
                 "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8",
                 "region": "DE"
             }
-        ]
+        ],
     },
     {
         "id": 24,
@@ -333,7 +396,7 @@
                 "url": "https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 25,
@@ -345,7 +408,7 @@
                 "url": "https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 26,
@@ -361,7 +424,7 @@
                 "url": "https://fl3.moveonjoy.com/Comedy_Central/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 27,
@@ -373,7 +436,7 @@
                 "url": "https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 28,
@@ -385,7 +448,7 @@
                 "url": "https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 29,
@@ -397,7 +460,7 @@
                 "url": "https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 30,
@@ -409,7 +472,7 @@
                 "url": "https://fl1.moveonjoy.com/FOX_SOUL/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 31,
@@ -421,7 +484,7 @@
                 "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 32,
@@ -433,7 +496,7 @@
                 "url": "https://fl3.moveonjoy.com/COURT_TV/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 33,
@@ -445,7 +508,7 @@
                 "url": "http://tcldyb1y.tvclub.xyz/iptv/YTG7ECXWHLDAL2/30051/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 34,
@@ -461,7 +524,7 @@
                 "url": "https://fl1.moveonjoy.com/history_channel/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 35,
@@ -473,7 +536,7 @@
                 "url": "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 36,
@@ -485,7 +548,7 @@
                 "url": "https://fl3.moveonjoy.com/National_Geographic/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 37,
@@ -497,7 +560,7 @@
                 "url": "https://fl3.moveonjoy.com/Nat_Geo_Wild/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 38,
@@ -509,7 +572,7 @@
                 "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/16037/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 39,
@@ -521,7 +584,7 @@
                 "url": "https://c.mjh.nz/abc-me.m3u8",
                 "region": "AU"
             }
-        ]
+        ],
     },
     {
         "id": 40,
@@ -533,7 +596,7 @@
                 "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 41,
@@ -553,7 +616,7 @@
                 "url": "https://fl5.moveonjoy.com/DISNEY/index.m3u8c",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 42,
@@ -569,7 +632,7 @@
                 "url": "https://fl5.moveonjoy.com/DISNEY_JR/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 43,
@@ -585,7 +648,7 @@
                 "url": "http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/6503/index.m3u8",
                 "region": "CA"
             }
-        ]
+        ],
     },
     {
         "id": 44,
@@ -597,7 +660,7 @@
                 "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 45,
@@ -609,7 +672,7 @@
                 "url": "http://ares.mnet.mk/hls/mnet-kids.m3u8",
                 "region": "MK"
             }
-        ]
+        ],
     },
     {
         "id": 46,
@@ -621,7 +684,7 @@
                 "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 47,
@@ -637,7 +700,7 @@
                 "url": "http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/6504/index.m3u8",
                 "region": "CA"
             }
-        ]
+        ],
     },
     {
         "id": 48,
@@ -649,7 +712,7 @@
                 "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 49,
@@ -661,7 +724,7 @@
                 "url": "https://dce3793146fef017.mediapackage.us-west-2.amazonaws.com/out/v1/55cdf73af7894775ba6de8f57482b66a/CMAF_HLS/index.m3u8",
                 "region": "AU"
             }
-        ]
+        ],
     },
     {
         "id": 50,
@@ -673,7 +736,7 @@
                 "url": "https://narrative-popkids-rakuten.amagi.tv/playlist.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 51,
@@ -693,7 +756,7 @@
                 "url": "https://tvpass.org/live/AEEast/hd",
                 "region": "US2"
             }
-        ]
+        ],
     },
     {
         "id": 52,
@@ -705,7 +768,7 @@
                 "url": "https://alt-al.otteravision.com/alt/al/al.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 53,
@@ -725,7 +788,7 @@
                 "url": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
                 "region": "US-2"
             }
-        ]
+        ],
     },
     {
         "id": 54,
@@ -749,7 +812,7 @@
                 "url": "https://vs-hls-push-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_two_hd/iptv_hd_abr_v1.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 56,
@@ -761,7 +824,7 @@
                 "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/iptv_hd_abr_v1.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 57,
@@ -773,7 +836,7 @@
                 "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_four_hd/iptv_hd_abr_v1.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 58,
@@ -785,7 +848,7 @@
                 "url": "https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 59,
@@ -797,7 +860,7 @@
                 "url": "",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 60,
@@ -809,7 +872,7 @@
                 "url": "http://fl3.moveonjoy.com/BET_EAST/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 61,
@@ -821,7 +884,7 @@
                 "url": "https://fl3.moveonjoy.com/BET_GOSPEL/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 62,
@@ -833,7 +896,7 @@
                 "url": "https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 63,
@@ -849,7 +912,7 @@
                 "url": "http://fl3.moveonjoy.com/BRAVO/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 64,
@@ -865,7 +928,7 @@
                 "url": "http://fl3.moveonjoy.com/CBSEAST/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 65,
@@ -881,7 +944,7 @@
                 "url": "http://fl3.moveonjoy.com/CINEMAX/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 66,
@@ -893,7 +956,7 @@
                 "url": "",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 67,
@@ -909,7 +972,7 @@
                 "url": "https://fl3.moveonjoy.com/Crime_and_Investigation_Network/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 68,
@@ -921,7 +984,7 @@
                 "url": "",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 69,
@@ -937,7 +1000,7 @@
                 "url": "https://fl3.moveonjoy.com/E_ENTERTAINMENT_TELEVISION/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 70,
@@ -949,7 +1012,7 @@
                 "url": "http://fl1.moveonjoy.com/FOX_EAST/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 71,
@@ -961,7 +1024,7 @@
                 "url": "https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 72,
@@ -977,7 +1040,7 @@
                 "url": "https://fl5.moveonjoy.com/FX/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 73,
@@ -989,7 +1052,7 @@
                 "url": "https://fl3.moveonjoy.com/FX_MOVIE/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 74,
@@ -1005,7 +1068,7 @@
                 "url": "https://fl3.moveonjoy.com/FXX/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 75,
@@ -1017,7 +1080,7 @@
                 "url": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 76,
@@ -1029,7 +1092,7 @@
                 "url": "https://viamotionhsi.netplus.ch/live/eds/itv1/browser-HLS8/itv1.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 77,
@@ -1041,7 +1104,7 @@
                 "url": "https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 78,
@@ -1053,7 +1116,7 @@
                 "url": "https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 79,
@@ -1065,7 +1128,7 @@
                 "url": "https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 80,
@@ -1093,7 +1156,7 @@
                 "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/19192/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 82,
@@ -1105,7 +1168,7 @@
                 "url": "http://fl3.moveonjoy.com/SHOWTIME/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 83,
@@ -1117,7 +1180,7 @@
                 "url": "https://fl3.moveonjoy.com/SHOWTIME_2/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 84,
@@ -1129,7 +1192,7 @@
                 "url": "http://fl3.moveonjoy.com/STARZ/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 85,
@@ -1141,7 +1204,7 @@
                 "url": "https://fl3.moveonjoy.com/SYFY/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 86,
@@ -1157,7 +1220,7 @@
                 "url": "http://fl3.moveonjoy.com/USA_NETWORK/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 87,
@@ -1169,7 +1232,7 @@
                 "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8",
                 "region": "IN"
             }
-        ]
+        ],
     },
     {
         "id": 88,
@@ -1185,7 +1248,7 @@
                 "url": "",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 89,
@@ -1197,7 +1260,7 @@
                 "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/6152/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 90,
@@ -1209,7 +1272,7 @@
                 "url": "https://fl3.moveonjoy.com/CRAVE_2/index.m3u8",
                 "region": "CA"
             }
-        ]
+        ],
     },
     {
         "id": 91,
@@ -1221,7 +1284,7 @@
                 "url": "https://fl3.moveonjoy.com/CRAVE_3/index.m3u8",
                 "region": "CA"
             }
-        ]
+        ],
     },
     {
         "id": 92,
@@ -1233,7 +1296,7 @@
                 "url": "https://fl3.moveonjoy.com/CRAVE_4/index.m3u8",
                 "region": "CA"
             }
-        ]
+        ],
     },
     {
         "id": 93,
@@ -1245,7 +1308,7 @@
                 "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 94,
@@ -1257,7 +1320,7 @@
                 "url": "https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 95,
@@ -1269,7 +1332,7 @@
                 "url": "http://fl3.moveonjoy.com/HALLMARK_CHANNEL/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 96,
@@ -1281,7 +1344,7 @@
                 "url": "http://fl3.moveonjoy.com/HBO/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 97,
@@ -1293,7 +1356,7 @@
                 "url": "https://live.presstv.ir/hls/ifilmen.m3u8c",
                 "region": "IR"
             }
-        ]
+        ],
     },
     {
         "id": 98,
@@ -1305,7 +1368,7 @@
                 "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
                 "region": "IN"
             }
-        ]
+        ],
     },
     {
         "id": 99,
@@ -1321,7 +1384,7 @@
                 "url": "http://fl3.moveonjoy.com/LIFETIME_MOVIE_NETWORK/index.m3u8",
                 "region": "AU"
             }
-        ]
+        ],
     },
     {
         "id": 100,
@@ -1333,7 +1396,7 @@
                 "url": "https://fl3.moveonjoy.com/EPIX/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 101,
@@ -1349,7 +1412,7 @@
                 "url": "https://fl3.moveonjoy.com/PARAMOUNT_NETWORK/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 102,
@@ -1365,7 +1428,7 @@
                 "url": "http://tcldyb1y.tvclub.xyz/iptv/YTG7ECXWHLDAL2/31084/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 103,
@@ -1381,7 +1444,7 @@
                 "url": "http://tcldyb1y.tvclub.xyz/iptv/YTG7ECXWHLDAL2/1102/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 104,
@@ -1393,7 +1456,7 @@
                 "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 105,
@@ -1405,7 +1468,7 @@
                 "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/18084/index.m3u8",
                 "region": "AM"
             }
-        ]
+        ],
     },
     {
         "id": 106,
@@ -1417,7 +1480,7 @@
                 "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/18093/index.m3u8",
                 "region": "AM"
             }
-        ]
+        ],
     },
     {
         "id": 107,
@@ -1429,7 +1492,7 @@
                 "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/19192/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 108,
@@ -1441,7 +1504,7 @@
                 "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/153/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 109,
@@ -1457,7 +1520,7 @@
                 "url": "https://fl3.moveonjoy.com/MTV_LIVE/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 110,
@@ -1469,7 +1532,7 @@
                 "url": "https://fl3.moveonjoy.com/NICK_MUSIC/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 111,
@@ -1481,7 +1544,7 @@
                 "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 112,
@@ -1493,7 +1556,7 @@
                 "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/15107/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 113,
@@ -1505,7 +1568,7 @@
                 "url": "https://fl3.moveonjoy.com/VH1/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 114,
@@ -1517,7 +1580,7 @@
                 "url": "https://content.uplynk.com/channel/3324f2467c414329b3b0cc5cd987b6be.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 115,
@@ -1529,7 +1592,7 @@
                 "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
                 "region": "QA"
             }
-        ]
+        ],
     },
     {
         "id": 116,
@@ -1545,7 +1608,7 @@
                 "url": "https://fl3.moveonjoy.com/BBC_WORLD_NEWS/index.m3u8",
                 "region": "UK2"
             }
-        ]
+        ],
     },
     {
         "id": 117,
@@ -1557,7 +1620,7 @@
                 "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 118,
@@ -1569,7 +1632,7 @@
                 "url": "http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 119,
@@ -1581,7 +1644,7 @@
                 "url": "http://41.205.93.154/MSNBC/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 120,
@@ -1593,7 +1656,7 @@
                 "url": "https://d7x8z4yuq42qn.cloudfront.net/index_1.m3u8",
                 "region": "IN"
             }
-        ]
+        ],
     },
     {
         "id": 121,
@@ -1605,7 +1668,7 @@
                 "url": "http://fl3.moveonjoy.com/BIG_TEN_NETWORK/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 122,
@@ -1621,7 +1684,7 @@
                 "url": "http://fl3.moveonjoy.com/CBS_SPORTS_NETWORK/index.m3u8c",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 123,
@@ -1633,7 +1696,7 @@
                 "url": "http://41.205.93.154/ESPN/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 124,
@@ -1649,7 +1712,7 @@
                 "url": "http://fl3.moveonjoy.com/ESPN_2/index.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 125,
@@ -1665,7 +1728,7 @@
                 "url": "http://fl3.moveonjoy.com/FOX_Sports_1/index.m3u8",
                 "region": "US2"
             }
-        ]
+        ],
     },
     {
         "id": 126,
@@ -1677,7 +1740,7 @@
                 "url": "https://livecdn.fptplay.net/qnetlive/foxsports2_2000.stream/chunklist.m3u8",
                 "region": "US"
             }
-        ]
+        ],
     },
     {
         "id": 127,
@@ -1693,7 +1756,7 @@
                 "url": "http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/7343/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 128,
@@ -1709,7 +1772,7 @@
                 "url": "http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/7342/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 129,
@@ -1725,7 +1788,7 @@
                 "url": "http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/7336/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 130,
@@ -1741,7 +1804,7 @@
                 "url": "http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/7344/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 131,
@@ -1757,7 +1820,7 @@
                 "url": "http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/7337/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 132,
@@ -1773,7 +1836,7 @@
                 "url": "http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/7339/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 133,
@@ -1785,7 +1848,7 @@
                 "url": "http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/7338/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 134,
@@ -1797,7 +1860,7 @@
                 "url": "http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/7340/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 135,
@@ -1813,7 +1876,7 @@
                 "url": "http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/7335/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 136,
@@ -1829,7 +1892,7 @@
                 "url": "http://38b891c9.rossteleccom.net/iptv/4HP7GES799X3WU/7341/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 137,
@@ -1841,7 +1904,7 @@
                 "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/2505/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     },
     {
         "id": 138,
@@ -1853,6 +1916,6 @@
                 "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/2506/index.m3u8",
                 "region": "UK"
             }
-        ]
+        ],
     }
 ]
