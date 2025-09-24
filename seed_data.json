@@ -688,7 +688,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xmlchannel_id=454635", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=454635", "region": "US"}
         ]
     },
     {
@@ -737,7 +737,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xmlchannel_id=403837", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=403837", "region": "US"}
         ]
     },
     {
@@ -938,7 +938,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xmlchannel_id=9459", "region": "UK"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=9459", "region": "UK"}
         ]
     },
     {
@@ -1294,7 +1294,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xmlchannel_id=9558", "region": "UK"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=9558", "region": "UK"}
         ]
     },
     {
