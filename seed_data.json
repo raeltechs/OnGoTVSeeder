@@ -664,7 +664,7 @@
 	    {
         "id": 41,
         "name": "Boomerang",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/250px-Boomerang_2014_logo.svg.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/250px-Boomerang_2014_logo.svg.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/250px-Boomerang_2014_logo.svg.png",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/250px-Boomerang_2014_logo.svg.png",
         "genre": "KIDS",
         "streams": [
             {
@@ -1093,21 +1093,6 @@
     },
     {
         "id": 68,
-        "name": "Channel 4",
-        "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1621.png",
-        "genre": "ENTERTAINMENT",
-        "streams": [
-            {
-                "url": "",
-                "region": "UK"
-            }
-        ],
-		"epgUrl": [
-            {"url": "", "region": ""}
-        ]
-    },
-    {
-        "id": 69,
         "name": "Crime+Investigations",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
         "genre": "ENTERTAINMENT",
@@ -1122,22 +1107,7 @@
         ]
     },
     {
-        "id": 70,
-        "name": "Dave",
-        "logoUrl": "",
-        "genre": "ENTERTAINMENT",
-        "streams": [
-            {
-                "url": "",
-                "region": "US"
-            }
-        ],
-		"epgUrl": [
-            {"url": "", "region": ""}
-        ]
-    },
-    {
-        "id": 71,
+        "id": 69,
         "name": "E!",
         "logoUrl": "https://i.imgur.com/TWFDkap.png",
         "genre": "ENTERTAINMENT",
@@ -1151,14 +1121,14 @@
             {"url": "https://epg.pw/api/epg.xml?channel_id=405151", "region": "CA"}
         ]
     },
-    {
-        "id": 72,
-        "name": "Fox",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/96/FOX_wordmark-orange.svg/512px-FOX_wordmark-orange.svg.png",
+	    {
+        "id": 70,
+        "name": "Fuse",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "http://fl1.moveonjoy.com/FOX_EAST/index.m3u8",
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30081/index.m3u8",
                 "region": "US"
             }
         ],
@@ -1167,7 +1137,7 @@
         ]
     },
     {
-        "id": 73,
+        "id": 71,
         "name": "Freebie TV",
         "logoUrl": "https://i.imgur.com/KbmXdjm.png",
         "genre": "ENTERTAINMENT",
@@ -1182,7 +1152,7 @@
         ]
     },
     {
-        "id": 74,
+        "id": 72,
         "name": "FX",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1208,7 +1178,7 @@
         ]
     },
     {
-        "id": 75,
+        "id": 73,
         "name": "FXM",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1223,7 +1193,7 @@
         ]
     },
     {
-        "id": 76,
+        "id": 74,
         "name": "FXX",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1238,7 +1208,7 @@
         ]
     },
     {
-        "id": 77,
+        "id": 75,
         "name": "Game Show Network",
         "logoUrl": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg",
         "genre": "ENTERTAINMENT",
@@ -1253,7 +1223,7 @@
         ]
     },
     {
-        "id": 78,
+        "id": 76,
         "name": "itv 1",
         "logoUrl": "https://i.imgur.com/xwPekCF.png",
         "genre": "ENTERTAINMENT",
@@ -1268,7 +1238,7 @@
         ]
     },
     {
-        "id": 79,
+        "id": 77,
         "name": "itv 2",
         "logoUrl": "https://i.imgur.com/2BpUK0W.png",
         "genre": "ENTERTAINMENT",
@@ -1283,7 +1253,7 @@
         ]
     },
     {
-        "id": 80,
+        "id": 78,
         "name": "itv 3",
         "logoUrl": "https://i.imgur.com/JuyM2z5.png",
         "genre": "ENTERTAINMENT",
@@ -1298,7 +1268,7 @@
         ]
     },
     {
-        "id": 81,
+        "id": 79,
         "name": "itv 4",
         "logoUrl": "https://i.imgur.com/DYI4IA2.png",
         "genre": "ENTERTAINMENT",
@@ -1313,7 +1283,7 @@
         ]
     },
     {
-        "id": 82,
+        "id": 80,
         "name": "More4",
         "logoUrl": "https://i.imgur.com/cx5YcAU.png",
         "genre": "ENTERTAINMENT",
@@ -1327,7 +1297,7 @@
         ]
     },
     {
-        "id": 83,
+        "id": 81,
         "name": "MTV",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1347,7 +1317,7 @@
         ]
     },
     {
-        "id": 84,
+        "id": 82,
         "name": "Showtime",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1366,7 +1336,7 @@
         ]
     },
     {
-        "id": 85,
+        "id": 83,
         "name": "Showtime 2",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg",
         "genre": "ENTERTAINMENT",
@@ -1386,7 +1356,7 @@
         ]
     },
     {
-        "id": 86,
+        "id": 84,
         "name": "Starz",
         "logoUrl": "https://i.imgur.com/N7oSm4d.png",
         "genre": "ENTERTAINMENT",
@@ -1400,8 +1370,23 @@
             {"url": "https://epg.pw/api/epg.xml?channel_id=458921", "region": "US"}
         ]
     },
+	{
+        "id": 85,
+        "name": "Studio Universal",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/studio-universal-8.ctv",
+                "region": "BR"
+            }
+        ],
+		"epgUrl": [
+            {"url": "https://epg.pw/api/epg.xml?channel_id=426160", "region": "BR"}
+        ]
+    },
     {
-        "id": 87,
+        "id": 86,
         "name": "SYFY",
         "logoUrl": "https://i.imgur.com/4fMWhUE.png",
         "genre": "ENTERTAINMENT",
@@ -1413,6 +1398,21 @@
         ],
 		"epgUrl": [
             {"url": "https://epg.pw/api/epg.xml?channel_id=403631", "region": "US"}
+        ]
+    },
+    {
+        "id": 87,
+        "name": "Universal TV",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Universal_TV_2018.svg",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/universal-tv-3.ctv",
+                "region": "US"
+            }
+        ],
+		"epgUrl": [
+            {"url": "https://epg.pw/api/epg.xml?channel_id=446997", "region": ""}
         ]
     },
     {
@@ -1760,8 +1760,12 @@
         "logoUrl": "https://i.imgur.com/x1zYoCW.png",
         "genre": "MUSIC",
         "streams": [
+			 {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/19198/index.m3u8",
+                "region": "UK"
+            },
             {
-                "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/153/index.m3u8",
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/153/index.m3u8",
                 "region": "US"
             }
         ],
