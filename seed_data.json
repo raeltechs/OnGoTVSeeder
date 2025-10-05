@@ -558,7 +558,7 @@
 	 {
         "id": 34,
         "name": "Justice Central",
-        "logoUrl": "https://imgur.com/peuHszg",
+        "logoUrl": "https://i.imgur.com/peuHszg.png",
         "genre": "DOCUMENTARY",
         "streams": [
             {
@@ -1971,7 +1971,7 @@
     {
         "id": 124,
         "name": "ESPN",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.pnghttps://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
         "genre": "SPORTS",
         "streams": [
             {
@@ -2182,7 +2182,7 @@
     {
         "id": 138,
         "name": "TNT Sports 1",
-        "logoUrl": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-1-uk.png?raw=true",
+        "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
         "genre": "SPORTS",
         "streams": [
             {
@@ -2197,7 +2197,7 @@
     {
         "id": 139,
         "name": "TNT Sports 2",
-        "logoUrl": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-2-uk.png?raw=true",
+        "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
         "genre": "SPORTS",
         "streams": [
             {
@@ -2212,7 +2212,7 @@
     {
         "id": 140,
         "name": "TNT Sports 3",
-        "logoUrl": "https://github.com/tv-logo/tv-logos/blob/main/countries/united-kingdom/tnt-sports-3-uk.png?raw=true",
+        "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
         "genre": "SPORTS",
         "streams": [
             {
