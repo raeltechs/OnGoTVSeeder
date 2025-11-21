@@ -1308,7 +1308,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=405042", "region": "CA"},
+            {"url": "https://epg.pw/api/epg.xml?channel_id=9618", "region": "CA"},
 			{"url": "https://epg.pw/api/epg.xml?channel_id=12193", "region": "UK"}
         ]
     },
