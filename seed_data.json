@@ -86,7 +86,7 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403613", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465152", "region": "US"}
         ]
     },
     {
@@ -135,7 +135,7 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403581", "region": "US1"},
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464774", "region": "US1"},
             {"url": "", "region": ""}
         ]
     },
@@ -176,17 +176,12 @@
         "genre": "LIFESTYLE",
         "streams": [
             {
-                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6524/index.m3u8",
-                "region": "CA"
-            },
-            {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31098/index.m3u8",
                 "region": "US"
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=404999", "region": "CA"},
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403827", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464919", "region": "US"}
         ]
     },
     {
@@ -205,7 +200,7 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403509", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464984", "region": "US"}
         ]
     },
     {
@@ -284,7 +279,7 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403726", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465324", "region": "US"}
         ]
     },
     {
@@ -334,7 +329,7 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403738", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464766", "region": "US"}
         ]
     },
     {
@@ -443,7 +438,7 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403666", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464922", "region": "US"}
         ]
     },
     {
@@ -533,7 +528,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403739", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464932", "region": "US"}
         ]
     },
     {
@@ -548,7 +543,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403795", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465176", "region": "US"}
         ]
     },
 	 {
@@ -563,7 +558,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403657", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465216", "region": "US"}
         ]
     },
     {
@@ -579,7 +574,7 @@
         ],
 		
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=408011", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464971", "region": "US"}
         ]
     },
     {
@@ -594,7 +589,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403578", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465089", "region": "US"}
         ]
     },
     {
@@ -609,7 +604,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=426667", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464884", "region": "US"}
         ]
     },
     {
@@ -654,7 +649,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=456882", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465394", "region": "US"}
         ]
     },
 	    {
@@ -669,7 +664,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=404641", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464755", "region": "US"}
         ]
     },
 	    {
@@ -684,7 +679,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=454635", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465267", "region": "US"}
         ]
     },
     {
@@ -704,7 +699,7 @@
         ],
 		"epgUrl": [
 			{"url": "https://epg.pw/api/epg.xml?channel_id=76786", "region": "DE"},
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403788", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465349", "region": "US"}
         ]
     },
     {
@@ -718,7 +713,7 @@
             }
         ],
 		"epgUrl": [
-			{"url": "https://epg.pw/api/epg.xml?channel_id=4039744", "region": "US"}
+			{"url": "https://epg.pw/api/epg.xml?channel_id=465320", "region": "US"}
         ]
     },
     {
@@ -733,7 +728,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403837", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464807", "region": "US"}
         ]
     },
     {
@@ -797,7 +792,7 @@
             }
         ],		
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403438", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465251", "region": "US"}
         ]
     },
     {
@@ -853,19 +848,11 @@
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6419/index.m3u8",
-                "region": "CA"
-            },
-            {
-                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30001/index.m3u8v",
-                "region": "US1"
-            },
-            {
-                "url": "https://tvpass.org/live/AEEast/hd",
-                "region": "US2"
+                "region": "CA
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=405243", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=470651", "region": "CA"}
         ]
     },
     {
@@ -903,7 +890,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=404729", "region": "CA"},
+            {"url": "https://epg.pw/api/epg.xml?channel_id=470517", "region": "CA"},
 			{"url": "https://epg.pw/api/epg.xml?channel_id=405243", "region": "US"}
         ]
     },
@@ -919,7 +906,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "", "region": ""}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=12382", "region": ""}
         ]
     },
     {
@@ -934,7 +921,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=9459", "region": "UK"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=12499", "region": "UK"}
         ]
     },
     {
@@ -949,7 +936,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=9507", "region": "UK"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=12158", "region": "UK"}
         ]
     },
     {
@@ -964,7 +951,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "", "region": ""}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=12300", "region": "UK"}
         ]
     },
     {
@@ -979,7 +966,7 @@
             }
         ],	
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403895", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465025", "region": "US"}
         ]
     },
     {
@@ -1009,7 +996,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=445709", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464968", "region": "US"}
         ]
     },
     {
@@ -1024,7 +1011,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=405730", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465051", "region": "US"}
         ]
     },
     {
@@ -1054,7 +1041,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403897", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=470586", "region": "US"}
         ]
     },
     {
@@ -1069,7 +1056,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "", "region": ""}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464830", "region": "US"}
         ]
     },
     {
@@ -1084,7 +1071,7 @@
             }		
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403829", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464917", "region": "US"}
         ]
     },
     {
@@ -1099,7 +1086,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=405244", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465040", "region": "US"}
         ]
     },
     {
@@ -1129,7 +1116,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "", "region": ""}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465105", "region": "US"}
         ]
     },
     {
@@ -1157,20 +1144,10 @@
 		{
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6470/index.m3u8",
                 "region": "CA"
-            },
-            {
-                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30082/index.m3u8",
-                "region": "US-1"
-            }
-		,
-		{
-                "url": "https://stream1.freetv.fun/fx-1.ctv",
-                "region": "US-2"
             }
         ],
 		"epgUrl": [
-			{"url": "https://epg.pw/api/epg.xml?channel_id=405197", "region": "CA"},
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403815", "region": "US"}
+			{"url": "https://epg.pw/api/epg.xml?channel_id=470910", "region": "CA"}
         ]
     },
     {
@@ -1185,7 +1162,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "", "region": ""}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465400", "region": "US"}
         ]
     },
     {
@@ -1200,7 +1177,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403518", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465357", "region": "US"}
         ]
     },
     {
@@ -1215,7 +1192,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403816", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464810", "region": "US"}
         ]
     },
     {
@@ -1328,7 +1305,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "", "region": ""}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465332", "region": "US"}
         ]
     },
     {
@@ -1348,7 +1325,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403651", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465402", "region": "US"}
         ]
     },
     {
@@ -1363,7 +1340,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=458921", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464975", "region": "US"}
         ]
     },
 	{
@@ -1393,7 +1370,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403631", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465053", "region": "US"}
         ]
     },
     {
@@ -1423,7 +1400,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=455483", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465006", "region": "US"}
         ]
     },
     {
@@ -1438,7 +1415,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=411766", "region": "IN"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464142", "region": "IN"}
         ]
     },
     {
@@ -1457,7 +1434,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=441325", "region": "IN"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464104", "region": "IN"}
         ]
     },
     {
@@ -1472,7 +1449,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "", "region": ""}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464850", "region": "US"}
         ]
     },
     {
@@ -1502,7 +1479,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "", "region": ""}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=9388", "region": "UK"}
         ]
     },
 	{
@@ -1532,7 +1509,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403490", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465241", "region": "US"}
         ]
     },
     {
@@ -1547,7 +1524,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?hannel_id=403472", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?hannel_id=465167", "region": "US"}
         ]
     },
     {
@@ -1562,7 +1539,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403926", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464745", "region": "US"}
         ]
     },
     {
@@ -1607,12 +1584,12 @@
             }
         ],
 		"epgUrl": [
-            {"url": "", "region": ""}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465290", "region": "US"}
         ]
     },
     {
         "id": 101,
-        "name": "MGM+",
+        "name": "MGM+ Dtive-In",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png",
         "genre": "MOVIES",
         "streams": [
@@ -1622,12 +1599,12 @@
             }
         ],
 		"epgUrl": [
-            {"url": "", "region": ""}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465375", "region": "US"}
         ]
     },
 	    {
         "id": 102,
-        "name": "MGM+",
+        "name": "MGM+ Hits",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/512px-MGM%2B_Hits_2023.svg.png",
         "genre": "MOVIES",
         "streams": [
@@ -1637,7 +1614,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=458676", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465284", "region": "US"}
         ]
     },
     {
@@ -1652,7 +1629,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=455481", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=464882", "region": "US"}
         ]
     },
     {
@@ -1671,8 +1648,8 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=405117", "region": "CA"},
-			{"url": "https://epg.pw/api/epg.xml?channel_id=403902", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=470818", "region": "CA"},
+			{"url": "https://epg.pw/api/epg.xml?channel_id=465196", "region": "US"}
         ]
     },
     {
@@ -1687,7 +1664,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403615", "region": "US"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=465114", "region": "US"}
         ]
     },
     {
@@ -1766,7 +1743,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=12471", "region": "UK"}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=6867", "region": "UK"}
         ]
     },
 		    {
@@ -1811,7 +1788,7 @@
             }
         ],
 		"epgUrl": [
-            {"url": "", "region": ""}
+            {"url": "https://epg.pw/api/epg.xml?channel_id=6035", "region": ""}
         ]
     },
     {
