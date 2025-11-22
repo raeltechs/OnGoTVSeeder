@@ -11,7 +11,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -26,7 +29,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -41,7 +47,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -56,7 +65,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -71,7 +83,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -86,7 +101,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465152", "region": "US"}
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465152",
+                "region": "US"
+            }
         ]
     },
     {
@@ -101,7 +119,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -116,7 +137,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=55949", "region": "FR"}
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=55949",
+                "region": "FR"
+            }
         ]
     },
     {
@@ -135,8 +159,14 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464774", "region": "US1"},
-            {"url": "", "region": ""}
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464774",
+                "region": "US1"
+            },
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -151,7 +181,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -166,7 +199,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -181,7 +217,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464919", "region": "US"}
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464919",
+                "region": "US"
+            }
         ]
     },
     {
@@ -200,7 +239,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464984", "region": "US"}
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464984",
+                "region": "US"
+            }
         ]
     },
     {
@@ -215,7 +257,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -230,7 +275,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -245,7 +293,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -260,7 +311,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=446960", "region": "AU"}
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=446960",
+                "region": "AU"
+            }
         ]
     },
     {
@@ -279,7 +333,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465324", "region": "US"}
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465324",
+                "region": "US"
+            }
         ]
     },
     {
@@ -310,11 +367,26 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403668", "region": "Global"},
-            {"url": "", "region": "CA"},
-            {"url": "https://epg.pw/api/epg.xml?channel_id=441284", "region": "IN"},
-            {"url": "https://epg.pw/api/epg.xml?channel_id=9545", "region": "UK"},
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403527", "region": "US"}
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403668",
+                "region": "Global"
+            },
+            {
+                "url": "",
+                "region": "CA"
+            },
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=441284",
+                "region": "IN"
+            },
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9545",
+                "region": "UK"
+            },
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403527",
+                "region": "US"
+            }
         ]
     },
     {
@@ -329,7 +401,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464766", "region": "US"}
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464766",
+                "region": "US"
+            }
         ]
     },
     {
@@ -344,7 +419,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -359,7 +437,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -374,7 +455,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -389,7 +473,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=76630", "region": "DE"}
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=76630",
+                "region": "DE"
+            }
         ]
     },
     {
@@ -404,7 +491,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -419,7 +509,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "", "region": ""}
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -438,7 +531,10 @@
             }
         ],
         "epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464922", "region": "US"}
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464922",
+                "region": "US"
+            }
         ]
     },
     {
@@ -452,8 +548,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -467,8 +566,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -482,8 +584,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -497,8 +602,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -512,8 +620,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -527,8 +638,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464932", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464932",
+                "region": "US"
+            }
         ]
     },
     {
@@ -542,11 +656,14 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465176", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465176",
+                "region": "US"
+            }
         ]
     },
-	 {
+    {
         "id": 34,
         "name": "Justice Central",
         "logoUrl": "https://i.imgur.com/peuHszg.png",
@@ -557,8 +674,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465216", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465216",
+                "region": "US"
+            }
         ]
     },
     {
@@ -572,9 +692,11 @@
                 "region": "US"
             }
         ],
-		
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464971", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464971",
+                "region": "US"
+            }
         ]
     },
     {
@@ -588,8 +710,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465089", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465089",
+                "region": "US"
+            }
         ]
     },
     {
@@ -603,8 +728,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464884", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464884",
+                "region": "US"
+            }
         ]
     },
     {
@@ -618,8 +746,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=12272", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=12272",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -631,10 +762,13 @@
             {
                 "url": "https://stream1.freetv.fun/team-spirit-1.m3u8",
                 "region": "AU"
-            }	
+            }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=3269", "region": "AU"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=3269",
+                "region": "AU"
+            }
         ]
     },
     {
@@ -648,11 +782,14 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465394", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465394",
+                "region": "US"
+            }
         ]
     },
-	    {
+    {
         "id": 41,
         "name": "Boomerang",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/250px-Boomerang_2014_logo.svg.png",
@@ -663,11 +800,14 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464755", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464755",
+                "region": "US"
+            }
         ]
     },
-	    {
+    {
         "id": 42,
         "name": "Cartoon Network",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",
@@ -678,8 +818,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465267", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465267",
+                "region": "US"
+            }
         ]
     },
     {
@@ -697,9 +840,15 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-			{"url": "https://epg.pw/api/epg.xml?channel_id=76786", "region": "DE"},
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465349", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=76786",
+                "region": "DE"
+            },
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465349",
+                "region": "US"
+            }
         ]
     },
     {
@@ -707,13 +856,17 @@
         "name": "DISNEY Jnr",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
         "genre": "KIDS",
-        "streams": [            {
+        "streams": [
+            {
                 "url": "https://stream1.freetv.fun/usa-disney-jr-1.ctv",
                 "region": "US"
             }
         ],
-		"epgUrl": [
-			{"url": "https://epg.pw/api/epg.xml?channel_id=465320", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465320",
+                "region": "US"
+            }
         ]
     },
     {
@@ -727,8 +880,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464807", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464807",
+                "region": "US"
+            }
         ]
     },
     {
@@ -741,9 +897,12 @@
                 "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536",
                 "region": "US"
             }
-        ],		
-		"epgUrl": [
-            {"url": "", "region": ""}
+        ],
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -757,8 +916,11 @@
                 "region": "MK"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -772,8 +934,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -790,9 +955,12 @@
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6504/index.m3u8",
                 "region": "CA"
             }
-        ],		
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465251", "region": "US"}
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465251",
+                "region": "US"
+            }
         ]
     },
     {
@@ -806,8 +974,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -821,8 +992,11 @@
                 "region": "AU"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -836,8 +1010,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=9480", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9480",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -848,11 +1025,14 @@
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6419/index.m3u8",
-                "region": "CA
+                "region": "CA"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=470651", "region": "CA"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=470651",
+                "region": "CA"
+            }
         ]
     },
     {
@@ -866,8 +1046,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -889,9 +1072,15 @@
                 "region": "US-2"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=470517", "region": "CA"},
-			{"url": "https://epg.pw/api/epg.xml?channel_id=405243", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=470517",
+                "region": "CA"
+            },
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=405243",
+                "region": "US"
+            }
         ]
     },
     {
@@ -905,8 +1094,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=12382", "region": ""}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=12382",
+                "region": ""
+            }
         ]
     },
     {
@@ -920,8 +1112,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=12499", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=12499",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -935,8 +1130,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=12158", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=12158",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -950,8 +1148,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=12300", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=12300",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -964,9 +1165,12 @@
                 "url": "https://bcovlive-a.akamaihd.net/7f5ec16d102f4b5d92e8e27bc95ff424/us-east-1/6240731308001/playlist.m3u8",
                 "region": "US"
             }
-        ],	
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465025", "region": "US"}
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465025",
+                "region": "US"
+            }
         ]
     },
     {
@@ -980,8 +1184,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -995,8 +1202,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464968", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464968",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1010,8 +1220,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465051", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465051",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1025,8 +1238,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=9176", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9176",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -1040,8 +1256,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=470586", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=470586",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1055,8 +1274,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464830", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464830",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1068,10 +1290,13 @@
             {
                 "url": "https://stream1.freetv.fun/cinemax-13.m3u8",
                 "region": "US"
-            }		
+            }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464917", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464917",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1085,8 +1310,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465040", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465040",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1100,11 +1328,14 @@
                 "region": "CA"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=405151", "region": "CA"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=405151",
+                "region": "CA"
+            }
         ]
     },
-	    {
+    {
         "id": 70,
         "name": "Fuse",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png",
@@ -1115,8 +1346,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465105", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465105",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1130,8 +1364,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -1140,14 +1377,16 @@
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png",
         "genre": "ENTERTAINMENT",
         "streams": [
-		
-		{
+            {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6470/index.m3u8",
                 "region": "CA"
             }
         ],
-		"epgUrl": [
-			{"url": "https://epg.pw/api/epg.xml?channel_id=470910", "region": "CA"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=470910",
+                "region": "CA"
+            }
         ]
     },
     {
@@ -1161,8 +1400,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465400", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465400",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1176,8 +1418,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465357", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465357",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1191,8 +1436,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464810", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464810",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1206,8 +1454,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=9151", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9151",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -1221,8 +1472,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=9327", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9327",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -1236,8 +1490,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=9558", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9558",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -1251,8 +1508,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=9317", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9317",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -1265,8 +1525,12 @@
                 "url": "https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8",
                 "region": "UK"
             }
-        ],"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=9285", "region": "UK"}
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9285",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -1284,9 +1548,15 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=9618", "region": "CA"},
-			{"url": "", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9618",
+                "region": "CA"
+            },
+            {
+                "url": "",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -1295,7 +1565,7 @@
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
         "genre": "ENTERTAINMENT",
         "streams": [
-			{
+            {
                 "url": "https://stream1.freetv.fun/us-showtime-east-1.ctv",
                 "region": "US-1"
             },
@@ -1304,8 +1574,11 @@
                 "region": "US-2"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465332", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465332",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1314,8 +1587,7 @@
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg",
         "genre": "ENTERTAINMENT",
         "streams": [
-		
-			{
+            {
                 "url": "https://stream1.freetv.fun/us-showtime-2-1.ctv",
                 "region": "US"
             },
@@ -1324,8 +1596,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465402", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465402",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1339,11 +1614,14 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464975", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464975",
+                "region": "US"
+            }
         ]
     },
-	{
+    {
         "id": 85,
         "name": "Studio Universal",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",
@@ -1354,8 +1632,11 @@
                 "region": "BR"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=426160", "region": "BR"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=426160",
+                "region": "BR"
+            }
         ]
     },
     {
@@ -1369,8 +1650,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465053", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465053",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1384,8 +1668,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=446997", "region": ""}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=446997",
+                "region": ""
+            }
         ]
     },
     {
@@ -1399,8 +1686,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465006", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465006",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1414,8 +1704,11 @@
                 "region": "IN"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464142", "region": "IN"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464142",
+                "region": "IN"
+            }
         ]
     },
     {
@@ -1433,8 +1726,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464104", "region": "IN"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464104",
+                "region": "IN"
+            }
         ]
     },
     {
@@ -1448,8 +1744,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464850", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464850",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1463,8 +1762,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -1478,11 +1780,14 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=9388", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9388",
+                "region": "UK"
+            }
         ]
     },
-	{
+    {
         "id": 94,
         "name": "Filmbox",
         "logoUrl": "https://i.imgur.com/VyaslIY.png",
@@ -1493,11 +1798,14 @@
                 "region": "RU"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=6520", "region": "RU"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6520",
+                "region": "RU"
+            }
         ]
     },
-	    {
+    {
         "id": 95,
         "name": "Hallmark Channel",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png",
@@ -1508,8 +1816,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465241", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465241",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1523,8 +1834,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?hannel_id=465167", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?hannel_id=465167",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1538,8 +1852,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464745", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464745",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1553,8 +1870,11 @@
                 "region": "IR"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -1568,8 +1888,11 @@
                 "region": "IN"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -1583,8 +1906,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465290", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465290",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1598,11 +1924,14 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465375", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465375",
+                "region": "US"
+            }
         ]
     },
-	    {
+    {
         "id": 102,
         "name": "MGM+ Hits",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/512px-MGM%2B_Hits_2023.svg.png",
@@ -1613,8 +1942,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465284", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465284",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1628,8 +1960,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=464882", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464882",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1647,9 +1982,15 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=470818", "region": "CA"},
-			{"url": "https://epg.pw/api/epg.xml?channel_id=465196", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=470818",
+                "region": "CA"
+            },
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465196",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1657,14 +1998,17 @@
         "name": "TNT",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png",
         "genre": "MOVIES",
-        "streams": [           
+        "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/1102/index.m3u8",
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=465114", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465114",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1678,8 +2022,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -1693,8 +2040,11 @@
                 "region": "AM"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -1708,8 +2058,11 @@
                 "region": "AM"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -1723,8 +2076,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=9449", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9449",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -1733,7 +2089,7 @@
         "logoUrl": "https://i.imgur.com/x1zYoCW.png",
         "genre": "MUSIC",
         "streams": [
-			 {
+            {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/19198/index.m3u8",
                 "region": "UK"
             },
@@ -1742,11 +2098,14 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=6867", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6867",
+                "region": "UK"
+            }
         ]
     },
-		    {
+    {
         "id": 111,
         "name": "MTV Live",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png",
@@ -1757,8 +2116,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=454794", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=454794",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -1772,8 +2134,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -1787,8 +2152,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=6035", "region": ""}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6035",
+                "region": ""
+            }
         ]
     },
     {
@@ -1802,8 +2170,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403653", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403653",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1817,8 +2188,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=399930", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=399930",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1832,8 +2206,11 @@
                 "region": "QA"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=441241", "region": "IN"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=441241",
+                "region": "IN"
+            }
         ]
     },
     {
@@ -1847,8 +2224,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=9206", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9206",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -1862,8 +2242,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403819", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403819",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1877,8 +2260,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403903", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403903",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1892,8 +2278,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403470", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403470",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1907,9 +2296,12 @@
                 "region": "IN"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=411664", "region": "IN"}
-        ]		
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=411664",
+                "region": "IN"
+            }
+        ]
     },
     {
         "id": 122,
@@ -1922,8 +2314,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
         ]
     },
     {
@@ -1937,8 +2332,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403807", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403807",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1952,8 +2350,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403793", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403793",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1967,10 +2368,12 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403821", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403821",
+                "region": "US"
+            }
         ]
-		
     },
     {
         "id": 126,
@@ -1983,8 +2386,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=403908", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403908",
+                "region": "US"
+            }
         ]
     },
     {
@@ -1998,11 +2404,14 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=458490", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=458490",
+                "region": "US"
+            }
         ]
     },
-	{
+    {
         "id": 128,
         "name": "Sky Sports Action",
         "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/7io5181634762176.png",
@@ -2013,8 +2422,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=7214", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=7214",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -2028,8 +2440,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=6254", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6254",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -2043,8 +2458,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=412947", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=412947",
+                "region": "US"
+            }
         ]
     },
     {
@@ -2058,8 +2476,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=450289", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=450289",
+                "region": "US"
+            }
         ]
     },
     {
@@ -2073,8 +2494,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=6445", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6445",
+                "region": "US"
+            }
         ]
     },
     {
@@ -2088,9 +2512,12 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=7673", "region": "US"}
-		]
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=7673",
+                "region": "US"
+            }
+        ]
     },
     {
         "id": 134,
@@ -2103,11 +2530,14 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=6553", "region": "US"}
-		]
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6553",
+                "region": "US"
+            }
+        ]
     },
-	{
+    {
         "id": 135,
         "name": "Sky Sports+",
         "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkIZtAtkE9ZE7ESa4c_G5LbHizi9HMZkGBgA&s",
@@ -2118,9 +2548,12 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "", "region": ""}
-        ]		
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
+        ]
     },
     {
         "id": 136,
@@ -2131,10 +2564,13 @@
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/9334/index.m3u8",
                 "region": "US"
-            }     
+            }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=6958", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6958",
+                "region": "US"
+            }
         ]
     },
     {
@@ -2148,8 +2584,11 @@
                 "region": "US"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=6681", "region": "US"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6681",
+                "region": "US"
+            }
         ]
     },
     {
@@ -2163,8 +2602,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=400477", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=400477",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -2178,8 +2620,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=400480", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=400480",
+                "region": "UK"
+            }
         ]
     },
     {
@@ -2193,8 +2638,11 @@
                 "region": "UK"
             }
         ],
-		"epgUrl": [
-            {"url": "https://epg.pw/api/epg.xml?channel_id=400479", "region": "UK"}
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=400479",
+                "region": "UK"
+            }
         ]
     }
 ]
