@@ -948,10 +948,6 @@
         "genre": "KIDS",
         "streams": [
             {
-                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/541/index.m3u8",
-                "region": "US"
-            },
-            {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6504/index.m3u8",
                 "region": "CA"
             }
@@ -976,8 +972,8 @@
         ],
         "epgUrl": [
             {
-                "url": "",
-                "region": ""
+                "url": "https://epg.pw/api/epg.xml?channel_id=465251",
+                "region": "US"
             }
         ]
     },
