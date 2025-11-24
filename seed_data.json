@@ -368,15 +368,15 @@
         ],
         "epgUrl": [
             {
-                "url": "https://epg.pw/api/epg.xml?channel_id=403668",
+                "url": "https://epg.pw/api/epg.xml?channel_id=465282",
                 "region": "Global"
             },
             {
-                "url": "",
+                "url": "https://epg.pw/api/epg.xml?channel_id=470307",
                 "region": "CA"
             },
             {
-                "url": "https://epg.pw/api/epg.xml?channel_id=441284",
+                "url": "https://epg.pw/api/epg.xml?channel_id=463900",
                 "region": "IN"
             },
             {
@@ -384,7 +384,7 @@
                 "region": "UK"
             },
             {
-                "url": "https://epg.pw/api/epg.xml?channel_id=403527",
+                "url": "https://epg.pw/api/epg.xml?channel_id=464791",
                 "region": "US"
             }
         ]
@@ -832,19 +832,11 @@
         "genre": "KIDS",
         "streams": [
             {
-                "url": "https://viamotionhsi.netplus.ch/live/eds/disneychannelde/browser-HLS8/disneychannelde.m3u8",
-                "region": "DE"
-            },
-            {
                 "url": "https://stream1.freetv.fun/disney-channel-25.ctv",
                 "region": "US"
             }
         ],
         "epgUrl": [
-            {
-                "url": "https://epg.pw/api/epg.xml?channel_id=76786",
-                "region": "DE"
-            },
             {
                 "url": "https://epg.pw/api/epg.xml?channel_id=465349",
                 "region": "US"
@@ -943,24 +935,6 @@
     },
     {
         "id": 49,
-        "name": "Nickelodeon",
-        "logoUrl": "https://i.imgur.com/E84jnP8.png",
-        "genre": "KIDS",
-        "streams": [
-            {
-                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6504/index.m3u8",
-                "region": "CA"
-            }
-        ],
-        "epgUrl": [
-            {
-                "url": "https://epg.pw/api/epg.xml?channel_id=465251",
-                "region": "US"
-            }
-        ]
-    },
-    {
-        "id": 50,
         "name": "Nick@nite",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Nick_at_Nite_Splat_2023_%28outline%29.svg/800px-Nick_at_Nite_Splat_2023_%28outline%29.svg.png",
         "genre": "KIDS",
@@ -973,6 +947,24 @@
         "epgUrl": [
             {
                 "url": "https://epg.pw/api/epg.xml?channel_id=465251",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "name": "Nicktoons",
+        "logoUrl": "https://i.imgur.com/E84jnP8.png",
+        "genre": "KIDS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31016/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465038",
                 "region": "US"
             }
         ]
@@ -1061,11 +1053,7 @@
             },
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/1083/index.m3u8",
-                "region": "US-1"
-            },
-            {
-                "url": "https://fl5.moveonjoy.com/AMC_NETWORK/index.m3u8",
-                "region": "US-2"
+                "region": "US"
             }
         ],
         "epgUrl": [
@@ -1074,7 +1062,7 @@
                 "region": "CA"
             },
             {
-                "url": "https://epg.pw/api/epg.xml?channel_id=405243",
+                "url": "https://epg.pw/api/epg.xml?channel_id=465032",
                 "region": "US"
             }
         ]
@@ -1093,7 +1081,7 @@
         "epgUrl": [
             {
                 "url": "https://epg.pw/api/epg.xml?channel_id=12382",
-                "region": ""
+                "region": "UK"
             }
         ]
     },
@@ -1171,24 +1159,6 @@
     },
     {
         "id": 61,
-        "name": "BBC Entertainment",
-        "logoUrl": "https://i.imgur.com/fx2z8M1.png",
-        "genre": "ENTERTAINMENT",
-        "streams": [
-            {
-                "url": "",
-                "region": "UK"
-            }
-        ],
-        "epgUrl": [
-            {
-                "url": "",
-                "region": ""
-            }
-        ]
-    },
-    {
-        "id": 62,
         "name": "BET",
         "logoUrl": "https://i.imgur.com/L2LZpsj.png",
         "genre": "ENTERTAINMENT",
@@ -1206,7 +1176,7 @@
         ]
     },
     {
-        "id": 63,
+        "id": 62,
         "name": "BET Gospel",
         "logoUrl": "https://i.imgur.com/jbOkq8C.png",
         "genre": "ENTERTAINMENT",
@@ -1224,7 +1194,7 @@
         ]
     },
     {
-        "id": 64,
+        "id": 63,
         "name": "Blaze",
         "logoUrl": "https://i.imgur.com/6UcPWP9.png",
         "genre": "ENTERTAINMENT",
@@ -1242,7 +1212,7 @@
         ]
     },
     {
-        "id": 65,
+        "id": 64,
         "name": "Bravo",
         "logoUrl": "https://i.imgur.com/JmTIRLF.png",
         "genre": "ENTERTAINMENT",
@@ -1260,7 +1230,7 @@
         ]
     },
     {
-        "id": 66,
+        "id": 65,
         "name": "CBS",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/512px-CBS_logo_%282020%29.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1278,7 +1248,7 @@
         ]
     },
     {
-        "id": 67,
+        "id": 66,
         "name": "Cinemax",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1296,7 +1266,7 @@
         ]
     },
     {
-        "id": 68,
+        "id": 67,
         "name": "Crime+Investigations",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
         "genre": "ENTERTAINMENT",
@@ -1314,7 +1284,7 @@
         ]
     },
     {
-        "id": 69,
+        "id": 68,
         "name": "E!",
         "logoUrl": "https://i.imgur.com/TWFDkap.png",
         "genre": "ENTERTAINMENT",
@@ -1332,7 +1302,7 @@
         ]
     },
     {
-        "id": 70,
+        "id": 69,
         "name": "Fuse",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png",
         "genre": "ENTERTAINMENT",
@@ -1350,7 +1320,7 @@
         ]
     },
     {
-        "id": 71,
+        "id": 70,
         "name": "Freebie TV",
         "logoUrl": "https://i.imgur.com/KbmXdjm.png",
         "genre": "ENTERTAINMENT",
@@ -1368,7 +1338,7 @@
         ]
     },
     {
-        "id": 72,
+        "id": 71,
         "name": "FX",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1386,7 +1356,7 @@
         ]
     },
     {
-        "id": 73,
+        "id": 72,
         "name": "FXM",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1404,7 +1374,7 @@
         ]
     },
     {
-        "id": 74,
+        "id": 73,
         "name": "FXX",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1422,7 +1392,7 @@
         ]
     },
     {
-        "id": 75,
+        "id": 74,
         "name": "Game Show Network",
         "logoUrl": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg",
         "genre": "ENTERTAINMENT",
@@ -1440,7 +1410,7 @@
         ]
     },
     {
-        "id": 76,
+        "id": 75,
         "name": "itv 1",
         "logoUrl": "https://i.imgur.com/xwPekCF.png",
         "genre": "ENTERTAINMENT",
@@ -1458,7 +1428,7 @@
         ]
     },
     {
-        "id": 77,
+        "id": 76,
         "name": "itv 2",
         "logoUrl": "https://i.imgur.com/2BpUK0W.png",
         "genre": "ENTERTAINMENT",
@@ -1476,7 +1446,7 @@
         ]
     },
     {
-        "id": 78,
+        "id": 77,
         "name": "itv 3",
         "logoUrl": "https://i.imgur.com/JuyM2z5.png",
         "genre": "ENTERTAINMENT",
@@ -1494,7 +1464,7 @@
         ]
     },
     {
-        "id": 79,
+        "id": 78,
         "name": "itv 4",
         "logoUrl": "https://i.imgur.com/DYI4IA2.png",
         "genre": "ENTERTAINMENT",
@@ -1512,7 +1482,7 @@
         ]
     },
     {
-        "id": 80,
+        "id": 79,
         "name": "More4",
         "logoUrl": "https://i.imgur.com/cx5YcAU.png",
         "genre": "ENTERTAINMENT",
@@ -1530,7 +1500,7 @@
         ]
     },
     {
-        "id": 81,
+        "id": 80,
         "name": "MTV",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1556,7 +1526,7 @@
         ]
     },
     {
-        "id": 82,
+        "id": 81,
         "name": "Showtime",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1578,7 +1548,7 @@
         ]
     },
     {
-        "id": 83,
+        "id": 82,
         "name": "Showtime 2",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg",
         "genre": "ENTERTAINMENT",
@@ -1600,7 +1570,7 @@
         ]
     },
     {
-        "id": 84,
+        "id": 83,
         "name": "Starz",
         "logoUrl": "https://i.imgur.com/N7oSm4d.png",
         "genre": "ENTERTAINMENT",
@@ -1618,7 +1588,7 @@
         ]
     },
     {
-        "id": 85,
+        "id": 84,
         "name": "Studio Universal",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",
         "genre": "ENTERTAINMENT",
@@ -1636,7 +1606,7 @@
         ]
     },
     {
-        "id": 86,
+        "id": 85,
         "name": "SYFY",
         "logoUrl": "https://i.imgur.com/4fMWhUE.png",
         "genre": "ENTERTAINMENT",
@@ -1654,7 +1624,7 @@
         ]
     },
     {
-        "id": 87,
+        "id": 86,
         "name": "Universal TV",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Universal_TV_2018.svg",
         "genre": "ENTERTAINMENT",
@@ -1672,7 +1642,7 @@
         ]
     },
     {
-        "id": 88,
+        "id": 87,
         "name": "USA Network",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1690,7 +1660,7 @@
         ]
     },
     {
-        "id": 89,
+        "id": 88,
         "name": "&FLIX",
         "logoUrl": "https://i.imgur.com/WOyfzjC.png",
         "genre": "MOVIES",
@@ -1708,7 +1678,7 @@
         ]
     },
     {
-        "id": 90,
+        "id": 89,
         "name": "B4U Movies",
         "logoUrl": "https://i.imgur.com/M9kMFJl.png",
         "genre": "MOVIES",
@@ -1726,6 +1696,24 @@
             {
                 "url": "https://epg.pw/api/epg.xml?channel_id=464104",
                 "region": "IN"
+            }
+        ]
+    },
+    {
+            "id": 90,
+        "name": "MoviePlex",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/500px-Movieplex_logo.svg.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30142/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465074",
+                "region": "US"
             }
         ]
     },
