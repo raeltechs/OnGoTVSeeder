@@ -954,7 +954,7 @@
     {
         "id": 50,
         "name": "Nicktoons",
-        "logoUrl": "https://i.imgur.com/E84jnP8.png",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/250px-Nicktoons_Logo_2023.svg.png",
         "genre": "KIDS",
         "streams": [
             {
@@ -2145,19 +2145,19 @@
     },
     {
         "id": 114,
-        "name": "VH1",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/94/VH1_logonew.svg/512px-VH1_logonew.svg.png",
+        "name": "Vevo",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/250px-Vevo_2016_Logo.svg.png",
         "genre": "MUSIC",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/us-vh1-1.ctv",
+                "url": "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8",
                 "region": "US"
             }
         ],
         "epgUrl": [
             {
-                "url": "https://epg.pw/api/epg.xml?channel_id=403653",
-                "region": "US"
+                "url": "",
+                "region": ""
             }
         ]
     },
