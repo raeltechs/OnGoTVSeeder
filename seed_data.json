@@ -1837,13 +1837,13 @@
     },
     {
         "id": 98,
-        "name": "iFilm",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b9/IFILM.png",
+        "name": "MovieSphere",
+        "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f6/MovieSphere_by_Lionsgate_2022_logo.svg/revision/latest/scale-to-width-down/250?cb=20250814165614",
         "genre": "MOVIES",
         "streams": [
             {
-                "url": "https://live.presstv.ir/hls/ifilmen.m3u8c",
-                "region": "IR"
+                "url": "https://livetv-fa.tubi.video/moviesphere/playlist.m3u8",
+                "region": "US"
             }
         ],
         "epgUrl": [
@@ -1878,7 +1878,7 @@
         "genre": "MOVIES",
         "streams": [
             {
-                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30124/index.m3u8",
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30122/index.m3u8",
                 "region": "US"
             }
         ],
