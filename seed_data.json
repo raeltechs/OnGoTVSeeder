@@ -1532,12 +1532,8 @@
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/us-showtime-east-1.ctv",
+                "url": "https://stream1.freetv.fun/us-showtime-5.ctv",
                 "region": "US-1"
-            },
-            {
-                "url": "https://tvpass.org/live/ShowtimeEast/hd",
-                "region": "US-2"
             }
         ],
         "epgUrl": [
@@ -1554,12 +1550,8 @@
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/us-showtime-2-1.ctv",
+                "url": "https://stream1.freetv.fun/showtime-2-east-2.m3u8",
                 "region": "US"
-            },
-            {
-                "url": "https://tvpass.org/live/Showtime2East/hd",
-                "region": "UK"
             }
         ],
         "epgUrl": [
@@ -1572,36 +1564,36 @@
     {
         "id": 83,
         "name": "Starz",
-        "logoUrl": "https://i.imgur.com/N7oSm4d.png",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/250px-Starz_2022.svg.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://tvpass.org/live/StarzEast/hd",
+                "url": "https://stream1.freetv.fun/starz-west-2.m3u8",
                 "region": "US"
             }
         ],
         "epgUrl": [
             {
-                "url": "https://epg.pw/api/epg.xml?channel_id=464975",
+                "url": "https://epg.pw/api/epg.xml?channel_id=465238",
                 "region": "US"
             }
         ]
     },
     {
         "id": 84,
-        "name": "Studio Universal",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/7/74/StudioUniversal2016.png",
+        "name": "Starz Cinema",
+        "logoUrl": "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/250px-Starz_Cinema_Logo_2022.svg.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/studio-universal-8.ctv",
-                "region": "BR"
+                "url": "https://stream1.freetv.fun/starz-cinema-10.ctv",
+                "region": "US"
             }
         ],
         "epgUrl": [
             {
-                "url": "https://epg.pw/api/epg.xml?channel_id=426160",
-                "region": "BR"
+                "url": "https://epg.pw/api/epg.xml?channel_id=465115",
+                "region": "US"
             }
         ]
     },
@@ -1612,7 +1604,7 @@
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://tvpass.org/live/SyfyEast/hd",
+                "url": "https://stream1.freetv.fun/syfy-6.ctv",
                 "region": "US"
             }
         ],
@@ -1796,7 +1788,7 @@
         "genre": "MOVIES",
         "streams": [
             {
-                "url": "https://tvpass.org/live/HallmarkChannelEast/hd",
+                "url": "https://stream1.freetv.fun/hallmark-channel-east-2.m3u8",
                 "region": "US"
             }
         ],
@@ -1820,7 +1812,7 @@
         ],
         "epgUrl": [
             {
-                "url": "https://epg.pw/api/epg.xml?hannel_id=465167",
+                "url": "https://epg.pw/api/epg.xml?channel_id=465167",
                 "region": "US"
             }
         ]
@@ -1832,7 +1824,7 @@
         "genre": "MOVIES",
         "streams": [
             {
-                "url": "https://tvpass.org/live/HBOEast/hd",
+                "url": "https://stream1.freetv.fun/hbo-east--s-1.m3u8",
                 "region": "US"
             }
         ],
