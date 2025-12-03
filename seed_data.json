@@ -1381,4 +1381,1262 @@
         "streams": [
             {
                 "url": "https://stream1.freetv.fun/us-fxx-1.ctv",
-                "
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465357",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "name": "Game Show Network",
+        "logoUrl": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464810",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "name": "itv 1",
+        "logoUrl": "https://i.imgur.com/xwPekCF.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://viamotionhsi.netplus.ch/live/eds/itv1/browser-HLS8/itv1.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9151",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "name": "itv 2",
+        "logoUrl": "https://i.imgur.com/2BpUK0W.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9327",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "name": "itv 3",
+        "logoUrl": "https://i.imgur.com/JuyM2z5.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9558",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "name": "itv 4",
+        "logoUrl": "https://i.imgur.com/DYI4IA2.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9317",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "name": "More4",
+        "logoUrl": "https://i.imgur.com/cx5YcAU.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9285",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "name": "MTV",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6461/index.m3u8",
+                "region": "CA"
+            },
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/19192/index.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9618",
+                "region": "CA"
+            },
+            {
+                "url": "",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "name": "Showtime",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/us-showtime-13.ctv",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465332",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "name": "Showtime 2",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/showtime-2-east-2.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465402",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "name": "Starz",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/250px-Starz_2022.svg.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/starz-west-2.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465238",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "name": "Starz Cinema",
+        "logoUrl": "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/250px-Starz_Cinema_Logo_2022.svg.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/starz-cinema-10.ctv",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465115",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "name": "SYFY",
+        "logoUrl": "https://i.imgur.com/4fMWhUE.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/syfy-6.ctv",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465053",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 86,
+        "name": "Universal TV",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Universal_TV_2018.svg",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/universal-tv-3.ctv",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=446997",
+                "region": ""
+            }
+        ]
+    },
+    {
+        "id": 87,
+        "name": "USA Network",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/1101/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465006",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 88,
+        "name": "&FLIX",
+        "logoUrl": "https://i.imgur.com/WOyfzjC.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8",
+                "region": "IN"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464142",
+                "region": "IN"
+            }
+        ]
+    },
+    {
+        "id": 89,
+        "name": "B4U Movies",
+        "logoUrl": "https://i.imgur.com/M9kMFJl.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6569/index.m3u8",
+                "region": "IN"
+            },
+            {
+                "url": "",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464104",
+                "region": "IN"
+            }
+        ]
+    },
+    {
+            "id": 90,
+        "name": "MoviePlex",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/500px-Movieplex_logo.svg.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30142/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465074",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 91,
+        "name": "Cinemax Moremax",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6152/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464850",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 92,
+        "name": "Discover Film",
+        "logoUrl": "https://i.imgur.com/oMnpsQ5.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
+        ]
+    },
+    {
+        "id": 93,
+        "name": "Film 4",
+        "logoUrl": "https://i.imgur.com/MTSgoGI.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9388",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 94,
+        "name": "Filmbox",
+        "logoUrl": "https://i.imgur.com/VyaslIY.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/1071/index.m3u8",
+                "region": "RU"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6520",
+                "region": "RU"
+            }
+        ]
+    },
+    {
+        "id": 95,
+        "name": "Hallmark Channel",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/hallmark-channel-east-2.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465241",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 96,
+        "name": "Hallmark Mystery",
+        "logoUrl": "https://i.imgur.com/GPRGA9C.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/1075/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465167",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 97,
+        "name": "HBO",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/hbo-east--s-1.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464745",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 98,
+        "name": "MovieSphere",
+        "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f6/MovieSphere_by_Lionsgate_2022_logo.svg/revision/latest/scale-to-width-down/250?cb=20250814165614",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "https://livetv-fa.tubi.video/moviesphere/playlist.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
+        ]
+    },
+    {
+        "id": 99,
+        "name": "Sky Premiere HD",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sky_Cinema_Premiere_2024_logo.svg/512px-Sky_Cinema_Premiere_2024_logo.svg.png?20250819043343",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/sky-movies-premiere-uk--s-1.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9122",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Lifetime Movie Network",
+        "logoUrl": "https://i.imgur.com/AHP3J12.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30122/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465290",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 101,
+        "name": "MGM+ Drive-In",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/us-epix-drive-in-1.ctv",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465375",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "MGM+ Hits",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/512px-MGM%2B_Hits_2023.svg.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/epix-hits-1.ctv",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465284",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 103,
+        "name": "Paramount Network",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31029/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464882",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 104,
+        "name": "Showcase",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Showcase_Logo_2015.png/250px-Showcase_Logo_2015.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6449/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=470745",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 105,
+        "name": "TCM",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "http://143.244.60.30/TCM/index.m3u8",
+                "region": "CA"
+            },
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31084/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=470818",
+                "region": "CA"
+            },
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465196",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 106,
+        "name": "TNT",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/1102/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465114",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 107,
+        "name": "Afrobeat TV",
+        "logoUrl": "https://i.imgur.com/232ndRK.png",
+        "genre": "MUSIC",
+        "streams": [
+            {
+                "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
+        ]
+    },
+    {
+        "id": 108,
+        "name": "Fresh Hits",
+        "logoUrl": "https://i.imgur.com/gcFSxrm.png",
+        "genre": "MUSIC",
+        "streams": [
+            {
+                "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/18084/index.m3u8",
+                "region": "AM"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
+        ]
+    },
+    {
+        "id": 109,
+        "name": "Fresh Lyrics",
+        "logoUrl": "https://i.imgur.com/gcFSxrm.png",
+        "genre": "MUSIC",
+        "streams": [
+            {
+                "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/18093/index.m3u8",
+                "region": "AM"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
+        ]
+    },
+    {
+        "id": 110,
+        "name": "MTV Hits",
+        "logoUrl": "https://i.imgur.com/x1zYoCW.png",
+        "genre": "MUSIC",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/19198/index.m3u8",
+                "region": "UK"
+            },
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/153/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6867",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "name": "MTV Live",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png",
+        "genre": "MUSIC",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/221/index.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=454794",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "name": "Trace Hits",
+        "logoUrl": "https://i.imgur.com/Vvxz6KX.png",
+        "genre": "MUSIC",
+        "streams": [
+            {
+                "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "name": "Trace Urban",
+        "logoUrl": "https://i.imgur.com/DLIbUMx.png",
+        "genre": "MUSIC",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/15107/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6035",
+                "region": ""
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "name": "Vevo",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/250px-Vevo_2016_Logo.svg.png",
+        "genre": "MUSIC",
+        "streams": [
+            {
+                "url": "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "name": "ABC News",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
+        "genre": "NEWS",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/abc-news-2.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=399930",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "name": "Aljazeera",
+        "logoUrl": "https://i.imgur.com/7bRVpnu.png",
+        "genre": "NEWS",
+        "streams": [
+            {
+                "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
+                "region": "QA"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=441241",
+                "region": "IN"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "name": "BBC NEWS",
+        "logoUrl": "https://i.imgur.com/vSz2WEp.png",
+        "genre": "NEWS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/545/index.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9206",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "name": "CNN",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",
+        "genre": "NEWS",
+        "streams": [
+            {
+                "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403819",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "name": "FOX News",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",
+        "genre": "NEWS",
+        "streams": [
+            {
+                "url": "http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403903",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "name": "MSNBC",
+        "logoUrl": "https://i.imgur.com/kGUR6NE.png",
+        "genre": "NEWS",
+        "streams": [
+            {
+                "url": "http://41.205.93.154/MSNBC/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403470",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "name": "WION News",
+        "logoUrl": "https://i.imgur.com/Wc5Z3iS.png",
+        "genre": "NEWS",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/wion-2.m3u8",
+                "region": "IN"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=411664",
+                "region": "IN"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "name": "Big Ten Network",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/big-ten-network-2.ctv",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "name": "CBS Sports Network",
+        "logoUrl": "https://i.imgur.com/A8CnA8g.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7324/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403807",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "name": "ESPN",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/19156/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403793",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "name": "ESPN 2",
+        "logoUrl": "https://i.imgur.com/00tsvjE.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/19155/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403821",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "name": "Fox Sports 1",
+        "logoUrl": "https://i.imgur.com/O9BapV9.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7322/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=403908",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "name": "Fox Sports 2",
+        "logoUrl": "https://i.imgur.com/LHtxKI8.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30078/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=458490",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "name": "Premier Sports 1",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PS_Logo_STACKED_4.png/330px-PS_Logo_STACKED_4.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6555/index.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=219100",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "name": "Sky Sports Action",
+        "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/7io5181634762176.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/9155/index.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=7214",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "name": "Sky Sports Cricket",
+        "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7343/index.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6254",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "name": "Sky Sports F1",
+        "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7342/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=412947",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "name": "Sky Sports Football",
+        "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7336/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=450289",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "name": "Sky Sports Golf",
+        "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7344/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6445",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "name": "Sky Sports Main Event",
+        "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7337/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=7673",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 135,
+        "name": "Sky Sports Mix",
+        "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7339/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6553",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "name": "Sky Sports+",
+        "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkIZtAtkE9ZE7ESa4c_G5LbHizi9HMZkGBgA&s",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/9248/index.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "name": "Sky Sports Premier League",
+        "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/9334/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6958",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "name": "Sky Sports Racing",
+        "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1354.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=6681",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "name": "TNT Sports 1",
+        "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/2505/index.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=400477",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "name": "TNT Sports 2",
+        "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/2506/index.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=400480",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "name": "TNT Sports 3",
+        "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6564/index.m3u8",
+                "region": "UK"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=400479",
+                "region": "UK"
+            }
+        ]
+    }
+]
