@@ -1362,7 +1362,7 @@
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/fxm-3.ctv",
+                "url": "https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8",
                 "region": "US"
             }
         ],
@@ -1532,8 +1532,8 @@
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/us-showtime-5.ctv",
-                "region": "US-1"
+                "url": "https://stream1.freetv.fun/us-showtime-13.ctv",
+                "region": "US"
             }
         ],
         "epgUrl": [
@@ -1855,19 +1855,19 @@
     },
     {
         "id": 99,
-        "name": "Indywood TV",
-        "logoUrl": "https://i.ibb.co/jT3NCPp/logo-tv.png",
+        "name": "Sky Premiere HD",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sky_Cinema_Premiere_2024_logo.svg/512px-Sky_Cinema_Premiere_2024_logo.svg.png?20250819043343",
         "genre": "MOVIES",
         "streams": [
             {
-                "url": "https://43wrzjnpqoxe-hls-live.wmncdn.net/indywood/indywoodtv/index.m3u8",
-                "region": "IN"
+                "url": "https://stream1.freetv.fun/sky-movies-premiere-uk--s-1.m3u8",
+                "region": "UK"
             }
         ],
         "epgUrl": [
             {
-                "url": "",
-                "region": ""
+                "url": "https://epg.pw/api/epg.xml?channel_id=9122",
+                "region": "UK"
             }
         ]
     },
@@ -1891,7 +1891,7 @@
     },
     {
         "id": 101,
-        "name": "MGM+ Dtive-In",
+        "name": "MGM+ Drive-In",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png",
         "genre": "MOVIES",
         "streams": [
@@ -1945,6 +1945,24 @@
     },
     {
         "id": 104,
+        "name": "Showcase",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Showcase_Logo_2015.png/250px-Showcase_Logo_2015.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6449/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=470745",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 105,
         "name": "TCM",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png",
         "genre": "MOVIES",
@@ -1970,7 +1988,7 @@
         ]
     },
     {
-        "id": 105,
+        "id": 106,
         "name": "TNT",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png",
         "genre": "MOVIES",
@@ -1988,7 +2006,7 @@
         ]
     },
     {
-        "id": 106,
+        "id": 107,
         "name": "Afrobeat TV",
         "logoUrl": "https://i.imgur.com/232ndRK.png",
         "genre": "MUSIC",
@@ -2006,7 +2024,7 @@
         ]
     },
     {
-        "id": 107,
+        "id": 108,
         "name": "Fresh Hits",
         "logoUrl": "https://i.imgur.com/gcFSxrm.png",
         "genre": "MUSIC",
@@ -2024,7 +2042,7 @@
         ]
     },
     {
-        "id": 108,
+        "id": 109,
         "name": "Fresh Lyrics",
         "logoUrl": "https://i.imgur.com/gcFSxrm.png",
         "genre": "MUSIC",
@@ -2038,24 +2056,6 @@
             {
                 "url": "",
                 "region": ""
-            }
-        ]
-    },
-    {
-        "id": 109,
-        "name": "MTV Base",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/dc/MTV_Base_UK_2021.svg/512px-MTV_Base_UK_2021.svg.png",
-        "genre": "MUSIC",
-        "streams": [
-            {
-                "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/19192/index.m3u8",
-                "region": "UK"
-            }
-        ],
-        "epgUrl": [
-            {
-                "url": "https://epg.pw/api/epg.xml?channel_id=9449",
-                "region": "UK"
             }
         ]
     },
