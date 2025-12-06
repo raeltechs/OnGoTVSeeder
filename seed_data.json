@@ -1,13 +1,14 @@
 [
     {
         "id": 0,
-        "name": "OnGo Channel",
+        "name": "OnGo Channel HD",
         "logoUrl": "",
         "genre": "",
         "streams": [
             {
                 "url": "https://adMob",
-                "region": "MW"
+                "region": "MW",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -25,12 +26,13 @@
         "streams": [
             {
                 "url": "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "N/A"
             }
         ],
         "epgUrl": [
             {
-                "url": "",
+                "url": "https://epg.pw/api/epg.xml?channel_id=9446",
                 "region": ""
             }
         ]
@@ -43,7 +45,8 @@
         "streams": [
             {
                 "url": "https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "N/A"
             }
         ],
         "epgUrl": [
@@ -61,7 +64,8 @@
         "streams": [
             {
                 "url": "https://livecdn.use1-0004.jwplive.com/live/sites/fGLyccP5/media/FoWynVnP/live.isml/.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "N/A"
             }
         ],
         "epgUrl": [
@@ -79,7 +83,8 @@
         "streams": [
             {
                 "url": "https://597865f6e4114.streamlock.net/live/leseaorigin.stream/playlist.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "N/A"
             }
         ],
         "epgUrl": [
@@ -91,13 +96,14 @@
     },
     {
         "id": 5,
-        "name": "Discovery Family",
+        "name": "Discovery Family HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Family_Logo_%282014%29.svg/500px-Discovery_Family_Logo_%282014%29.svg.png",
         "genre": "LIFESTYLE",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30052/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -109,13 +115,14 @@
     },
     {
         "id": 6,
-        "name": "Fashion Find",
+        "name": "Fashion Find HD",
         "logoUrl": "https://i.imgur.com/GvDRZgq.png",
         "genre": "LIFESTYLE",
         "streams": [
             {
                 "url": "https://qvc-amd-live.akamaized.net/hls/live/2034113/lsqvc5us/master.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -127,13 +134,14 @@
     },
     {
         "id": 7,
-        "name": "Fashion TV",
+        "name": "Fashion TV HD+",
         "logoUrl": "https://i.imgur.com/ucTh9tO.png",
         "genre": "LIFESTYLE",
         "streams": [
             {
-                "url": "https://viamotionhsi.netplus.ch/live/eds/fashiontv/browser-HLS8/fashiontv.m3u8",
-                "region": "FR"
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/2411/index.m3u8",
+                "region": "FR",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -151,33 +159,27 @@
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30085/index.m3u8",
-                "region": "US1"
-            },
-            {
-                "url": "https://fl3.moveonjoy.com/FYI/index.m3u8",
-                "region": "US2"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
             {
                 "url": "https://epg.pw/api/epg.xml?channel_id=464774",
-                "region": "US1"
-            },
-            {
-                "url": "",
-                "region": ""
+                "region": "US"
             }
         ]
     },
     {
         "id": 9,
-        "name": "Global Fashion Channel",
+        "name": "Global Fashion Channel HD+",
         "logoUrl": "https://i.imgur.com/s4eGYEP.jpg",
         "genre": "LIFESTYLE",
         "streams": [
             {
                 "url": "https://pubgfc.teleosmedia.com/linear/globalfashionchannel/globalfashionchannel/playlist.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -195,7 +197,8 @@
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6488/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "540p"
             }
         ],
         "epgUrl": [
@@ -207,13 +210,14 @@
     },
     {
         "id": 11,
-        "name": "TLC",
+        "name": "TLC HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png",
         "genre": "LIFESTYLE",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31098/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -225,17 +229,14 @@
     },
     {
         "id": 12,
-        "name": "Food Network",
+        "name": "Food Network HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png",
         "genre": "FOOD",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/1107/index.m3u8",
-                "region": "US"
-            },
-            {
-                "url": "http://fl3.moveonjoy.com/FOOD_NETWORK/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -253,7 +254,8 @@
         "streams": [
             {
                 "url": "https://ifood-vizio.amagi.tv/playlist.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "N/A"
             }
         ],
         "epgUrl": [
@@ -271,7 +273,8 @@
         "streams": [
             {
                 "url": "https://gusto-xumo.amagi.tv/playlist.m3u8",
-                "region": "CA"
+                "region": "CA",
+                "resolution": "N/A"
             }
         ],
         "epgUrl": [
@@ -283,13 +286,14 @@
     },
     {
         "id": 15,
-        "name": "30A Investment Pitch",
+        "name": "30A Investment Pitch HD",
         "logoUrl": "https://i.imgur.com/CKCtZo7.png",
         "genre": "BUSINESS",
         "streams": [
             {
                 "url": "https://www.30a-tv.com/InvPit.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -307,7 +311,8 @@
         "streams": [
             {
                 "url": "https://d9quh89lh7dtw.cloudfront.net/public-output/index.m3u8",
-                "region": "AU"
+                "region": "AU",
+                "resolution": "N/A"
             }
         ],
         "epgUrl": [
@@ -319,17 +324,14 @@
     },
     {
         "id": 17,
-        "name": "Bloomberg TV",
+        "name": "Bloomberg TV HD",
         "logoUrl": "https://i.imgur.com/OuogLHx.png",
         "genre": "BUSINESS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6465/index.m3u8",
-                "region": "US"
-            },
-            {
-                "url": "https://fl3.moveonjoy.com/BLOOMBERG/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -341,29 +343,34 @@
     },
     {
         "id": 18,
-        "name": "CNBC",
+        "name": "CNBC HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e3/CNBC_logo.svg/512px-CNBC_logo.svg.png",
         "genre": "BUSINESS",
         "streams": [
             {
-                "url": "https://fl3.moveonjoy.com/CNBC_World/index.m3u8",
-                "region": "Global"
+                "url": "https://fl1.moveonjoy.com/CNBC_World/index.m3u8",
+                "region": "Global",
+                "resolution": "360p"
             },
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6482/index.m3u8",
-                "region": "CA"
+                "region": "CA",
+                "resolution": "1080p"
             },
             {
                 "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/cnbc-tv18/master.m3u8",
-                "region": "IN"
+                "region": "IN",
+                "resolution": "N/A"
             },
             {
                 "url": "https://viamotionhsi.netplus.ch/live/eds/cnbc/browser-HLS8/cnbc.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "N/A"
             },
             {
-                "url": "https://fl3.moveonjoy.com/CNBC/index.m3u8",
-                "region": "US"
+                "url": "https://fl1.moveonjoy.com/CNBC/index.m3u8",
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -391,13 +398,14 @@
     },
     {
         "id": 19,
-        "name": "Fox Business",
+        "name": "Fox Business HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Fox_Business.svg/512px-Fox_Business.svg.png",
         "genre": "BUSINESS",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/a6e7211d5eed4ab531be4d51c90b77f4ac39cc1f66197954b2abfe488d7323bb.ctv",
-                "region": "US"
+                "url": "https://fl1.moveonjoy.com/FOX_Business_Network/index.m3u8",
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -409,13 +417,14 @@
     },
     {
         "id": 20,
-        "name": "Yahoo! Finance",
+        "name": "Yahoo! Finance HD",
         "logoUrl": "https://i.imgur.com/43oHsHL.png",
         "genre": "BUSINESS",
         "streams": [
             {
                 "url": "https://d1ewctnvcwvvvu.cloudfront.net/playlist.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -427,13 +436,14 @@
     },
     {
         "id": 21,
-        "name": "Choppertown",
+        "name": "Choppertown HD",
         "logoUrl": "https://i.imgur.com/U6cu5Ms.png",
         "genre": "AUTO",
         "streams": [
             {
                 "url": "https://linear-11.frequency.stream/dist/plex/11/hls/master/playlist.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -445,13 +455,14 @@
     },
     {
         "id": 22,
-        "name": "Motor TV",
+        "name": "Motor TV HD",
         "logoUrl": "https://i.imgur.com/nCAt3QN.png",
         "genre": "AUTO",
         "streams": [
             {
                 "url": "https://digicom.hls.iptvdc.com/motorstv/index.m3u8",
-                "region": "NO"
+                "region": "NO",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -463,13 +474,14 @@
     },
     {
         "id": 23,
-        "name": "Motorvision",
+        "name": "Motorvision HD",
         "logoUrl": "https://i.imgur.com/v4kj8pI.png",
         "genre": "AUTO",
         "streams": [
             {
-                "url": "https://cdn-apse1-prod.tsv2.amagi.tv/linear/amg01329-otterainc-motorvisionnz-samsungnz/playlist.m3u8",
-                "region": "DE"
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6112/index.m3u8",
+                "region": "DE",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -481,13 +493,14 @@
     },
     {
         "id": 24,
-        "name": "Top Gear",
+        "name": "Top Gear HD",
         "logoUrl": "https://i.imgur.com/S6Su6QH.png",
         "genre": "AUTO",
         "streams": [
             {
                 "url": "https://amg00793-amg00793c5-xumo-us-2664.playouts.now.amagi.tv/bbcstudios-bbctopgear8min-all/playlist.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -499,13 +512,14 @@
     },
     {
         "id": 25,
-        "name": "AFV Family",
-        "logoUrl": "https://i.imgur.com/dLSKBEn.png",
-        "genre": "COMEDY",
+        "name": "Motor Trend HD+",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Motor_Trend.svg/250px-Motor_Trend.svg.png",
+        "genre": "AUTO",
         "streams": [
             {
-                "url": "https://futuretoday-afv-family-2-be.samsung.wurl.tv/playlist.m3u8",
-                "region": "US"
+                "url": "https://stream1.freetv.fun/motor-trend-2.m3u8",
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -517,17 +531,14 @@
     },
     {
         "id": 26,
-        "name": "Comedy Central",
+        "name": "Comedy Central HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png",
         "genre": "COMEDY",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30044/index.m3u8",
-                "region": "US"
-            },
-            {
-                "url": "https://fl3.moveonjoy.com/Comedy_Central/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -539,13 +550,14 @@
     },
     {
         "id": 27,
-        "name": "Comedy Dynamics",
+        "name": "Comedy Dynamics HD+",
         "logoUrl": "https://i.imgur.com/1lEvUOa.png",
         "genre": "COMEDY",
         "streams": [
             {
                 "url": "https://linear-903.frequency.stream/dist/xumo/903/hls/master/playlist.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -563,7 +575,8 @@
         "streams": [
             {
                 "url": "https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "N/A"
             }
         ],
         "epgUrl": [
@@ -575,31 +588,33 @@
     },
     {
         "id": 29,
-        "name": "Channel S",
-        "logoUrl": "https://i.postimg.cc/0N76mtCB/channels.png",
+        "name": "Sky Comedy HD",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Sky_Comedy_logo_2020.svg/960px-Sky_Comedy_logo_2020.svg.png?20240107041104",
         "genre": "CULTURE",
         "streams": [
             {
-                "url": "https://cdn149.anystream.uk:8082/g1/tvchsuk03/playlist.m3u8",
-                "region": "UK"
+                "url": "https://stream1.freetv.fun/sky-comedy--s-1.m3u8",
+                "region": "UK",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
             {
-                "url": "",
-                "region": ""
+                "url": "https://epg.pw/api/epg.xml?channel_id=9187",
+                "region": "UK"
             }
         ]
     },
     {
         "id": 30,
-        "name": "Fox Now",
+        "name": "Fox Now HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/250px-LiveNOW_from_FOX.png",
         "genre": "CULTURE",
         "streams": [
             {
                 "url": "https://stream1.freetv.fun/e3eb8642006f190c347f7647ab2bf3968ea1b1c38b5b8311c67a5aa436199a8f.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -1853,15 +1868,35 @@
             }
         ]
     },
-    {
+       {
         "id": 99,
-        "name": "Sky Premiere HD",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sky_Cinema_Premiere_2024_logo.svg/512px-Sky_Cinema_Premiere_2024_logo.svg.png?20250819043343",
+        "name": "Sky Action HD+",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Sky_Cinema_Action_-_2021_logo.svg/960px-Sky_Cinema_Action_-_2021_logo.svg.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/sky-cinema-action--s-1.m3u8",
+                "region": "UK",
+                "resolution": "1080p"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9589",
+                "region": "UK"
+            }
+        ]
+    },
+    {
+        "id": 100,
+        "name": "Sky Premiere HD+",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sky_Cinema_Premiere_2024_logo.svg/512px-Sky_Cinema_Premiere_2024_logo.svg.png",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "https://stream1.freetv.fun/sky-movies-premiere-uk--s-1.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -1872,14 +1907,34 @@
         ]
     },
     {
-        "id": 100,
-        "name": "Lifetime Movie Network",
+        "id": 101,
+        "name": "sky Select HD+",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sky_Cinema_Select_2020.svg/960px-Sky_Cinema_Select_2020.svg.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/sky-cinema-select--s-1.m3u8",
+                "region": "US",
+                "resolution": "1080p"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=9315",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 102,
+        "name": "Lifetime Movie Network HD",
         "logoUrl": "https://i.imgur.com/AHP3J12.png",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30122/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1890,14 +1945,15 @@
         ]
     },
     {
-        "id": 101,
-        "name": "MGM+ Drive-In",
+        "id": 103,
+        "name": "MGM+ Drive-In HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png",
         "genre": "MOVIES",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/us-epix-drive-in-1.ctv",
-                "region": "US"
+                "url": "https://stream1.freetv.fun/mgm-plus-marquee-1.m3u8",
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -1908,32 +1964,15 @@
         ]
     },
     {
-        "id": 102,
-        "name": "MGM+ Hits",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/28/MGM%2B_Hits_2023.svg/512px-MGM%2B_Hits_2023.svg.png",
-        "genre": "MOVIES",
-        "streams": [
-            {
-                "url": "https://stream1.freetv.fun/epix-hits-1.ctv",
-                "region": "US"
-            }
-        ],
-        "epgUrl": [
-            {
-                "url": "https://epg.pw/api/epg.xml?channel_id=465284",
-                "region": "US"
-            }
-        ]
-    },
-    {
-        "id": 103,
+        "id": 104,
         "name": "Paramount Network",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31029/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1944,14 +1983,15 @@
         ]
     },
     {
-        "id": 104,
-        "name": "Showcase",
+        "id": 105,
+        "name": "Showcase HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Showcase_Logo_2015.png/250px-Showcase_Logo_2015.png",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6449/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1962,25 +2002,18 @@
         ]
     },
     {
-        "id": 105,
-        "name": "TCM",
+        "id": 106,
+        "name": "TCM HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png",
         "genre": "MOVIES",
         "streams": [
             {
-                "url": "http://143.244.60.30/TCM/index.m3u8",
-                "region": "CA"
-            },
-            {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31084/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
-            {
-                "url": "https://epg.pw/api/epg.xml?channel_id=470818",
-                "region": "CA"
-            },
             {
                 "url": "https://epg.pw/api/epg.xml?channel_id=465196",
                 "region": "US"
@@ -1988,14 +2021,15 @@
         ]
     },
     {
-        "id": 106,
-        "name": "TNT",
+        "id": 107,
+        "name": "TNT HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/1102/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2006,32 +2040,15 @@
         ]
     },
     {
-        "id": 107,
-        "name": "Afrobeat TV",
+        "id": 108,
+        "name": "Afrobeat TV HD+",
         "logoUrl": "https://i.imgur.com/232ndRK.png",
         "genre": "MUSIC",
         "streams": [
             {
                 "url": "https://stream.ecable.tv/afrobeats/index.m3u8",
-                "region": "UK"
-            }
-        ],
-        "epgUrl": [
-            {
-                "url": "",
-                "region": ""
-            }
-        ]
-    },
-    {
-        "id": 108,
-        "name": "Fresh Hits",
-        "logoUrl": "https://i.imgur.com/gcFSxrm.png",
-        "genre": "MUSIC",
-        "streams": [
-            {
-                "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/18084/index.m3u8",
-                "region": "AM"
+                "region": "UK",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2043,13 +2060,14 @@
     },
     {
         "id": 109,
-        "name": "Fresh Lyrics",
+        "name": "Fresh Hits HD+",
         "logoUrl": "https://i.imgur.com/gcFSxrm.png",
         "genre": "MUSIC",
         "streams": [
             {
-                "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/18093/index.m3u8",
-                "region": "AM"
+                "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/18084/index.m3u8",
+                "region": "AM",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2061,17 +2079,33 @@
     },
     {
         "id": 110,
+        "name": "Fresh Lyrics",
+        "logoUrl": "https://i.imgur.com/gcFSxrm.png",
+        "genre": "MUSIC",
+        "streams": [
+            {
+                "url": "http://61ce5915.amazzin.pw/iptv/FF38ZQWZHTSV8T4XX9RDZYLB/18093/index.m3u8",
+                "region": "AM",
+                "resolution": "1080p"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "",
+                "region": ""
+            }
+        ]
+    },
+    {
+        "id": 111,
         "name": "MTV Hits",
         "logoUrl": "https://i.imgur.com/x1zYoCW.png",
         "genre": "MUSIC",
         "streams": [
             {
-                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/19198/index.m3u8",
-                "region": "UK"
-            },
-            {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/153/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "480p"
             }
         ],
         "epgUrl": [
@@ -2082,14 +2116,15 @@
         ]
     },
     {
-        "id": 111,
-        "name": "MTV Live",
+        "id": 112,
+        "name": "MTV Live HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png",
         "genre": "MUSIC",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/221/index.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2100,14 +2135,15 @@
         ]
     },
     {
-        "id": 112,
+        "id": 113,
         "name": "Trace UK",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png",
         "genre": "MUSIC",
         "streams": [
             {
                 "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "N/A"
             }
         ],
         "epgUrl": [
@@ -2118,14 +2154,15 @@
         ]
     },
     {
-        "id": 113,
-        "name": "Trace Urban",
+        "id": 114,
+        "name": "Trace Urban HD+",
         "logoUrl": "https://i.imgur.com/DLIbUMx.png",
         "genre": "MUSIC",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/15107/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2136,14 +2173,15 @@
         ]
     },
     {
-        "id": 114,
-        "name": "Vevo",
+        "id": 115,
+        "name": "Vevo HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/250px-Vevo_2016_Logo.svg.png",
         "genre": "MUSIC",
         "streams": [
             {
                 "url": "https://d1s6jz7jeei17.cloudfront.net/playlist/amg00056-vevotv-vevo2kau-samsungau/playlist.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2154,14 +2192,15 @@
         ]
     },
     {
-        "id": 115,
-        "name": "ABC News",
+        "id": 116,
+        "name": "ABC News HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
         "genre": "NEWS",
         "streams": [
             {
                 "url": "https://stream1.freetv.fun/abc-news-2.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -2172,32 +2211,34 @@
         ]
     },
     {
-        "id": 116,
-        "name": "Aljazeera",
+        "id": 117,
+        "name": "Aljazeera HD+",
         "logoUrl": "https://i.imgur.com/7bRVpnu.png",
         "genre": "NEWS",
         "streams": [
             {
-                "url": "https://live-hls-web-aje.getaj.net/AJE/index.m3u8",
-                "region": "QA"
+                "url": "https://stream1.freetv.fun/al-jazeera-news-1.m3u8",
+                "region": "QA",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
             {
                 "url": "https://epg.pw/api/epg.xml?channel_id=441241",
-                "region": "IN"
+                "region": "QA"
             }
         ]
     },
     {
-        "id": 117,
+        "id": 118,
         "name": "BBC NEWS",
         "logoUrl": "https://i.imgur.com/vSz2WEp.png",
         "genre": "NEWS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/545/index.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "567p"
             }
         ],
         "epgUrl": [
@@ -2208,14 +2249,15 @@
         ]
     },
     {
-        "id": 118,
-        "name": "CNN",
+        "id": 119,
+        "name": "CNN HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",
         "genre": "NEWS",
         "streams": [
             {
                 "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution" : "720p"
             }
         ],
         "epgUrl": [
@@ -2226,14 +2268,15 @@
         ]
     },
     {
-        "id": 119,
-        "name": "FOX News",
+        "id": 120,
+        "name": "FOX News HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",
         "genre": "NEWS",
         "streams": [
             {
-                "url": "http://23.237.104.106:8080/USA_FOX_NEWS/index.m3u8",
-                "region": "US"
+                "url": "https://stream.livenewsplay.com:9443/hls/foxnews/foxsd.m3u8",
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -2244,14 +2287,15 @@
         ]
     },
     {
-        "id": 120,
-        "name": "MSNBC",
+        "id": 121,
+        "name": "MSNBC HD",
         "logoUrl": "https://i.imgur.com/kGUR6NE.png",
         "genre": "NEWS",
         "streams": [
             {
                 "url": "http://41.205.93.154/MSNBC/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -2262,14 +2306,15 @@
         ]
     },
     {
-        "id": 121,
-        "name": "WION News",
+        "id": 122,
+        "name": "WION News HD+",
         "logoUrl": "https://i.imgur.com/Wc5Z3iS.png",
         "genre": "NEWS",
         "streams": [
             {
                 "url": "https://stream1.freetv.fun/wion-2.m3u8",
-                "region": "IN"
+                "region": "IN",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2281,31 +2326,33 @@
     },
     {
         "id": 122,
-        "name": "Big Ten Network",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/3/39/Big_Ten_Network_Logo.svg/512px-Big_Ten_Network_Logo.svg.png",
+        "name": "Euro News HD",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png",
         "genre": "SPORTS",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/big-ten-network-2.ctv",
-                "region": "US"
+                "url": "https://stream1.freetv.fun/euronews-english-2.m3u8",
+                "region": "FR",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
             {
-                "url": "",
-                "region": ""
+                "url": "https://epg.pw/api/epg.xml?channel_id=9571",
+                "region": "FR"
             }
         ]
     },
     {
         "id": 123,
-        "name": "CBS Sports Network",
+        "name": "CBS Sports Network HD+",
         "logoUrl": "https://i.imgur.com/A8CnA8g.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7324/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2317,13 +2364,14 @@
     },
     {
         "id": 124,
-        "name": "ESPN",
+        "name": "ESPN HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/19156/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -2335,13 +2383,14 @@
     },
     {
         "id": 125,
-        "name": "ESPN 2",
+        "name": "ESPN 2 HD",
         "logoUrl": "https://i.imgur.com/00tsvjE.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/19155/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -2353,13 +2402,14 @@
     },
     {
         "id": 126,
-        "name": "Fox Sports 1",
+        "name": "Fox Sports 1 HD",
         "logoUrl": "https://i.imgur.com/O9BapV9.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7322/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -2371,13 +2421,14 @@
     },
     {
         "id": 127,
-        "name": "Fox Sports 2",
+        "name": "Fox Sports 2 HD",
         "logoUrl": "https://i.imgur.com/LHtxKI8.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30078/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -2389,13 +2440,14 @@
     },
     {
         "id": 128,
-        "name": "Premier Sports 1",
+        "name": "Premier Sports 1 HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PS_Logo_STACKED_4.png/330px-PS_Logo_STACKED_4.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6555/index.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2407,31 +2459,33 @@
     },
     {
         "id": 129,
-        "name": "Sky Sports Action",
-        "logoUrl": "https://r2.thesportsdb.com/images/media/channel/logo/7io5181634762176.png",
+        "name": "CBS Sports Network HD+",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/250px-CBS_Sports_Network_2021.svg.png",
         "genre": "SPORTS",
         "streams": [
             {
-                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/9155/index.m3u8",
-                "region": "UK"
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7324/index.m3u8",
+                "region": "UK",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
             {
-                "url": "https://epg.pw/api/epg.xml?channel_id=7214",
+                "url": "https://epg.pw/api/epg.xml?channel_id=464937",
                 "region": "UK"
             }
         ]
-    },
+    }
     {
         "id": 130,
-        "name": "Sky Sports Cricket",
+        "name": "Sky Sports Cricket HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7343/index.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2443,13 +2497,14 @@
     },
     {
         "id": 131,
-        "name": "Sky Sports F1",
+        "name": "Sky Sports F1 HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7342/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2461,13 +2516,14 @@
     },
     {
         "id": 132,
-        "name": "Sky Sports Football",
+        "name": "Sky Sports Football HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7336/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2479,13 +2535,14 @@
     },
     {
         "id": 133,
-        "name": "Sky Sports Golf",
+        "name": "Sky Sports Golf HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7344/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2497,13 +2554,14 @@
     },
     {
         "id": 134,
-        "name": "Sky Sports Main Event",
+        "name": "Sky Sports Main Event HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7337/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2515,13 +2573,14 @@
     },
     {
         "id": 135,
-        "name": "Sky Sports Mix",
+        "name": "Sky Sports Mix HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/7339/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2533,13 +2592,14 @@
     },
     {
         "id": 136,
-        "name": "Sky Sports+",
+        "name": "Sky Sports+ HD+",
         "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkIZtAtkE9ZE7ESa4c_G5LbHizi9HMZkGBgA&s",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/9248/index.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2551,13 +2611,14 @@
     },
     {
         "id": 137,
-        "name": "Sky Sports Premier League",
+        "name": "Sky Sports Premier League HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/9334/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2569,13 +2630,14 @@
     },
     {
         "id": 138,
-        "name": "Sky Sports Racing",
+        "name": "Sky Sports Racing HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1354.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2587,13 +2649,14 @@
     },
     {
         "id": 139,
-        "name": "TNT Sports 1",
+        "name": "TNT Sports 1 HD+",
         "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/2505/index.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2605,13 +2668,14 @@
     },
     {
         "id": 140,
-        "name": "TNT Sports 2",
+        "name": "TNT Sports 2 HD+",
         "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/2506/index.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -2623,13 +2687,14 @@
     },
     {
         "id": 141,
-        "name": "TNT Sports 3",
+        "name": "TNT Sports 3 HD+",
         "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
         "genre": "SPORTS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6564/index.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
