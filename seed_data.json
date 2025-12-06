@@ -1381,7 +1381,6 @@
         "streams": [
             {
                 "url": "https://stream1.freetv.fun/us-fxx-1.ctv",
-                "https://stream1.freetv.fun/us-fxx-1.ctv",
                 "region": "US"
             }
         ],
