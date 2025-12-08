@@ -27,7 +27,7 @@
             {
                 "url": "https://viamotionhsi.netplus.ch/live/eds/bbc3cbbc/browser-HLS8/bbc3cbbc.m3u8",
                 "region": "UK",
-                "resolution": "N/A"
+                "resolution": "480p"
             }
         ],
         "epgUrl": [
@@ -70,8 +70,8 @@
         ],
         "epgUrl": [
             {
-                "url": "",
-                "region": ""
+                "url": "https://epg.pw/api/epg.xml?channel_id=465088",
+                "region": "US"
             }
         ]
     },
@@ -89,8 +89,8 @@
         ],
         "epgUrl": [
             {
-                "url": "",
-                "region": ""
+                "url": "https://epg.pw/api/epg.xml?channel_id=465179",
+                "region": "US"
             }
         ]
     },
@@ -198,7 +198,7 @@
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6488/index.m3u8",
                 "region": "US",
-                "resolution": "540p"
+                "resolution": "480p"
             }
         ],
         "epgUrl": [
@@ -633,7 +633,7 @@
             {
                 "url": "https://amg00793-amg00793c6-xumo-us-2669.playouts.now.amagi.tv/BBCStudios-BBCEarthA-hls/playlist.m3u8",
                 "region": "UK",
-"resolution": "480p"
+                "resolution": "480p"
             }
         ],
         "epgUrl": [
@@ -645,13 +645,14 @@
     },
     {
         "id": 32,
-        "name": "Destination America",
+        "name": "Destination America HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/57/Destination_America_logo.svg/250px-Destination_America_logo.svg.png",
         "genre": "DOCUMENTARY",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30051/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -663,13 +664,14 @@
     },
     {
         "id": 33,
-        "name": "History",
+        "name": "History HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/01/History_%282021%29.svg/512px-History_%282021%29.svg.png",
         "genre": "DOCUMENTARY",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30105/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -681,13 +683,14 @@
     },
     {
         "id": 34,
-        "name": "Justice Central",
+        "name": "Justice Central HD",
         "logoUrl": "https://i.imgur.com/peuHszg.png",
         "genre": "DOCUMENTARY",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30120/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -705,7 +708,8 @@
         "streams": [
             {
                 "url": "https://a-cdn.klowdtv.com/live3/law_720p/playlist.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "480p"
             }
         ],
         "epgUrl": [
@@ -717,13 +721,14 @@
     },
     {
         "id": 36,
-        "name": "National Geographic",
+        "name": "National Geographic HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fc/Natgeologo.svg/512px-Natgeologo.svg.png",
         "genre": "DOCUMENTARY",
         "streams": [
             {
                 "url": "https://stream1.freetv.fun/us-national-geographic-1.ctv",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -735,13 +740,14 @@
     },
     {
         "id": 37,
-        "name": "National Geographic Wild",
+        "name": "National Geographic Wild HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/27/National_Geographic_Wild_logo.svg/512px-National_Geographic_Wild_logo.svg.png",
         "genre": "DOCUMENTARY",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/us-nat-geo-wild-east-1.ctv",
-                "region": "US"
+                "url": "https://stream1.freetv.fun/nat-geo-wild--m-2.ctv",
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -753,13 +759,14 @@
     },
     {
         "id": 38,
-        "name": "Sky History",
+        "name": "Sky History HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1875.png",
         "genre": "DOCUMENTARY",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/16037/index.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -776,8 +783,9 @@
         "genre": "KIDS",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/team-spirit-1.m3u8",
-                "region": "AU"
+                "url": "",
+                "region": "AU",
+                "resolution": "N/A"
             }
         ],
         "epgUrl": [
@@ -795,7 +803,8 @@
         "streams": [
             {
                 "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "480p"
             }
         ],
         "epgUrl": [
@@ -807,13 +816,14 @@
     },
     {
         "id": 41,
-        "name": "Boomerang",
+        "name": "Boomerang HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/35/Boomerang_2014_logo.svg/250px-Boomerang_2014_logo.svg.png",
         "genre": "KIDS",
         "streams": [
             {
                 "url": "https://stream1.freetv.fun/uk-boomerang-1.ctv",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -825,13 +835,14 @@
     },
     {
         "id": 42,
-        "name": "Cartoon Network",
+        "name": "Cartoon Network HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/80/Cartoon_Network_2010_logo.svg/800px-Cartoon_Network_2010_logo.svg.png",
         "genre": "KIDS",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/ca-cartoon-network-1.ctv",
-                "region": "US"
+                "url": "https://stream1.freetv.fun/cartoon-network--c-1.ctv",
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -843,13 +854,14 @@
     },
     {
         "id": 43,
-        "name": "Disnep Channel",
+        "name": "Disnep Channel HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
         "genre": "KIDS",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/disney-channel-25.ctv",
-                "region": "US"
+                "url": "https://stream1.freetv.fun/disney-channel-11.ctv",
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -861,13 +873,14 @@
     },
     {
         "id": 44,
-        "name": "DISNEY Jnr",
+        "name": "DISNEY Jnr HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/36/2019_Disney_Junior_logo.svg",
         "genre": "KIDS",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/usa-disney-jr-1.ctv",
-                "region": "US"
+                "url": "https://stream1.freetv.fun/disney-junior-24.ctv",
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -879,13 +892,14 @@
     },
     {
         "id": 45,
-        "name": "DISNEY XD",
+        "name": "DISNEY XD HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/a/a8/2015_Disney_XD_logo.svg",
         "genre": "KIDS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/1082/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -903,7 +917,8 @@
         "streams": [
             {
                 "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536",
-                "region": "US"
+                "region": "US",
+                "resolution": "N/A"
             }
         ],
         "epgUrl": [
@@ -915,13 +930,14 @@
     },
     {
         "id": 47,
-        "name": "M-Net Kids",
+        "name": "M-Net Kids HD",
         "logoUrl": "https://i.imgur.com/SbKkpuH.png",
         "genre": "KIDS",
         "streams": [
             {
                 "url": "http://ares.mnet.mk/hls/mnet-kids.m3u8",
-                "region": "MK"
+                "region": "MK",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -939,7 +955,8 @@
         "streams": [
             {
                 "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "480p"
             }
         ],
         "epgUrl": [
@@ -951,13 +968,14 @@
     },
     {
         "id": 49,
-        "name": "Nickelodeon",
+        "name": "Nickelodeon HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e5/Nickelodeon_2023_logo_%28outline%29.svg/500px-Nickelodeon_2023_logo_%28outline%29.svg.png",
         "genre": "KIDS",
         "streams": [
             {
                 "url": "http://23.237.104.106:8080/USA_NICKELODEON/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -969,13 +987,14 @@
     },
     {
         "id": 50,
-        "name": "Nicktoons",
+        "name": "Nicktoons HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/b/be/Nicktoons_Logo_2023.svg/250px-Nicktoons_Logo_2023.svg.png",
         "genre": "KIDS",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/31016/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1708,7 +1727,7 @@
         ]
     },
     {
-            "id": 90,
+        "id": 90,
         "name": "MoviePlex",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/500px-Movieplex_logo.svg.png",
         "genre": "MOVIES",
@@ -1869,7 +1888,7 @@
             }
         ]
     },
-       {
+    {
         "id": 99,
         "name": "Sky Action HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Sky_Cinema_Action_-_2021_logo.svg/960px-Sky_Cinema_Action_-_2021_logo.svg.png",
@@ -2258,7 +2277,7 @@
             {
                 "url": "https://turnerlive.warnermediacdn.com/hls/live/586495/cnngo/cnn_slate/VIDEO_0_3564000.m3u8",
                 "region": "US",
-                "resolution" : "720p"
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -2476,7 +2495,7 @@
                 "region": "UK"
             }
         ]
-    }
+    },
     {
         "id": 130,
         "name": "Sky Sports Cricket HD+",
@@ -2706,4 +2725,3 @@
         ]
     }
 ]
-
