@@ -1383,7 +1383,7 @@
             {
                 "url": "https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8",
                 "region": "US",
-                "resolution": "720"
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1565,7 +1565,7 @@
         ]
     },
     {
-        "id": 801,
+        "id": 80,
         "name": "1- MTV HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1584,7 +1584,7 @@
         ]
     },
      {
-        "id": 802,
+        "id": 81,
         "name": "2- MTV HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1603,7 +1603,7 @@
         ]
     },
     {
-        "id": 80,
+        "id": 82,
         "name": "Showtime HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1622,7 +1622,7 @@
         ]
     },
     {
-        "id": 81,
+        "id": 83,
         "name": "Showtime 2 HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg",
         "genre": "ENTERTAINMENT",
@@ -1641,7 +1641,7 @@
         ]
     },
     {
-        "id": 82,
+        "id": 84,
         "name": "Starz HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/250px-Starz_2022.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1660,7 +1660,7 @@
         ]
     },
     {
-        "id": 83,
+        "id": 85,
         "name": "Starz Cinema",
         "logoUrl": "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/250px-Starz_Cinema_Logo_2022.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1679,7 +1679,7 @@
         ]
     },
     {
-        "id": 84,
+        "id": 86,
         "name": "Sundace TV",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sundance_TV_Logo.png/250px-Sundance_TV_Logo.png",
         "genre": "ENTERTAINMENT",
@@ -1692,13 +1692,13 @@
         ],
         "epgUrl": [
             {
-                "url": :"https://epg.pw/api/epg.xml?channel_id=465138",
+                "url": "https://epg.pw/api/epg.xml?channel_id=465138",
                 "region": "US"
             }
         ]
     },
     {
-        "id": 85,
+        "id": 87,
         "name": "SYFY HD",
         "logoUrl": "https://i.imgur.com/4fMWhUE.png",
         "genre": "ENTERTAINMENT",
@@ -1717,7 +1717,7 @@
         ]
     },
     {
-        "id": 86,
+        "id": 88,
         "name": "USA Network HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1736,7 +1736,7 @@
         ]
     },
     {
-        "id": 87,
+        "id": 89,
         "name": "&FLIX",
         "logoUrl": "https://i.imgur.com/WOyfzjC.png",
         "genre": "MOVIES",
@@ -1755,7 +1755,7 @@
         ]
     },
     {
-        "id": 88,
+        "id": 90,
         "name": "B4U Movies HD",
         "logoUrl": "https://i.imgur.com/M9kMFJl.png",
         "genre": "MOVIES",
@@ -1778,7 +1778,7 @@
         ]
     },
     {
-        "id": 89,
+        "id": 91,
         "name": "MoviePlex HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/500px-Movieplex_logo.svg.png",
         "genre": "MOVIES",
@@ -1797,7 +1797,7 @@
         ]
     },
     {
-        "id": 90,
+        "id": 92,
         "name": "Cinemax Moremax HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png",
         "genre": "MOVIES",
@@ -1816,7 +1816,7 @@
         ]
     },
     {
-        "id": 91,
+        "id": 93,
         "name": "Cinemax MovieMax",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/52/MovieMax_Logo.svg/1188px-MovieMax_Logo.svg.png",
         "genre": "MOVIES",
@@ -1835,14 +1835,15 @@
         ]
     },
     {
-        "id": 92,
-        "name": "Discover Film",
+        "id": 94,
+        "name": "Discover Film HD",
         "logoUrl": "https://i.imgur.com/oMnpsQ5.png",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "https://discoverfilm-discoverfilm-1-nl.samsung.wurl.tv/playlist.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1853,14 +1854,15 @@
         ]
     },
     {
-        "id": 93,
-        "name": "Film 4",
+        "id": 95,
+        "name": "Film 4 HD",
         "logoUrl": "https://i.imgur.com/MTSgoGI.png",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "https://viamotionhsi.netplus.ch/live/eds/film4/browser-HLS8/film4.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1871,14 +1873,15 @@
         ]
     },
     {
-        "id": 94,
+        "id": 96,
         "name": "Filmbox",
         "logoUrl": "https://i.imgur.com/VyaslIY.png",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/1071/index.m3u8",
-                "region": "RU"
+                "region": "RU",
+                "resolution": "480p"
             }
         ],
         "epgUrl": [
@@ -1889,14 +1892,15 @@
         ]
     },
     {
-        "id": 95,
-        "name": "Hallmark Channel",
+        "id": 97,
+        "name": "Hallmark Channel HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/Hallmark_Channel.svg/512px-Hallmark_Channel.svg.png",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "https://stream1.freetv.fun/hallmark-channel-east-2.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1907,14 +1911,15 @@
         ]
     },
     {
-        "id": 96,
-        "name": "Hallmark Mystery",
+        "id": 98,
+        "name": "Hallmark Mystery HD",
         "logoUrl": "https://i.imgur.com/GPRGA9C.png",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/1075/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1925,14 +1930,15 @@
         ]
     },
     {
-        "id": 97,
+        "id": 99,
         "name": "HBO",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/de/HBO_logo.svg/512px-HBO_logo.svg.png",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "https://stream1.freetv.fun/hbo-east--s-1.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "480p"
             }
         ],
         "epgUrl": [
@@ -1943,14 +1949,15 @@
         ]
     },
     {
-        "id": 98,
-        "name": "MovieSphere",
+        "id": 100,
+        "name": "MovieSphere HD",
         "logoUrl": "https://static.wikia.nocookie.net/logopedia/images/f/f6/MovieSphere_by_Lionsgate_2022_logo.svg/revision/latest/scale-to-width-down/250?cb=20250814165614",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "https://livetv-fa.tubi.video/moviesphere/playlist.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -1961,7 +1968,7 @@
         ]
     },
     {
-        "id": 99,
+        "id": 101,
         "name": "Sky Action HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Sky_Cinema_Action_-_2021_logo.svg/960px-Sky_Cinema_Action_-_2021_logo.svg.png",
         "genre": "MOVIES",
@@ -1980,7 +1987,7 @@
         ]
     },
     {
-        "id": 100,
+        "id": 102,
         "name": "Sky Premiere HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sky_Cinema_Premiere_2024_logo.svg/512px-Sky_Cinema_Premiere_2024_logo.svg.png",
         "genre": "MOVIES",
@@ -1999,7 +2006,7 @@
         ]
     },
     {
-        "id": 101,
+        "id": 103,
         "name": "sky Select HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sky_Cinema_Select_2020.svg/960px-Sky_Cinema_Select_2020.svg.png",
         "genre": "MOVIES",
@@ -2018,7 +2025,7 @@
         ]
     },
     {
-        "id": 102,
+        "id": 104,
         "name": "Lifetime Movie Network HD",
         "logoUrl": "https://i.imgur.com/AHP3J12.png",
         "genre": "MOVIES",
@@ -2037,7 +2044,7 @@
         ]
     },
     {
-        "id": 103,
+        "id": 105,
         "name": "MGM+ Drive-In HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png",
         "genre": "MOVIES",
@@ -2056,7 +2063,7 @@
         ]
     },
     {
-        "id": 104,
+        "id": 106,
         "name": "Paramount Network",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/9/9f/Paramount_Network.svg/512px-Paramount_Network.svg.png",
         "genre": "MOVIES",
@@ -2075,7 +2082,7 @@
         ]
     },
     {
-        "id": 105,
+        "id": 107,
         "name": "Showcase HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/fa/Showcase_Logo_2015.png/250px-Showcase_Logo_2015.png",
         "genre": "MOVIES",
@@ -2094,7 +2101,7 @@
         ]
     },
     {
-        "id": 106,
+        "id": 108,
         "name": "TCM HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png",
         "genre": "MOVIES",
@@ -2113,7 +2120,7 @@
         ]
     },
     {
-        "id": 107,
+        "id": 109,
         "name": "TNT HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png",
         "genre": "MOVIES",
@@ -2132,7 +2139,7 @@
         ]
     },
     {
-        "id": 108,
+        "id": 110,
         "name": "Afrobeat TV HD",
         "logoUrl": "https://i.imgur.com/232ndRK.png",
         "genre": "MUSIC",
@@ -2151,7 +2158,7 @@
         ]
     },
     {
-        "id": 109,
+        "id": 111,
         "name": "BET Jams",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/250px-BET_Jams_2021.png",
         "genre": "MUSIC",
@@ -2170,7 +2177,7 @@
         ]
     },
     {
-        "id": 110,
+        "id": 112,
         "name": "Fresh Hits HD",
         "logoUrl": "https://i.imgur.com/gcFSxrm.png",
         "genre": "MUSIC",
@@ -2189,7 +2196,7 @@
         ]
     },
     {
-        "id": 111,
+        "id": 113,
         "name": "Fresh Lyrics",
         "logoUrl": "https://i.imgur.com/gcFSxrm.png",
         "genre": "MUSIC",
@@ -2208,7 +2215,7 @@
         ]
     },
     {
-        "id": 112,
+        "id": 114,
         "name": "MTV Hits",
         "logoUrl": "https://i.imgur.com/x1zYoCW.png",
         "genre": "MUSIC",
@@ -2227,7 +2234,7 @@
         ]
     },
     {
-        "id": 113,
+        "id": 115,
         "name": "MTV Live HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png",
         "genre": "MUSIC",
@@ -2246,7 +2253,7 @@
         ]
     },
     {
-        "id": 114,
+        "id": 116,
         "name": "Trace UK",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png",
         "genre": "MUSIC",
@@ -2265,7 +2272,7 @@
         ]
     },
     {
-        "id": 115,
+        "id": 117,
         "name": "Trace Urban HD",
         "logoUrl": "https://i.imgur.com/DLIbUMx.png",
         "genre": "MUSIC",
@@ -2284,7 +2291,7 @@
         ]
     },
     {
-        "id": 116,
+        "id": 118,
         "name": "Vevo HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/250px-Vevo_2016_Logo.svg.png",
         "genre": "MUSIC",
@@ -2303,7 +2310,7 @@
         ]
     },
     {
-        "id": 117,
+        "id": 119,
         "name": "ABC News HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
         "genre": "NEWS",
@@ -2322,7 +2329,7 @@
         ]
     },
     {
-        "id": 118,
+        "id": 120,
         "name": "Aljazeera HD",
         "logoUrl": "https://i.imgur.com/7bRVpnu.png",
         "genre": "NEWS",
@@ -2341,7 +2348,7 @@
         ]
     },
     {
-        "id": 119,
+        "id": 121,
         "name": "BBC NEWS",
         "logoUrl": "https://i.imgur.com/vSz2WEp.png",
         "genre": "NEWS",
@@ -2360,7 +2367,7 @@
         ]
     },
     {
-        "id": 120,
+        "id": 122,
         "name": "CNN HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",
         "genre": "NEWS",
@@ -2379,7 +2386,7 @@
         ]
     },
     {
-        "id": 121,
+        "id": 123,
         "name": "FOX News HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",
         "genre": "NEWS",
@@ -2398,7 +2405,7 @@
         ]
     },
     {
-        "id": 122,
+        "id": 124,
         "name": "MSNBC HD",
         "logoUrl": "https://i.imgur.com/kGUR6NE.png",
         "genre": "NEWS",
@@ -2417,7 +2424,7 @@
         ]
     },
     {
-        "id": 123,
+        "id": 125,
         "name": "WION News HD",
         "logoUrl": "https://i.imgur.com/Wc5Z3iS.png",
         "genre": "NEWS",
@@ -2436,7 +2443,7 @@
         ]
     },
     {
-        "id": 124,
+        "id": 126,
         "name": "Euro News HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png",
         "genre": "SPORTS",
@@ -2455,7 +2462,7 @@
         ]
     },
     {
-        "id": 125,
+        "id": 127,
         "name": "CBS Sports Network HD",
         "logoUrl": "https://i.imgur.com/A8CnA8g.png",
         "genre": "SPORTS",
@@ -2474,7 +2481,7 @@
         ]
     },
     {
-        "id": 126,
+        "id": 128,
         "name": "ESPN HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
         "genre": "SPORTS",
@@ -2493,7 +2500,7 @@
         ]
     },
     {
-        "id": 127,
+        "id": 129,
         "name": "ESPN 2 HD",
         "logoUrl": "https://i.imgur.com/00tsvjE.png",
         "genre": "SPORTS",
@@ -2512,7 +2519,7 @@
         ]
     },
     {
-        "id": 128,
+        "id": 130,
         "name": "Fox Sports 1 HD",
         "logoUrl": "https://i.imgur.com/O9BapV9.png",
         "genre": "SPORTS",
@@ -2531,7 +2538,7 @@
         ]
     },
     {
-        "id": 129,
+        "id": 131,
         "name": "Fox Sports 2 HD",
         "logoUrl": "https://i.imgur.com/LHtxKI8.png",
         "genre": "SPORTS",
@@ -2550,7 +2557,7 @@
         ]
     },
     {
-        "id": 130,
+        "id": 132,
         "name": "Premier Sports 1 HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PS_Logo_STACKED_4.png/330px-PS_Logo_STACKED_4.png",
         "genre": "SPORTS",
@@ -2569,7 +2576,7 @@
         ]
     },
     {
-        "id": 131,
+        "id": 133,
         "name": "CBS Sports Network HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/250px-CBS_Sports_Network_2021.svg.png",
         "genre": "SPORTS",
@@ -2588,7 +2595,7 @@
         ]
     },
     {
-        "id": 132,
+        "id": 134,
         "name": "Sky Sports Cricket HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
         "genre": "SPORTS",
@@ -2607,7 +2614,7 @@
         ]
     },
     {
-        "id": 133,
+        "id": 135,
         "name": "Sky Sports F1 HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
         "genre": "SPORTS",
@@ -2626,7 +2633,7 @@
         ]
     },
     {
-        "id": 134,
+        "id": 136,
         "name": "Sky Sports Football HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png",
         "genre": "SPORTS",
@@ -2645,7 +2652,7 @@
         ]
     },
     {
-        "id": 135,
+        "id": 137,
         "name": "Sky Sports Golf HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
         "genre": "SPORTS",
@@ -2664,7 +2671,7 @@
         ]
     },
     {
-        "id": 136,
+        "id": 138,
         "name": "Sky Sports Main Event HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
         "genre": "SPORTS",
@@ -2683,7 +2690,7 @@
         ]
     },
     {
-        "id": 137,
+        "id": 139,
         "name": "Sky Sports Mix HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png",
         "genre": "SPORTS",
@@ -2702,7 +2709,7 @@
         ]
     },
     {
-        "id": 138,
+        "id": 140,
         "name": "Sky Sports+ HD",
         "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkIZtAtkE9ZE7ESa4c_G5LbHizi9HMZkGBgA&s",
         "genre": "SPORTS",
@@ -2721,7 +2728,7 @@
         ]
     },
     {
-        "id": 139,
+        "id": 141,
         "name": "Sky Sports Premier League HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png",
         "genre": "SPORTS",
@@ -2740,7 +2747,7 @@
         ]
     },
     {
-        "id": 140,
+        "id": 142,
         "name": "Sky Sports Racing HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1354.png",
         "genre": "SPORTS",
@@ -2759,7 +2766,7 @@
         ]
     },
     {
-        "id": 141,
+        "id": 143,
         "name": "TNT Sports 1 HD",
         "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
         "genre": "SPORTS",
@@ -2778,7 +2785,7 @@
         ]
     },
     {
-        "id": 142,
+        "id": 144,
         "name": "TNT Sports 2 HD",
         "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
         "genre": "SPORTS",
@@ -2797,7 +2804,7 @@
         ]
     },
     {
-        "id": 143,
+        "id": 145,
         "name": "TNT Sports 3 HD",
         "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
         "genre": "SPORTS",
