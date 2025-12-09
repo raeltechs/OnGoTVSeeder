@@ -911,14 +911,14 @@
     },
     {
         "id": 46,
-        "name": "LEGO Kids",
+        "name": "LEGO Kids HD",
         "logoUrl": "https://i.imgur.com/tMfEsVr.png",
         "genre": "KIDS",
         "streams": [
             {
                 "url": "http://cfd-v4-service-channel-stitcher-use1-1.prd.pluto.tv/stitch/hls/channel/60fb01a24795a6000762fe83/master.m3u8?appName=web&appVersion=unknown&clientTime=0&deviceDNT=0&deviceId=6c2966a8-30d3-11ef-9cf5-e9ddff8ff496&deviceMake=Chrome&deviceModel=web&deviceType=web&deviceVersion=unknown&includeExtendedEvents=false&serverSideAds=false&sid=65f7a3a9-1736-46bc-aaa5-7e4778774536",
                 "region": "US",
-                "resolution": "N/A"
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1281,6 +1281,24 @@
     },
     {
         "id": 65,
+        "name": "CBS HD",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/1280px-CBS_logo_%282020%29.svg.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8",
+                "region": "US"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=466235",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 66,
         "name": "Cinemax",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1298,7 +1316,7 @@
         ]
     },
     {
-        "id": 66,
+        "id": 67,
         "name": "Crime+Investigations",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
         "genre": "ENTERTAINMENT",
@@ -1316,7 +1334,7 @@
         ]
     },
     {
-        "id": 67,
+        "id": 68,
         "name": "E!",
         "logoUrl": "https://i.imgur.com/TWFDkap.png",
         "genre": "ENTERTAINMENT",
@@ -1334,7 +1352,7 @@
         ]
     },
     {
-        "id": 68,
+        "id": 69,
         "name": "Fuse",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png",
         "genre": "ENTERTAINMENT",
@@ -1352,7 +1370,7 @@
         ]
     },
     {
-        "id": 69,
+        "id": 70,
         "name": "Freebie TV",
         "logoUrl": "https://i.imgur.com/KbmXdjm.png",
         "genre": "ENTERTAINMENT",
@@ -1370,7 +1388,7 @@
         ]
     },
     {
-        "id": 70,
+        "id": 71,
         "name": "FX",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1388,7 +1406,7 @@
         ]
     },
     {
-        "id": 71,
+        "id": 72,
         "name": "FXM",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1406,7 +1424,7 @@
         ]
     },
     {
-        "id": 72,
+        "id": 73,
         "name": "FXX",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3e/FXX_Logo.svg/512px-FXX_Logo.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1424,7 +1442,7 @@
         ]
     },
     {
-        "id": 73,
+        "id": 74,
         "name": "Game Show Network",
         "logoUrl": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg",
         "genre": "ENTERTAINMENT",
@@ -1442,7 +1460,7 @@
         ]
     },
     {
-        "id": 74,
+        "id": 75,
         "name": "itv 1",
         "logoUrl": "https://i.imgur.com/xwPekCF.png",
         "genre": "ENTERTAINMENT",
@@ -1460,7 +1478,7 @@
         ]
     },
     {
-        "id": 75,
+        "id": 76,
         "name": "itv 2",
         "logoUrl": "https://i.imgur.com/2BpUK0W.png",
         "genre": "ENTERTAINMENT",
@@ -1478,7 +1496,7 @@
         ]
     },
     {
-        "id": 76,
+        "id": 77,
         "name": "itv 3",
         "logoUrl": "https://i.imgur.com/JuyM2z5.png",
         "genre": "ENTERTAINMENT",
@@ -1496,7 +1514,7 @@
         ]
     },
     {
-        "id": 77,
+        "id": 78,
         "name": "itv 4",
         "logoUrl": "https://i.imgur.com/DYI4IA2.png",
         "genre": "ENTERTAINMENT",
@@ -1514,7 +1532,7 @@
         ]
     },
     {
-        "id": 78,
+        "id": 79,
         "name": "More4",
         "logoUrl": "https://i.imgur.com/cx5YcAU.png",
         "genre": "ENTERTAINMENT",
@@ -1532,7 +1550,7 @@
         ]
     },
     {
-        "id": 79,
+        "id": 80,
         "name": "MTV",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1558,7 +1576,7 @@
         ]
     },
     {
-        "id": 80,
+        "id": 81,
         "name": "Showtime",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1576,7 +1594,7 @@
         ]
     },
     {
-        "id": 81,
+        "id": 82,
         "name": "Showtime 2",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg",
         "genre": "ENTERTAINMENT",
@@ -1594,7 +1612,7 @@
         ]
     },
     {
-        "id": 82,
+        "id": 83,
         "name": "Starz",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/250px-Starz_2022.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1612,7 +1630,7 @@
         ]
     },
     {
-        "id": 83,
+        "id": 84,
         "name": "Starz Cinema",
         "logoUrl": "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/250px-Starz_Cinema_Logo_2022.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1630,7 +1648,7 @@
         ]
     },
     {
-        "id": 84,
+        "id": 85,
         "name": "SYFY",
         "logoUrl": "https://i.imgur.com/4fMWhUE.png",
         "genre": "ENTERTAINMENT",
@@ -1644,24 +1662,6 @@
             {
                 "url": "https://epg.pw/api/epg.xml?channel_id=465053",
                 "region": "US"
-            }
-        ]
-    },
-    {
-        "id": 85,
-        "name": "Universal TV",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/0d/Universal_TV_2018.svg",
-        "genre": "ENTERTAINMENT",
-        "streams": [
-            {
-                "url": "https://stream1.freetv.fun/universal-tv-3.ctv",
-                "region": "US"
-            }
-        ],
-        "epgUrl": [
-            {
-                "url": "https://epg.pw/api/epg.xml?channel_id=446997",
-                "region": ""
             }
         ]
     },
