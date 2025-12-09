@@ -96,7 +96,7 @@
     },
     {
         "id": 5,
-        "name": "Discovery Family HD+",
+        "name": "Discovery Family HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c0/Discovery_Family_Logo_%282014%29.svg/500px-Discovery_Family_Logo_%282014%29.svg.png",
         "genre": "LIFESTYLE",
         "streams": [
@@ -134,7 +134,7 @@
     },
     {
         "id": 7,
-        "name": "Fashion TV HD+",
+        "name": "Fashion TV HD",
         "logoUrl": "https://i.imgur.com/ucTh9tO.png",
         "genre": "LIFESTYLE",
         "streams": [
@@ -172,7 +172,7 @@
     },
     {
         "id": 9,
-        "name": "Global Fashion Channel HD+",
+        "name": "Global Fashion Channel HD",
         "logoUrl": "https://i.imgur.com/s4eGYEP.jpg",
         "genre": "LIFESTYLE",
         "streams": [
@@ -210,7 +210,7 @@
     },
     {
         "id": 11,
-        "name": "TLC HD+",
+        "name": "TLC HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/7/74/TLC_Logo.svg/512px-TLC_Logo.svg.png",
         "genre": "LIFESTYLE",
         "streams": [
@@ -229,7 +229,7 @@
     },
     {
         "id": 12,
-        "name": "Food Network HD+",
+        "name": "Food Network HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f9/Food_Network_New_Logo.png/512px-Food_Network_New_Logo.png",
         "genre": "FOOD",
         "streams": [
@@ -512,7 +512,7 @@
     },
     {
         "id": 25,
-        "name": "Motor Trend HD+",
+        "name": "Motor Trend HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/5/5a/Motor_Trend.svg/250px-Motor_Trend.svg.png",
         "genre": "AUTO",
         "streams": [
@@ -531,7 +531,7 @@
     },
     {
         "id": 26,
-        "name": "Comedy Central HD+",
+        "name": "Comedy Central HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/a/aa/Comedy_Central_2018.svg/512px-Comedy_Central_2018.svg.png",
         "genre": "COMEDY",
         "streams": [
@@ -550,7 +550,7 @@
     },
     {
         "id": 27,
-        "name": "Comedy Dynamics HD+",
+        "name": "Comedy Dynamics HD",
         "logoUrl": "https://i.imgur.com/1lEvUOa.png",
         "genre": "COMEDY",
         "streams": [
@@ -569,14 +569,14 @@
     },
     {
         "id": 28,
-        "name": "LOL! Network",
+        "name": "LOL! Network HD",
         "logoUrl": "https://i.imgur.com/Tiy3Ur2.png",
         "genre": "COMEDY",
         "streams": [
             {
-                "url": "https://lol-lolnetwork-2-nl.samsung.wurl.tv/playlist.m3u8",
+                "url": "https://livetv-fa.tubi.video/lol-network3/playlist.m3u8",
                 "region": "US",
-                "resolution": "N/A"
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -607,7 +607,7 @@
     },
     {
         "id": 30,
-        "name": "Fox Now HD+",
+        "name": "Fox Now HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2d/LiveNOW_from_FOX.png/250px-LiveNOW_from_FOX.png",
         "genre": "CULTURE",
         "streams": [
@@ -1906,7 +1906,7 @@
     },
     {
         "id": 99,
-        "name": "Sky Action HD+",
+        "name": "Sky Action HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/5/50/Sky_Cinema_Action_-_2021_logo.svg/960px-Sky_Cinema_Action_-_2021_logo.svg.png",
         "genre": "MOVIES",
         "streams": [
@@ -1925,7 +1925,7 @@
     },
     {
         "id": 100,
-        "name": "Sky Premiere HD+",
+        "name": "Sky Premiere HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/1/18/Sky_Cinema_Premiere_2024_logo.svg/512px-Sky_Cinema_Premiere_2024_logo.svg.png",
         "genre": "MOVIES",
         "streams": [
@@ -1944,7 +1944,7 @@
     },
     {
         "id": 101,
-        "name": "sky Select HD+",
+        "name": "sky Select HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/48/Sky_Cinema_Select_2020.svg/960px-Sky_Cinema_Select_2020.svg.png",
         "genre": "MOVIES",
         "streams": [
@@ -1982,7 +1982,7 @@
     },
     {
         "id": 103,
-        "name": "MGM+ Drive-In HD+",
+        "name": "MGM+ Drive-In HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f3/MGM%2B_Drive-In_2023.svg/512px-MGM%2B_Drive-In_2023.svg.png",
         "genre": "MOVIES",
         "streams": [
@@ -2039,7 +2039,7 @@
     },
     {
         "id": 106,
-        "name": "TCM HD+",
+        "name": "TCM HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/TCM_2021.svg/512px-TCM_2021.svg.png",
         "genre": "MOVIES",
         "streams": [
@@ -2058,7 +2058,7 @@
     },
     {
         "id": 107,
-        "name": "TNT HD+",
+        "name": "TNT HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/24/TNT_Logo_2016.svg/512px-TNT_Logo_2016.svg.png",
         "genre": "MOVIES",
         "streams": [
@@ -2077,7 +2077,7 @@
     },
     {
         "id": 108,
-        "name": "Afrobeat TV HD+",
+        "name": "Afrobeat TV HD",
         "logoUrl": "https://i.imgur.com/232ndRK.png",
         "genre": "MUSIC",
         "streams": [
@@ -2115,7 +2115,7 @@
     },
     {
         "id": 110,
-        "name": "Fresh Hits HD+",
+        "name": "Fresh Hits HD",
         "logoUrl": "https://i.imgur.com/gcFSxrm.png",
         "genre": "MUSIC",
         "streams": [
@@ -2172,7 +2172,7 @@
     },
     {
         "id": 113,
-        "name": "MTV Live HD+",
+        "name": "MTV Live HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png",
         "genre": "MUSIC",
         "streams": [
@@ -2210,7 +2210,7 @@
     },
     {
         "id": 115,
-        "name": "Trace Urban HD+",
+        "name": "Trace Urban HD",
         "logoUrl": "https://i.imgur.com/DLIbUMx.png",
         "genre": "MUSIC",
         "streams": [
@@ -2229,7 +2229,7 @@
     },
     {
         "id": 116,
-        "name": "Vevo HD+",
+        "name": "Vevo HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/250px-Vevo_2016_Logo.svg.png",
         "genre": "MUSIC",
         "streams": [
@@ -2267,7 +2267,7 @@
     },
     {
         "id": 118,
-        "name": "Aljazeera HD+",
+        "name": "Aljazeera HD",
         "logoUrl": "https://i.imgur.com/7bRVpnu.png",
         "genre": "NEWS",
         "streams": [
@@ -2362,7 +2362,7 @@
     },
     {
         "id": 123,
-        "name": "WION News HD+",
+        "name": "WION News HD",
         "logoUrl": "https://i.imgur.com/Wc5Z3iS.png",
         "genre": "NEWS",
         "streams": [
@@ -2400,7 +2400,7 @@
     },
     {
         "id": 125,
-        "name": "CBS Sports Network HD+",
+        "name": "CBS Sports Network HD",
         "logoUrl": "https://i.imgur.com/A8CnA8g.png",
         "genre": "SPORTS",
         "streams": [
@@ -2495,7 +2495,7 @@
     },
     {
         "id": 130,
-        "name": "Premier Sports 1 HD+",
+        "name": "Premier Sports 1 HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PS_Logo_STACKED_4.png/330px-PS_Logo_STACKED_4.png",
         "genre": "SPORTS",
         "streams": [
@@ -2514,7 +2514,7 @@
     },
     {
         "id": 131,
-        "name": "CBS Sports Network HD+",
+        "name": "CBS Sports Network HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/250px-CBS_Sports_Network_2021.svg.png",
         "genre": "SPORTS",
         "streams": [
@@ -2533,7 +2533,7 @@
     },
     {
         "id": 132,
-        "name": "Sky Sports Cricket HD+",
+        "name": "Sky Sports Cricket HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
         "genre": "SPORTS",
         "streams": [
@@ -2552,7 +2552,7 @@
     },
     {
         "id": 133,
-        "name": "Sky Sports F1 HD+",
+        "name": "Sky Sports F1 HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
         "genre": "SPORTS",
         "streams": [
@@ -2571,7 +2571,7 @@
     },
     {
         "id": 134,
-        "name": "Sky Sports Football HD+",
+        "name": "Sky Sports Football HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png",
         "genre": "SPORTS",
         "streams": [
@@ -2590,7 +2590,7 @@
     },
     {
         "id": 135,
-        "name": "Sky Sports Golf HD+",
+        "name": "Sky Sports Golf HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
         "genre": "SPORTS",
         "streams": [
@@ -2609,7 +2609,7 @@
     },
     {
         "id": 136,
-        "name": "Sky Sports Main Event HD+",
+        "name": "Sky Sports Main Event HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
         "genre": "SPORTS",
         "streams": [
@@ -2628,7 +2628,7 @@
     },
     {
         "id": 137,
-        "name": "Sky Sports Mix HD+",
+        "name": "Sky Sports Mix HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png",
         "genre": "SPORTS",
         "streams": [
@@ -2647,7 +2647,7 @@
     },
     {
         "id": 138,
-        "name": "Sky Sports+ HD+",
+        "name": "Sky Sports+ HD",
         "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkIZtAtkE9ZE7ESa4c_G5LbHizi9HMZkGBgA&s",
         "genre": "SPORTS",
         "streams": [
@@ -2666,7 +2666,7 @@
     },
     {
         "id": 139,
-        "name": "Sky Sports Premier League HD+",
+        "name": "Sky Sports Premier League HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png",
         "genre": "SPORTS",
         "streams": [
@@ -2685,7 +2685,7 @@
     },
     {
         "id": 140,
-        "name": "Sky Sports Racing HD+",
+        "name": "Sky Sports Racing HD",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1354.png",
         "genre": "SPORTS",
         "streams": [
@@ -2704,7 +2704,7 @@
     },
     {
         "id": 141,
-        "name": "TNT Sports 1 HD+",
+        "name": "TNT Sports 1 HD",
         "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
         "genre": "SPORTS",
         "streams": [
@@ -2723,7 +2723,7 @@
     },
     {
         "id": 142,
-        "name": "TNT Sports 2 HD+",
+        "name": "TNT Sports 2 HD",
         "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
         "genre": "SPORTS",
         "streams": [
@@ -2742,7 +2742,7 @@
     },
     {
         "id": 143,
-        "name": "TNT Sports 3 HD+",
+        "name": "TNT Sports 3 HD",
         "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
         "genre": "SPORTS",
         "streams": [
