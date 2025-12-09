@@ -2254,14 +2254,14 @@
     },
     {
         "id": 116,
-        "name": "Trace UK",
+        "name": "Trace UK HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png",
         "genre": "MUSIC",
         "streams": [
             {
                 "url": "https://d35j504z0x2vu2.cloudfront.net/v1/master/0bc8e8376bd8417a1b6761138aa41c26c7309312/trace-uk/encrypted.m3u8",
                 "region": "UK",
-                "resolution": "N/A"
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
