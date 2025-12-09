@@ -2096,6 +2096,25 @@
     },
     {
         "id": 109,
+        "name": "BET Jams",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/c/c9/BET_Jams_2021.png/250px-BET_Jams_2021.png",
+        "genre": "MUSIC",
+        "streams": [
+            {
+                "url": "https://fl1.moveonjoy.com/BET_Jams/index.m3u8",
+                "region": "US",
+                "resolution": "480p"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465128",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 110,
         "name": "Fresh Hits HD+",
         "logoUrl": "https://i.imgur.com/gcFSxrm.png",
         "genre": "MUSIC",
@@ -2114,7 +2133,7 @@
         ]
     },
     {
-        "id": 110,
+        "id": 111,
         "name": "Fresh Lyrics",
         "logoUrl": "https://i.imgur.com/gcFSxrm.png",
         "genre": "MUSIC",
@@ -2133,7 +2152,7 @@
         ]
     },
     {
-        "id": 111,
+        "id": 112,
         "name": "MTV Hits",
         "logoUrl": "https://i.imgur.com/x1zYoCW.png",
         "genre": "MUSIC",
@@ -2152,7 +2171,7 @@
         ]
     },
     {
-        "id": 112,
+        "id": 113,
         "name": "MTV Live HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/MTV_Live_2021_logo.svg/512px-MTV_Live_2021_logo.svg.png",
         "genre": "MUSIC",
@@ -2171,7 +2190,7 @@
         ]
     },
     {
-        "id": 113,
+        "id": 114,
         "name": "Trace UK",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/0/09/Trace_UK_Logo.png",
         "genre": "MUSIC",
@@ -2190,7 +2209,7 @@
         ]
     },
     {
-        "id": 114,
+        "id": 115,
         "name": "Trace Urban HD+",
         "logoUrl": "https://i.imgur.com/DLIbUMx.png",
         "genre": "MUSIC",
@@ -2209,7 +2228,7 @@
         ]
     },
     {
-        "id": 115,
+        "id": 116,
         "name": "Vevo HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/f/f0/Vevo_2016_Logo.svg/250px-Vevo_2016_Logo.svg.png",
         "genre": "MUSIC",
@@ -2228,7 +2247,7 @@
         ]
     },
     {
-        "id": 116,
+        "id": 117,
         "name": "ABC News HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/63/ABC_News_Live_logo_2021.svg/512px-ABC_News_Live_logo_2021.svg.png",
         "genre": "NEWS",
@@ -2247,7 +2266,7 @@
         ]
     },
     {
-        "id": 117,
+        "id": 118,
         "name": "Aljazeera HD+",
         "logoUrl": "https://i.imgur.com/7bRVpnu.png",
         "genre": "NEWS",
@@ -2266,7 +2285,7 @@
         ]
     },
     {
-        "id": 118,
+        "id": 119,
         "name": "BBC NEWS",
         "logoUrl": "https://i.imgur.com/vSz2WEp.png",
         "genre": "NEWS",
@@ -2285,7 +2304,7 @@
         ]
     },
     {
-        "id": 119,
+        "id": 120,
         "name": "CNN HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/b/b1/CNN.svg",
         "genre": "NEWS",
@@ -2304,7 +2323,7 @@
         ]
     },
     {
-        "id": 120,
+        "id": 121,
         "name": "FOX News HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/67/Fox_News_Channel_logo.svg",
         "genre": "NEWS",
@@ -2323,7 +2342,7 @@
         ]
     },
     {
-        "id": 121,
+        "id": 122,
         "name": "MSNBC HD",
         "logoUrl": "https://i.imgur.com/kGUR6NE.png",
         "genre": "NEWS",
@@ -2342,7 +2361,7 @@
         ]
     },
     {
-        "id": 122,
+        "id": 123,
         "name": "WION News HD+",
         "logoUrl": "https://i.imgur.com/Wc5Z3iS.png",
         "genre": "NEWS",
@@ -2361,7 +2380,7 @@
         ]
     },
     {
-        "id": 122,
+        "id": 124,
         "name": "Euro News HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/3/3c/Euronews_Logo_2025.svg/250px-Euronews_Logo_2025.svg.png",
         "genre": "SPORTS",
@@ -2380,7 +2399,7 @@
         ]
     },
     {
-        "id": 123,
+        "id": 125,
         "name": "CBS Sports Network HD+",
         "logoUrl": "https://i.imgur.com/A8CnA8g.png",
         "genre": "SPORTS",
@@ -2399,7 +2418,7 @@
         ]
     },
     {
-        "id": 124,
+        "id": 126,
         "name": "ESPN HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
         "genre": "SPORTS",
@@ -2418,7 +2437,7 @@
         ]
     },
     {
-        "id": 125,
+        "id": 127,
         "name": "ESPN 2 HD",
         "logoUrl": "https://i.imgur.com/00tsvjE.png",
         "genre": "SPORTS",
@@ -2437,7 +2456,7 @@
         ]
     },
     {
-        "id": 126,
+        "id": 128,
         "name": "Fox Sports 1 HD",
         "logoUrl": "https://i.imgur.com/O9BapV9.png",
         "genre": "SPORTS",
@@ -2456,7 +2475,7 @@
         ]
     },
     {
-        "id": 127,
+        "id": 129,
         "name": "Fox Sports 2 HD",
         "logoUrl": "https://i.imgur.com/LHtxKI8.png",
         "genre": "SPORTS",
@@ -2475,7 +2494,7 @@
         ]
     },
     {
-        "id": 128,
+        "id": 130,
         "name": "Premier Sports 1 HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/8/8c/PS_Logo_STACKED_4.png/330px-PS_Logo_STACKED_4.png",
         "genre": "SPORTS",
@@ -2494,7 +2513,7 @@
         ]
     },
     {
-        "id": 129,
+        "id": 131,
         "name": "CBS Sports Network HD+",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/04/CBS_Sports_Network_2021.svg/250px-CBS_Sports_Network_2021.svg.png",
         "genre": "SPORTS",
@@ -2513,7 +2532,7 @@
         ]
     },
     {
-        "id": 130,
+        "id": 132,
         "name": "Sky Sports Cricket HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1302.png",
         "genre": "SPORTS",
@@ -2532,7 +2551,7 @@
         ]
     },
     {
-        "id": 131,
+        "id": 133,
         "name": "Sky Sports F1 HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1306.png",
         "genre": "SPORTS",
@@ -2551,7 +2570,7 @@
         ]
     },
     {
-        "id": 132,
+        "id": 134,
         "name": "Sky Sports Football HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb3838.png",
         "genre": "SPORTS",
@@ -2570,7 +2589,7 @@
         ]
     },
     {
-        "id": 133,
+        "id": 135,
         "name": "Sky Sports Golf HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1322.png",
         "genre": "SPORTS",
@@ -2589,7 +2608,7 @@
         ]
     },
     {
-        "id": 134,
+        "id": 136,
         "name": "Sky Sports Main Event HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1301.png",
         "genre": "SPORTS",
@@ -2608,7 +2627,7 @@
         ]
     },
     {
-        "id": 135,
+        "id": 137,
         "name": "Sky Sports Mix HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb4091.png",
         "genre": "SPORTS",
@@ -2627,7 +2646,7 @@
         ]
     },
     {
-        "id": 136,
+        "id": 138,
         "name": "Sky Sports+ HD+",
         "logoUrl": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTkIZtAtkE9ZE7ESa4c_G5LbHizi9HMZkGBgA&s",
         "genre": "SPORTS",
@@ -2646,7 +2665,7 @@
         ]
     },
     {
-        "id": 137,
+        "id": 139,
         "name": "Sky Sports Premier League HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1303.png",
         "genre": "SPORTS",
@@ -2665,7 +2684,7 @@
         ]
     },
     {
-        "id": 138,
+        "id": 140,
         "name": "Sky Sports Racing HD+",
         "logoUrl": "https://d2n0069hmnqmmx.cloudfront.net/epgdata/1.0/newchanlogos/512/512/skychb1354.png",
         "genre": "SPORTS",
@@ -2684,7 +2703,7 @@
         ]
     },
     {
-        "id": 139,
+        "id": 141,
         "name": "TNT Sports 1 HD+",
         "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-1-uk.png",
         "genre": "SPORTS",
@@ -2703,7 +2722,7 @@
         ]
     },
     {
-        "id": 140,
+        "id": 142,
         "name": "TNT Sports 2 HD+",
         "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-2-uk.png",
         "genre": "SPORTS",
@@ -2722,7 +2741,7 @@
         ]
     },
     {
-        "id": 141,
+        "id": 143,
         "name": "TNT Sports 3 HD+",
         "logoUrl": "https://raw.githubusercontent.com/tv-logo/tv-logos/refs/heads/main/countries/united-kingdom/tnt-sports-3-uk.png",
         "genre": "SPORTS",
