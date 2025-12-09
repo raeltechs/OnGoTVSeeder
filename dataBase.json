@@ -1414,13 +1414,14 @@
     },
     {
         "id": 72,
-        "name": "FXM",
+        "name": "FXM HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/FXM_Logo.svg/512px-FXM_Logo.svg.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://fl1.moveonjoy.com/FX_MOVIE/index.m3u8",
-                "region": "US"
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/1106/index.m3u8",
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1437,14 +1438,15 @@
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/us-fxx-1.ctv",
-                "region": "US"
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6470/index.m3u8",
+                "region": "CA",
+                "resolution": "480p"
             }
         ],
         "epgUrl": [
             {
-                "url": "https://epg.pw/api/epg.xml?channel_id=465357",
-                "region": "US"
+                "url": "https://epg.pw/api/epg.xml?channel_id=470820",
+                "region": "CA"
             }
         ]
     },
