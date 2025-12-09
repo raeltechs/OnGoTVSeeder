@@ -1243,25 +1243,6 @@
     },
     {
         "id": 63,
-        "name": "Blaze",
-        "logoUrl": "https://i.imgur.com/6UcPWP9.png",
-        "genre": "ENTERTAINMENT",
-        "streams": [
-            {
-                "url": "https://live-blaze-ssai.simplestreamcdn.com/v1/master/774d979dd66704abea7c5b62cb34c6815fda0d35/blaze-live-broadcast-scte/index.m3u8",
-                "region": "UK",
-                "resolution": "N/A"
-            }
-        ],
-        "epgUrl": [
-            {
-                "url": "https://epg.pw/api/epg.xml?channel_id=9176",
-                "region": "UK"
-            }
-        ]
-    },
-    {
-        "id": 64,
         "name": "Bravo",
         "logoUrl": "https://i.imgur.com/JmTIRLF.png",
         "genre": "ENTERTAINMENT",
@@ -1280,7 +1261,7 @@
         ]
     },
     {
-        "id": 65,
+        "id": 64,
         "name": "CBS HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/CBS_logo_%282020%29.svg/1280px-CBS_logo_%282020%29.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1298,7 +1279,7 @@
         ]
     },
     {
-        "id": 66,
+        "id": 65,
         "name": "Cinemax",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/66/Cinemax_2016.svg/512px-Cinemax_2016.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1316,7 +1297,7 @@
         ]
     },
     {
-        "id": 67,
+        "id": 66,
         "name": "Crime+Investigations",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/4/4d/Crime_%2B_Investigation_Logo_10.2019.svg",
         "genre": "ENTERTAINMENT",
@@ -1329,6 +1310,25 @@
         "epgUrl": [
             {
                 "url": "https://epg.pw/api/epg.xml?channel_id=465040",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "name": "CW HD",
+        "logoUrl": "https://i.imgur.com/6UcPWP9.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://cvtv.cvalley.net/hls/KCWECW/KCWECW.m3u8",
+                "region": "US",
+                "resolution": "720p"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=467385",
                 "region": "US"
             }
         ]
