@@ -1452,13 +1452,14 @@
     },
     {
         "id": 74,
-        "name": "Game Show Network",
+        "name": "Game Show Network HD",
         "logoUrl": "https://www.gameshownetwork.com/storage/app/media/2020/Navigation/gsn_logo.jpg",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
                 "url": "https://a-cdn.klowdtv.com/live2/gsn_720p/playlist.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1476,7 +1477,8 @@
         "streams": [
             {
                 "url": "https://viamotionhsi.netplus.ch/live/eds/itv1/browser-HLS8/itv1.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "N/A"
             }
         ],
         "epgUrl": [
@@ -1488,13 +1490,14 @@
     },
     {
         "id": 76,
-        "name": "itv 2",
+        "name": "itv 2 HD",
         "logoUrl": "https://i.imgur.com/2BpUK0W.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
                 "url": "https://viamotionhsi.netplus.ch/live/eds/itv2/browser-HLS8/itv2.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1506,13 +1509,14 @@
     },
     {
         "id": 77,
-        "name": "itv 3",
+        "name": "itv 3 HD",
         "logoUrl": "https://i.imgur.com/JuyM2z5.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
                 "url": "https://viamotionhsi.netplus.ch/live/eds/itv3/browser-HLS8/itv3.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1524,13 +1528,14 @@
     },
     {
         "id": 78,
-        "name": "itv 4",
+        "name": "itv 4 HD",
         "logoUrl": "https://i.imgur.com/DYI4IA2.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
                 "url": "https://viamotionhsi.netplus.ch/live/eds/itv4/browser-HLS8/itv4.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1548,7 +1553,8 @@
         "streams": [
             {
                 "url": "https://viamotionhsi.netplus.ch/live/eds/more4/browser-HLS8/more4.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "480p"
             }
         ],
         "epgUrl": [
@@ -1559,58 +1565,72 @@
         ]
     },
     {
-        "id": 80,
-        "name": "MTV",
+        "id": 801,
+        "name": "1- MTV HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6461/index.m3u8",
-                "region": "CA"
-            },
+                "region": "US",
+                "resolution": "1080p"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=465080",
+                "region": "US"
+            }
+        ]
+    },
+     {
+        "id": 802,
+        "name": "2- MTV HD",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/19192/index.m3u8",
-                "region": "UK"
+                "region": "UK",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
             {
                 "url": "https://epg.pw/api/epg.xml?channel_id=9618",
-                "region": "CA"
-            },
-            {
-                "url": "",
                 "region": "UK"
             }
         ]
     },
     {
-        "id": 81,
-        "name": "Showtime",
+        "id": 80,
+        "name": "Showtime HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/us-showtime-13.ctv",
-                "region": "US"
+                "url": "https://stream1.freetv.fun/showtime-13.ctv",
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
             {
-                "url": "https://epg.pw/api/epg.xml?channel_id=465332",
+                "url": "https://epg.pw/api/epg.xml?channel_id=465308",
                 "region": "US"
             }
         ]
     },
     {
-        "id": 82,
-        "name": "Showtime 2",
+        "id": 81,
+        "name": "Showtime 2 HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
                 "url": "https://stream1.freetv.fun/showtime-2-east-2.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -1621,14 +1641,15 @@
         ]
     },
     {
-        "id": 83,
-        "name": "Starz",
+        "id": 82,
+        "name": "Starz HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/250px-Starz_2022.svg.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
                 "url": "https://stream1.freetv.fun/starz-west-2.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -1639,14 +1660,15 @@
         ]
     },
     {
-        "id": 84,
+        "id": 83,
         "name": "Starz Cinema",
         "logoUrl": "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/250px-Starz_Cinema_Logo_2022.svg.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/starz-cinema-10.ctv",
-                "region": "US"
+                "url": "https://stream1.freetv.fun/starz-cinema-1.ctv",
+                "region": "US",
+                "resolution": "480p"
             }
         ],
         "epgUrl": [
@@ -1657,14 +1679,34 @@
         ]
     },
     {
+        "id": 84,
+        "name": "Sundace TV",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sundance_TV_Logo.png/250px-Sundance_TV_Logo.png",
+        "genre": "ENTERTAINMENT",
+        "streams": [
+            {
+                "url": "https://fl1.moveonjoy.com/SUNDANCE/index.m3u8",
+                "region": "US",
+                "resolution": "720p"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": :"https://epg.pw/api/epg.xml?channel_id=465138",
+                "region": "US"
+            }
+        ]
+    },
+    {
         "id": 85,
-        "name": "SYFY",
+        "name": "SYFY HD",
         "logoUrl": "https://i.imgur.com/4fMWhUE.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/syfy-6.ctv",
-                "region": "US"
+                "url": "https://fl1.moveonjoy.com/SYFY/index.m3u8",
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1676,13 +1718,14 @@
     },
     {
         "id": 86,
-        "name": "USA Network",
+        "name": "USA Network HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/1101/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -1700,7 +1743,8 @@
         "streams": [
             {
                 "url": "https://edge3-moblive.yuppcdn.net/drm/smil:nflixdrm.smil/chunklist_b996000.m3u8",
-                "region": "IN"
+                "region": "IN",
+                "resolution": "480p"
             }
         ],
         "epgUrl": [
@@ -1712,13 +1756,14 @@
     },
     {
         "id": 88,
-        "name": "B4U Movies",
+        "name": "B4U Movies HD",
         "logoUrl": "https://i.imgur.com/M9kMFJl.png",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6569/index.m3u8",
-                "region": "IN"
+                "region": "IN",
+                "resolution": "1080p"
             },
             {
                 "url": "",
@@ -1734,13 +1779,14 @@
     },
     {
         "id": 89,
-        "name": "MoviePlex",
+        "name": "MoviePlex HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/e/ee/Movieplex_logo.svg/500px-Movieplex_logo.svg.png",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30142/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -1752,13 +1798,14 @@
     },
     {
         "id": 90,
-        "name": "Cinemax Moremax",
+        "name": "Cinemax Moremax HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/c/c5/MoreMax_Logo.svg/512px-MoreMax_Logo.svg.png",
         "genre": "MOVIES",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6152/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
