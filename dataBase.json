@@ -1134,14 +1134,14 @@
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/bbc-two-1.m3u8",
+                "url": "https://viamotionhsi.netplus.ch/live/eds/bbc2/browser-HLS8/bbc2.m3u8",
                 "region": "UK",
                 "resolution": "N/A"
             }
         ],
         "epgUrl": [
             {
-                "url": "https://epg.pw/api/epg.xml?channel_id=12499",
+                "url": "https://epg.pw/api/epg.xml?channel_id=9459",
                 "region": "UK"
             }
         ]
@@ -1153,7 +1153,7 @@
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/bbc-three-1.m3u8",
+                "url": "https://vs-hls-pushb-uk-live.akamaized.net/x=4/i=urn:bbc:pips:service:bbc_three_hd/t=3840/v=pv10/b=1604032/main.m3u8",
                 "region": "UK",
                 "resolution": "N/A"
             }
@@ -1268,7 +1268,8 @@
         "streams": [
             {
                 "url": "https://dvrfl03.bozztv.com/hondu-cbsorlando/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1286,7 +1287,8 @@
         "streams": [
             {
                 "url": "https://stream1.freetv.fun/cinemax-13.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": " 480p"
             }
         ],
         "epgUrl": [
@@ -1304,7 +1306,8 @@
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6506/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "480p"
             }
         ],
         "epgUrl": [
@@ -1335,13 +1338,14 @@
     },
     {
         "id": 68,
-        "name": "E!",
+        "name": "E! HD",
         "logoUrl": "https://i.imgur.com/TWFDkap.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30060/index.m3u8",
-                "region": "CA"
+                "region": "CA",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
@@ -1353,13 +1357,14 @@
     },
     {
         "id": 69,
-        "name": "Fuse",
+        "name": "Fuse HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/c/c2/Fuse_Black_Logo_2017.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
                 "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30081/index.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
@@ -1371,13 +1376,14 @@
     },
     {
         "id": 70,
-        "name": "Freebie TV",
+        "name": "Freebie TV HD",
         "logoUrl": "https://i.imgur.com/KbmXdjm.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
                 "url": "https://d1h1d6qoy9vnra.cloudfront.net/v1/master/9d062541f2ff39b5c0f48b743c6411d25f62fc25/Freebie-Plex/187.m3u8",
-                "region": "US"
+                "region": "US",
+                "resolution": "720"
             }
         ],
         "epgUrl": [
@@ -1389,19 +1395,20 @@
     },
     {
         "id": 71,
-        "name": "FX",
+        "name": "FX HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/FX_International_logo.svg/512px-FX_International_logo.svg.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/6470/index.m3u8",
-                "region": "CA"
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30082/index.m3u8",
+                "region": "US",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
             {
-                "url": "https://epg.pw/api/epg.xml?channelchannel_id=470910",
-                "region": "CA"
+                "url": "https://epg.pw/api/epg.xml?channelchannel_id=464813",
+                "region": "US"
             }
         ]
     },
