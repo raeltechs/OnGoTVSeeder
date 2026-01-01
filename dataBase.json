@@ -1566,19 +1566,19 @@
     },
     {
         "id": 80,
-        "name": "Coming Soon",
-        "logoUrl": "",
+        "name": "Kix",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/330px-KIX_logo.svg.png",
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "",
-                "region": "US",
-                "resolution": "1080p"
+                "url": "https://stream1.freetv.fun/9377f46a9bf98114be8a5b30933e1bbc3f6cc633d9eb14bac066049e58439c5e.m3u8",
+                "region": "CN",
+                "resolution": "720p"
             }
         ],
         "epgUrl": [
             {
-                "url": "",
+                "url": "https://epg.pw/api/epg.xml?channel_id=12590",
                 "region": "US"
             }
         ]
