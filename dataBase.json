@@ -588,19 +588,19 @@
     },
     {
         "id": 29,
-        "name": "Sky Comedy HD",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/en/thumb/f/f0/Sky_Comedy_logo_2020.svg/960px-Sky_Comedy_logo_2020.svg.png?20240107041104",
+        "name": "Coming Soon",
+        "logoUrl": "",
         "genre": "CULTURE",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/sky-comedy--s-1.m3u8",
+                "url": "",
                 "region": "UK",
                 "resolution": "720p"
             }
         ],
         "epgUrl": [
             {
-                "url": "https://epg.pw/api/epg.xml?channel_id=9187",
+                "url": "",
                 "region": "UK"
             }
         ]
@@ -783,7 +783,7 @@
         "genre": "KIDS",
         "streams": [
             {
-                "url": "",
+                "url": "https://c.mjh.nz/abc-me.m3u8",
                 "region": "AU",
                 "resolution": "N/A"
             }
@@ -1564,27 +1564,8 @@
             }
         ]
     },
-    {
-        "id": 80,
-        "name": "Kix",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/330px-KIX_logo.svg.png",
-        "genre": "ENTERTAINMENT",
-        "streams": [
-            {
-                "url": "https://stream1.freetv.fun/9377f46a9bf98114be8a5b30933e1bbc3f6cc633d9eb14bac066049e58439c5e.m3u8",
-                "region": "CN",
-                "resolution": "720p"
-            }
-        ],
-        "epgUrl": [
-            {
-                "url": "https://epg.pw/api/epg.xml?channel_id=12590",
-                "region": "US"
-            }
-        ]
-    },
      {
-        "id": 81,
+        "id": 80,
         "name": "MTV HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/6/68/MTV_2021_%28brand_version%29.svg/512px-MTV_2021_%28brand_version%29.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1612,7 +1593,7 @@
         ]
     },
     {
-        "id": 82,
+        "id": 81,
         "name": "Showtime HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/22/Showtime.svg/512px-Showtime.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1631,7 +1612,7 @@
         ]
     },
     {
-        "id": 83,
+        "id": 82,
         "name": "Showtime 2 HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/6/66/Showtime_2.svg",
         "genre": "ENTERTAINMENT",
@@ -1650,7 +1631,7 @@
         ]
     },
     {
-        "id": 84,
+        "id": 83,
         "name": "Starz HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/03/Starz_2022.svg/250px-Starz_2022.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1669,7 +1650,7 @@
         ]
     },
     {
-        "id": 85,
+        "id": 84,
         "name": "Starz Cinema",
         "logoUrl": "hhttps://upload.wikimedia.org/wikipedia/commons/thumb/e/ef/Starz_Cinema_Logo_2022.svg/250px-Starz_Cinema_Logo_2022.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1688,7 +1669,7 @@
         ]
     },
     {
-        "id": 86,
+        "id": 85,
         "name": "Sundace TV",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/20/Sundance_TV_Logo.png/250px-Sundance_TV_Logo.png",
         "genre": "ENTERTAINMENT",
@@ -1707,7 +1688,7 @@
         ]
     },
     {
-        "id": 87,
+        "id": 86,
         "name": "SYFY HD",
         "logoUrl": "https://i.imgur.com/4fMWhUE.png",
         "genre": "ENTERTAINMENT",
@@ -1726,7 +1707,7 @@
         ]
     },
     {
-        "id": 88,
+        "id": 87,
         "name": "USA Network HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d7/USA_Network_logo_%282016%29.svg/512px-USA_Network_logo_%282016%29.svg.png",
         "genre": "ENTERTAINMENT",
@@ -1745,7 +1726,7 @@
         ]
     },
     {
-        "id": 89,
+        "id": 88,
         "name": "&FLIX",
         "logoUrl": "https://i.imgur.com/WOyfzjC.png",
         "genre": "MOVIES",
@@ -1764,7 +1745,7 @@
         ]
     },
     {
-        "id": 90,
+        "id": 89,
         "name": "B4U Movies HD",
         "logoUrl": "https://i.imgur.com/M9kMFJl.png",
         "genre": "MOVIES",
@@ -1783,6 +1764,25 @@
             {
                 "url": "https://epg.pw/api/epg.xml?channel_id=464104",
                 "region": "IN"
+            }
+        ]
+    },
+    {
+        "id": 90,
+        "name": "Kix",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/0/0b/KIX_logo.svg/330px-KIX_logo.svg.png",
+        "genre": "MOVIES",
+        "streams": [
+            {
+                "url": "https://stream1.freetv.fun/9377f46a9bf98114be8a5b30933e1bbc3f6cc633d9eb14bac066049e58439c5e.m3u8",
+                "region": "CN",
+                "resolution": "480p"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=12590",
+                "region": "US"
             }
         ]
     },
