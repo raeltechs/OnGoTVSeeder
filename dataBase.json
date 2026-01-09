@@ -949,14 +949,14 @@
     },
     {
         "id": 48,
-        "name": "Moonbug Kids",
+        "name": "Moonbug Kids HD",
         "logoUrl": "https://i.imgur.com/vZHtxQb.png",
         "genre": "KIDS",
         "streams": [
             {
                 "url": "https://moonbug-rokuus.amagi.tv/playlist.m3u8",
                 "region": "UK",
-                "resolution": "480p"
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
