@@ -588,19 +588,19 @@
     },
     {
         "id": 29,
-        "name": "Coming Soon",
+        "name": "Sky Comedy",
         "logoUrl": "",
-        "genre": "CULTURE",
+        "genre": "COMEDY",
         "streams": [
             {
-                "url": "",
+                "url": "http://cord-cutter.net:8080/live/cQnq6G/652882/35253.m3u8",
                 "region": "UK",
                 "resolution": "720p"
             }
         ],
         "epgUrl": [
             {
-                "url": "",
+                "url": "https://epg.pw/api/epg.xml?channel_id=9187",
                 "region": "UK"
             }
         ]
@@ -840,14 +840,14 @@
         "genre": "KIDS",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/cartoon-network--c-1.ctv",
+                "url": "http://148.113.160.48:14092",
                 "region": "US",
-                "resolution": "720p"
+                "resolution": "1080p"
             }
         ],
         "epgUrl": [
             {
-                "url": "https://epg.pw/api/epg.xml?channel_id=465267",
+                "url": "https://epg.pw/api/epg.xml?channel_id=470779",
                 "region": "US"
             }
         ]
@@ -1637,7 +1637,7 @@
         "genre": "ENTERTAINMENT",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/starz-west-2.m3u8",
+                "url": "https://fl1.moveonjoy.com/STARZ_WEST/index.m3u8",
                 "region": "US",
                 "resolution": "1080p"
             }
@@ -1983,7 +1983,7 @@
         "genre": "MOVIES",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/sky-cinema-action--s-1.m3u8",
+                "url": "http://cord-cutter.net:8080/live/cQnq6G/652882/35254.m3u8",
                 "region": "UK",
                 "resolution": "1080p"
             }
@@ -2002,7 +2002,7 @@
         "genre": "MOVIES",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/sky-movies-premiere-uk--s-1.m3u8",
+                "url": "http://safetv.vip:8080/live/8gULQeqH3I/kbuahRdUJV/10780.m3u8",
                 "region": "UK",
                 "resolution": "1080p"
             }
