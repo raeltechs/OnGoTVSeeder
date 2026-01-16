@@ -612,7 +612,7 @@
         "genre": "CULTURE",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/e3eb8642006f190c347f7647ab2bf3968ea1b1c38b5b8311c67a5aa436199a8f.m3u8",
+                "url": "https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8",
                 "region": "US",
                 "resolution": "1080p"
             }
@@ -726,7 +726,7 @@
         "genre": "DOCUMENTARY",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/us-national-geographic-1.ctv",
+                "url": "",
                 "region": "US",
                 "resolution": "720p"
             }
@@ -745,7 +745,7 @@
         "genre": "DOCUMENTARY",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/nat-geo-wild--m-2.ctv",
+                "url": "",
                 "region": "US",
                 "resolution": "720p"
             }
@@ -2472,6 +2472,25 @@
     },
     {
         "id": 127,
+        "name": "beIN Sports HD",
+        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/d/d4/BeIN_Sports_logo_%28horizontal_version%29.svg/1280px-BeIN_Sports_logo_%28horizontal_version%29.svg.png",
+        "genre": "SPORTS",
+        "streams": [
+            {
+                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30016/index.m3u8",
+                "region": "US",
+                "resolution": "720p"
+            }
+        ],
+        "epgUrl": [
+            {
+                "url": "https://epg.pw/api/epg.xml?channel_id=464754",
+                "region": "US"
+            }
+        ]
+    },
+    {
+        "id": 128,
         "name": "CBS Sports Network HD",
         "logoUrl": "https://i.imgur.com/A8CnA8g.png",
         "genre": "SPORTS",
@@ -2485,25 +2504,6 @@
         "epgUrl": [
             {
                 "url": "https://epg.pw/api/epg.xml?channel_id=403807",
-                "region": "US"
-            }
-        ]
-    },
-    {
-        "id": 128,
-        "name": "beIN Sports HD",
-        "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/thumb/2/2f/ESPN_wordmark.svg/512px-ESPN_wordmark.svg.png",
-        "genre": "SPORTS",
-        "streams": [
-            {
-                "url": "http://5732a88e.edemist.com/iptv/PPKGEKC9M5D2QBW2BBNPNM7W/30016/index.m3u8",
-                "region": "US",
-                "resolution": "720p"
-            }
-        ],
-        "epgUrl": [
-            {
-                "url": "https://epg.pw/api/epg.xml?channel_id=464754",
                 "region": "US"
             }
         ]
