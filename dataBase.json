@@ -44,8 +44,8 @@
         "genre": "FAMILY",
         "streams": [
             {
-                "url": "https://bcovlive-a.akamaihd.net/r602a47f47fee47bb83239eb1b1e1ac83/us-east-1/734546207001/playlist.m3u8",
-                "region": "US",
+                "url": "https://fastly.live.brightcove.com/6380399588112/us-east-1/734546207001/eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJob3N0IjoiczFpM3ZpLmVncmVzcy50N2M3emwiLCJhY2NvdW50X2lkIjoiNzM0NTQ2MjA3MDAxIiwiZWhuIjoiZmFzdGx5LmxpdmUuYnJpZ2h0Y292ZS5jb20iLCJpc3MiOiJibGl2ZS1wbGF5YmFjay1zb3VyY2UtYXBpIiwic3ViIjoicGF0aG1hcHRva2VuIiwiYXVkIjpbIjczNDU0NjIwNzAwMSJdLCJqdGkiOiI2MzgwMzk5NTg4MTEyIn0.LYfIeObmX4AEStY_xCnPZwMJHXgOAPFMTKfztq-9F8U/playlist-hls.m3u8",
+                "region": "UK",
                 "resolution": "N/A"
             }
         ],
@@ -248,12 +248,12 @@
     },
     {
         "id": 13,
-        "name": "iFood TV",
-        "logoUrl": "https://i.imgur.com/cBOkQtS.png",
+        "name": "Hungry",
+        "logoUrl": "https://i.imgur.com/MIUDYh0.png",
         "genre": "FOOD",
         "streams": [
             {
-                "url": "https://ifood-vizio.amagi.tv/playlist.m3u8",
+                "url": "https://dos35knl8v49a.cloudfront.net/v1/food/samsungheadend_us/latest/main/hls/playlist.m3u8",
                 "region": "US",
                 "resolution": "480p"
             }
@@ -455,7 +455,7 @@
     },
     {
         "id": 22,
-        "name": "Motor TV HD",
+        "name": "Canal Motor TV HD",
         "logoUrl": "https://i.imgur.com/nCAt3QN.png",
         "genre": "AUTO",
         "streams": [
@@ -517,7 +517,7 @@
         "genre": "AUTO",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/motor-trend-2.m3u8",
+                "url": "http://104.255.88.155/motortrend/index.m3u8",
                 "region": "US",
                 "resolution": "1080p"
             }
@@ -574,7 +574,7 @@
         "genre": "COMEDY",
         "streams": [
             {
-                "url": "https://livetv-fa.tubi.video/lol-network3/playlist.m3u8",
+                "url": "https://d1kt53vrikzr5o.cloudfront.net/v1/lol_lolnetwork_5/samsungheadend_us/latest/main/hls/playlist.m3u8",
                 "region": "US",
                 "resolution": "1080p"
             }
@@ -593,7 +593,7 @@
         "genre": "COMEDY",
         "streams": [
             {
-                "url": "http://cord-cutter.net:8080/live/cQnq6G/652882/35253.m3u8",
+                "url": "",
                 "region": "UK",
                 "resolution": "720p"
             }
@@ -612,7 +612,7 @@
         "genre": "CULTURE",
         "streams": [
             {
-                "url": "https://d3tlzddkbbpp5n.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/cc-9uzjfw11uj9nn/LiveNOW_from_FOX.m3u8",
+                "url": "",
                 "region": "US",
                 "resolution": "1080p"
             }
@@ -802,7 +802,7 @@
         "genre": "KIDS",
         "streams": [
             {
-                "url": "https://streams2.sofast.tv/v1/master/611d79b11b77e2f571934fd80ca1413453772ac7/c8d16110-566c-4e95-a1df-55d175e9e201/manifest.m3u8",
+                "url": "",
                 "region": "US",
                 "resolution": "480p"
             }
@@ -821,7 +821,7 @@
         "genre": "KIDS",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/uk-boomerang-1.ctv",
+                "url": "",
                 "region": "US",
                 "resolution": "720p"
             }
@@ -840,7 +840,7 @@
         "genre": "KIDS",
         "streams": [
             {
-                "url": "http://148.113.160.48:14092",
+                "url": "http://23.237.104.106:8080/USA_CARTOON_NETWORK/index.m3u8",
                 "region": "US",
                 "resolution": "1080p"
             }
@@ -854,12 +854,12 @@
     },
     {
         "id": 43,
-        "name": "Disnep Channel HD",
+        "name": "Disney Channel HD",
         "logoUrl": "https://upload.wikimedia.org/wikipedia/commons/3/3d/2022_Disney_Channel_logo.svg",
         "genre": "KIDS",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/disney-channel-11.ctv",
+                "url": "",
                 "region": "US",
                 "resolution": "720p"
             }
@@ -878,7 +878,7 @@
         "genre": "KIDS",
         "streams": [
             {
-                "url": "https://stream1.freetv.fun/disney-junior-24.ctv",
+                "url": "http://23.237.104.106:8080/USA_DISNEY_JUNIOR/tracks-v1a1/mono.m3u8",
                 "region": "US",
                 "resolution": "720p"
             }
